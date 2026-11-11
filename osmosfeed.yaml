@@ -23,3 +23,21 @@ sources:
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
     group: 默认
+  
+  # 海外科技
+  - href: https://news.ycombinator.com/rss
+    group: 海外科技
+  - href: https://rsshub.app/techcrunch
+    group: 海外科技
+  - href: https://rsshub.app/theverge
+    group: 海外科技
+  - href: https://www.reddit.com/r/programming.rss
+    group: 开发
+  - href: https://github.com/trending/rss
+    group: GitHub趋势
+
+  # 半导体电子
+  - href: https://rsshub.app/eet-china/home
+    group: 半导体电子
+  - href: https://rsshub.app/electronicsweekly
+    group: 半导体电子
