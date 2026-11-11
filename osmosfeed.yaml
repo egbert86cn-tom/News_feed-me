@@ -1,5 +1,5 @@
 # 【重点修改这里】<username> 换成你的github名，<repo> 换成仓库名字
-cacheUrl: https://<egbert86cn-tom>.github.io/<News_feed-me>/cache.json
+# cacheUrl: https://<egbert86cn-tom>.github.io/<News_feed-me>/cache.json
 concurrency: 6
 timeoutMs: 15000
 userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
