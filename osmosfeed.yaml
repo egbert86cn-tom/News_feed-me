@@ -17,24 +17,6 @@ sources:
   - href: https://rsshub.app/quantumbit
     group: AI
 
-  # 海外科技
-  - href: https://news.ycombinator.com/rss
-    group: 海外科技
-  - href: https://rsshub.app/techcrunch
-    group: 海外科技
-  - href: https://rsshub.app/theverge
-    group: 海外科技
-  - href: https://www.reddit.com/r/programming.rss
-    group: 开发
-  - href: https://github.com/trending/rss
-    group: GitHub趋势
-
-  # 半导体电子
-  - href: https://rsshub.app/eet-china/home
-    group: 半导体电子
-  - href: https://rsshub.app/electronicsweekly
-    group: 半导体电子
-
   # 默认
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
