@@ -1,10 +1,40 @@
-#########################
-# Full reference
-# https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
-#########################
+# 【重点修改这里】<username> 换成你的github名，<repo> 换成仓库名字
+cacheUrl: https://<egbert86cn-tom>.github.io/<News_feed-me>/cache.json
+concurrency: 6
+timeoutMs: 15000
+userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
 sources:
+  # === 国内科技商业 ===
+  - href: https://rsshub.app/36kr/news/latest
+    group: 国内科技
+  - href: https://rsshub.app/huxiu/article
+    group: 国内科技
+  - href: https://rsshub.app/infoq/recommend
+    group: 国内科技
+  - href: https://rsshub.app/kejilie/tech
+    group: 国内科技
+  - href: https://rsshub.app/quantumbit
+    group: AI
+
+  # === 海外科技、硬核资讯 ===
+  - href: https://news.ycombinator.com/rss
+    group: 海外科技
+  - href: https://rsshub.app/techcrunch
+    group: 海外科技
+  - href: https://rsshub.app/theverge
+    group: 海外科技
+  - href: https://www.reddit.com/r/programming.rss
+    group: 开发
+  - href: https://github.com/trending/rss
+    group: GitHub趋势
+
+  # === 半导体/硬件（贴合你之前看的行业）===
+  - href: https://rsshub.app/eet-china/home
+    group: 半导体电子
+  - href: https://rsshub.app/electronicsweekly
+    group: 半导体电子
+  # === 默认 ===
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
