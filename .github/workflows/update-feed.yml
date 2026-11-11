@@ -14,11 +14,11 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v18
         with:
           node-version: 18
       - name: Install dependencies
-        run: npm install -D @tianheg/osmosfeed
+        run: npm install -D @tianheg/osmosfeed@1.18.1
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages
