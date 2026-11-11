@@ -6,9 +6,9 @@ userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 sources:
   # 国内科技
-  - href: https://rsshub.app/huxiu/article?v=3.6
+  - href: https://rsshub.rssforever.com/huxiu/article
     group: 国内科技
-  - href: https://rsshub.app/infoq/recommend?v=3.6
+  - href: https://rsshub.rssforever.com/infoq/recommend
     group: 国内科技
 
   # 默认
@@ -21,9 +21,9 @@ sources:
   # 海外科技
   - href: https://news.ycombinator.com/rss
     group: 海外科技
-  - href: https://rsshub.app/techcrunch?v=3.6
+  - href: https://rsshub.rssforever.com/techcrunch
     group: 海外科技
-  - href: https://rsshub.app/theverge?v=3.6
+  - href: https://rsshub.rssforever.com/theverge
     group: 海外科技
   - href: https://www.reddit.com/r/programming.rss
     group: 开发
@@ -31,7 +31,7 @@ sources:
     group: GitHub趋势
 
   # 半导体电子
-  - href: https://rsshub.app/eet-china/home?v=3.6
+  - href: https://rsshub.rssforever.com/eet-china/home
     group: 半导体电子
-  - href: https://rsshub.app/electronicsweekly?v=3.6
+  - href: https://rsshub.rssforever.com/electronicsweekly
     group: 半导体电子
