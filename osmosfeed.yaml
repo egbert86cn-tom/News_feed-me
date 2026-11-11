@@ -6,15 +6,15 @@ userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 
 sources:
   # 国内科技
-  - href: https://rsshub.app/36kr/news/latest
+  - href: https://rsshub.app/36kr/news/latest?v=3.6
     group: 国内科技
-  - href: https://rsshub.app/huxiu/article
+  - href: https://rsshub.app/huxiu/article?v=3.6
     group: 国内科技
-  - href: https://rsshub.app/infoq/recommend
+  - href: https://rsshub.app/infoq/recommend?v=3.6
     group: 国内科技
-  - href: https://rsshub.app/kejilie/tech
+  - href: https://rsshub.app/kejilie/tech?v=3.6
     group: 国内科技
-  - href: https://rsshub.app/quantumbit
+  - href: https://rsshub.app/quantumbit?v=3.6
     group: AI
 
   # 默认
@@ -27,9 +27,9 @@ sources:
   # 海外科技
   - href: https://news.ycombinator.com/rss
     group: 海外科技
-  - href: https://rsshub.app/techcrunch
+  - href: https://rsshub.app/techcrunch?v=3.6
     group: 海外科技
-  - href: https://rsshub.app/theverge
+  - href: https://rsshub.app/theverge?v=3.6
     group: 海外科技
   - href: https://www.reddit.com/r/programming.rss
     group: 开发
@@ -37,7 +37,7 @@ sources:
     group: GitHub趋势
 
   # 半导体电子
-  - href: https://rsshub.app/eet-china/home
+  - href: https://rsshub.app/eet-china/home?v=3.6
     group: 半导体电子
-  - href: https://rsshub.app/electronicsweekly
+  - href: https://rsshub.app/electronicsweekly?v=3.6
     group: 半导体电子
