@@ -22,11 +22,495 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-11-17 datetime="2026-11-17T05:24:12.000Z">2026-11-17</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-11-17 datetime="2026-11-17T05:24:12.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-11-17 datetime="2026-11-17T07:09:45.000Z">2026-11-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-11-17 datetime="2026-11-17T07:09:45.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >InfoQ 推荐</button>
+                  <a class="source-heading__link" href="https://www.infoq.cn">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI"
+                        open
+                      >
+                        <summary class="article-expander__title">“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/b8/14/b8ef952yy13cddf4c9f2222eb769e314.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>“所有 AI 生成的代码都应该开源。”
+
+11月15日，开源开发者 Jakub T. Jankiewicz 公开呼吁将 AI 生成的代码全部开源，或者直接放入公共领域。他认为，AI 模型从开源社区几十年积累的代码和技术知识中受益，企业却可以利用这些模型生成闭源软件，将原本属于社区的集体成果转化为自己的商业资产。这种做法，在他看来已经有了“许可证洗白”（license laundering）的嫌疑。
+
+这个观点迅速引爆了社区讨论。有人赞同，认为 AI 公司依靠开源代码发展壮大，如今应该让生成的代码重新回馈社区；也有人直接反驳：自己花几个月设计、调试的软件，难道因为使用了 Claude Code，就必须把全部源代码免费公开？
+
+实际上，靠编程能力冲上AI顶流的Anthropic 自己也在招股书中承认，使用 Claude Code 等工具生成的代码可能包含或复现开源软件，从而触发许可证义务，严重时甚至需要公开部分专有源代码。与此同时，Anthropic 的商业条款又明确向客户转让其拥有的模型输出相关权利。
+
+而 Jankiewicz 的主张，恰恰触及了这套商业模式中的另一端：如果 AI 模型的能力部分建立在开源社区长期积累的成果上，那么企业利用它生成的代码，究竟能在多大程度上成为自己的专有资产？
+
+部分开源开发者主张让 AI 生成的代码回归公共生态，Anthropic 等商业 AI 公司则需要让企业客户能够继续将生成代码用于专有软件开发。双方没有直接发生冲突，但代码归属、开源许可与商业利益之间的冲突，已经成为开发者社区公开争论的话题。
+
+
+开源代码喂大了编程模型，生成的代码却在闭源赚钱
+
+
+Jakub T. Jankiewicz 长期参与开源开发，是 JavaScript 项目 jQuery Terminal 的作者，也参与维护过 isomorphic-git。他对于开源与商业软…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9"
+                        open
+                      >
+                        <summary class="article-expander__title">Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/40/b3/40cd121684a05763b3de7dd1fc0650b3.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>“POC非常成功，领导都非常高兴，说我们就去干吧。可真正做起来，效果完全不一样，数据不准确，其他问题也都出来了。”蔡彦斌在谈及企业部署AI Agent的实际情况时直言。
+
+企业的业务系统往往经过多年建设，数据分散在不同平台，系统之间存在复杂的依赖关系，业务规则也并不总是一致。AI Agent接入这些系统后，如何理解业务上下文、协调不同系统，以及应对生产环境中的异常情况？这些问题决定了Agent能否真正承担业务任务。
+
+在日前落幕的SAP TechEd 2026上，AI Agent进入企业核心业务流程成为重要议题。但从技术演示到真正投入生产，仍有不少工程问题需要解决。
+
+围绕这些问题，InfoQ专访了SAP全球高级副总裁、SAP全球研发网络总裁柯曼博士（Prof. Dr. Clas Neumann），以及SAP中国研究院院长、SAP全球副总裁、HCM产品全球化研发负责人蔡彦斌博士。
+ 
+模型能够理解行业知识，却未必知道一家企业究竟如何经营。蔡彦斌举了一个例子：他的一位朋友经营着一家自行车贴牌加工厂，曾让两个Agent制定未来几个月的产品定价策略。模型给出的分析看起来相当完整，却无法直接使用，因为它不了解具体产品，也不清楚企业的客户情况。
+ 
+在小范围测试中，企业可以为模型准备数据、设定明确任务。但进入生产环境后，Agent需要面对分散在不同系统中的业务数据、长期积累的管理规则，以及大量无法提前穷举的实际情况。
+ 
+柯曼认为，企业AI的目标应该是能够根据业务意图自主采取行动。例如，一家供应商的关键零部件延迟交付，系统不仅要及时识别风险，还要判断对生产和供应链的影响，并采取相应的补救措施。
+ 
+在这一思路下，SAP提出了“自主运营企业”（Autonomous Enterprise）愿景，希望让AI从辅助工具逐渐进入企业核心业务，承担更多流程编排和执行工作。
+ 
+不过，对于已经运行…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR"
+                        open
+                      >
+                        <summary class="article-expander__title">Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/7e/6f/7e87f7eaebf22f7658d739ac2a192d6f.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Leapwork 于 2026 年 9 月 30 日正式向管理 Playwright 测试套件的团队开放了 Play 服务。该服务为标准 Playwright 代码增加了需求可追溯性和审批工作流。团队可以在现有的持续集成（CI）管道中运行这些代码，也可以通过 Leapwork 的托管执行服务运行。
+
+Leapwork 在公告&quot;中表示，Play 可以原样导入现有的 Playwright 测试套件。工程师可以连接 Jira 和 Git 仓库以及产品文档，构建知识库，为生成的测试提供上下文信息。他们还可以录制浏览器操作流程，并将录屏内容转换为测试用例。
+
+Leapwork 表示，Play 会监控已连接的代码仓库，检测可能改变应用程序行为或界面的推送操作，随后推荐相应的测试更新。此外，其产品页面&quot;还介绍了一项“自愈”功能。该功能可以在测试步骤出现故障时进行修复，而非直接让测试运行失败。不过现有的公开资料并未说明，团队是否可以设置强制审批流程，要求定位器修复操作必须经过人工确认才能生效，也未说明此类修复如何记录在审计日志中。
+
+对于需要审查测试变更的团队，Play 会将每个测试与源头的需求、工单或文档建立关联。Leapwork 表示，该服务会保留测试编写历史和审批记录，以及完整的执行日志。团队可以将其导出作为证据。该服务还会报告不稳定的测试以及跨应用程序或团队的测试覆盖率。
+
+基于角色的权限和审批工作流可以控制谁可以创建和运行测试。Leapwork 的企业版套餐包含完整的治理、安全和审计功能，但该公告并未明确说明免费套餐中具体提供了哪些控制功能。
+
+Leapwork 开发者关系副总裁 Donovan Brady 在公告中描述了这一管理难题：“目前，阻碍企业团队效率的因素主要是追溯测试来源，以及在测试生成后管理数十个团队中成千上万个测试用例。”
+
+团队还可以通过基于 Model Context Protocol（MCP）服务器的 AI 编码助手来运行 Play。根据 Leapwork 产品页面的介绍，可以将 Claude Code、Codex 和 Cursor 作为客户端，而其托管执行是基于 Chromium 的。Leapwork 表示，其托管服务可以并行运行测试套件，包括环境和测试数据管理。
+
+开源的 Playwright 已通过 Trace Viewer&quot; 提供了故障诊断功能，包括操作详情、网络请求和屏幕截图。这些功能有助于工程师排查单次运行的问题；而 Play 的优势在于能够跨团队集中管理测试溯源和审批流程。
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/leapwork-play-playwright/&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B"
+                        open
+                      >
+                        <summary class="article-expander__title">Google Cloud API Gateway 推出面向实时 AI 应用的流式处理</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/d9/04/d9dcc18e12f8b4802fc0e7de9a6a3a04.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>谷歌宣布公开预览 API Gateway 流式处理功能&quot;，将传统的请求-响应模型扩展至需要实时通信的应用程序。据谷歌称，这对于提供流式模型响应、多步骤代理工作流和交互式会话的 AI 应用尤为重要。
+
+这项新功能使流式端点能够在 API Gateway 背后运行，同时保留了现有的网关策略和安全控制措施，从而解决了之前存在的一项限制：
+
+迄今为止，在 API Gateway 中构建这类体验的开发人员都不得不做出一个两难的选择：要么将 API Gateway 部署在 API 前端并放弃流式传输，要么让流式传输端点绕过网关，从而放弃身份验证、API 密钥强制执行以及可观测性——而正是这些特性，才使得网关从一开始就变得不可或缺。
+
+
+API Gateway 支持多种流式传输模式，包括服务器发送事件（SSE）、分块传输编码和 HTTP 响应流式传输、WebSockets 以及 gRPC。流式连接最多可以保持打开状态一小时，此后如果需要继续通信，客户端就必须建立新的连接。
+
+新版本引入了流式传输支持，而且无需更改现有的 API 规范，也无需使用特定的 API、扩展或注解。谷歌强调，所有现有的 API 配置和功能都将照常运行，包括 API 密钥强制执行、JWT 验证、后端服务账户身份验证、Cloud Logging 和 Cloud Monitoring 集成，以及路径模板和请求路由。
+
+这个新版本的另外一项优势是引入了可预测的网关主机名。此前，网关主机名包含一个生成的哈希值，而且只能在网关创建之后才能确定。现在，它们遵循一种确定性的格式：GATEWAY_ID-PROJECT_NUMBER.REGION.gateway.dev，这使得开发人员能够在创建资源之前就对其进行引用和配置。
+
+谷歌强调了流式传输对 AI 应用的重要性。在这些应用中，模型响应是逐步生成的，而非以单个完整的响应返回。借助这一新功能，开发者将能够实时地流式传输模型响应，在多步骤任务中更新代理进度，支持工具调用协议和与远程 MCP 服务器的连接，并处理交互式 AI 应用。
+
+API Gateway 还支持模型路由功能&quot;，提供一个兼容 OpenAI 的单一端点，可以根据请求负载中的模型字段，将请求路由至 Gemini、Claude 或 OpenAI gpt-oss 模型。
+
+模型路由与流式传输相结合，意味着客户端可以获得一个熟悉的、基于标准的流式传输接口，同时你仍然可以集中控制哪些模型可供访问、由谁访问以及遵循何种策略。
+
+
+针对谷歌的这份公告，X 平台用户 emildrops 指出了两个重要的局限性&quot;。首先，“现有网关无法就地切换”；其次，“延迟衡量的是整个数据流，而非首字节到达时间……因此，延迟图表可能会因非故障原因而显得异常”。同样，LinkedIn 用户 Ehsan Elahi Zaheer 也指出&quot;：
+
+监控也需要谨慎：网关请求延迟指标衡量的是数据流持续时间，而非“首字节到达时间”。一张延迟图表可能掩盖了截然不同的用户体验。
+
+
+在预览期间，开发者必须在创建网关时通过指定 --enable-streaming 命令行标志显式地启用这项新功能。
+
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss"
+                        open
+                      >
+                        <summary class="article-expander__title">Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/31/23/31b75f973e056f9d88c2381905d0e723.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>LocalStack 公开预览其 Azure 模拟器。该服务免费且支持自助使用，预计将于 2027 年初正式发布。其官方文档坦率地指出了模拟资源与模拟资源行为之间的差距。
+
+该产品可以在开发者机器上运行 Azure 服务，并支持直接使用现有的 ARM 和 Bicep 模板、Terraform 模块、Pulumi 程序以及 Azure CLI 脚本，无需任何重写。其卖点在于测试应用程序，正如 LocalStack 所言&quot;，“无需等待开发者订阅，也无需为每次迭代付费”。服务列表&quot;覆盖范围很广，比公告本身所暗示的更广，涵盖 AKS、Container Apps、Functions、App Service、Cosmos DB、Service Bus、Event Hubs、Key Vault、App Configuration、Managed Identity、API Management 等。每位开发者都将获得一个隔离的沙箱环境，LocalStack 对自身的定位是开发和测试工具，而非 Azure 的替代品。
+
+该项目由 Paolo Salvatori 负责。在加入 LocalStack 之前，他曾在微软担任首席工程师长达 28 年。同时，他也是 Service Bus Explorer 的创建者。他用一句话概括了保真度协议&quot;：
+
+如果你的解决方案在 Azure 上运行完美，但在我们的模拟器上却失败了，那便是我们需要修复的 Bug。
+
+
+该文档&quot;涵盖了 24 个资源提供程序，并报告了每个 API 的实现程度。Storage Accounts&quot; 实现了 81 项操作中的 13 项。App Service&quot; 实现了 616 项操作中的 143 项。Virtual Network&quot; 实现了 29 项操作中的 10 项。
+
+更有参考价值的模式是已实现的操作会发生什么。通常，配置信息会被接受…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj"
+                        open
+                      >
+                        <summary class="article-expander__title">Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/9a/6f/9ab7ccef41760ebc0000750b2c32886f.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Spring Boot
+
+Spring Boot&quot; 4.2.0 的首个候选版本&quot;（RC）带来了 Bug 修复、文档改进、依赖项升级以及以下新功能：迁移至 Ubuntu Resolute 构建器&quot;以取代 Noble Java Tiny 构建器&quot;；通过直接查找嵌套 JAR 文件中的类和资源来提升 Uber-Jar 的性能。要了解有关该版本的更多详细信息，请参阅发布说明&quot;和该维基页面&quot;。
+
+Spring Framework
+
+Spring Framework&quot; 7.1.0 的首个候选版本（RC）带来了 Bug 修复、依赖项升级以及以下新功能：改进了 DataAccessUtils&quot; 和 LinkedCaseInsensitiveMap&quot; 类中的空值处理；在 RetryListener&quot; 接口中定义了新的重载方法 onRetrySuccess() 和 onRetryFailure()，在参数列表中添加了 一个 RetryState&quot; 类的实例，以便监听器在失败时能够直接访问重试状态。要了解有关该版本的更多详细信息（包括移除已弃用的 API），请参阅发布说明&quot;。
+
+Spring Data
+
+Spring Data&quot; 2026.1.0 的首个候选版本&quot;（RC1）带来了 Bug 修复、依赖项升级、所有子项目的 RC1 更新，以及 Spring Data Redis&quot; 中一项值得注意的新功能：如果某个 Bean 实现了 SubscriptionListener&quot; 接口，那么该功能现在会转发与带注解的监听器方法相关的订阅通知。
+
+Spring Cloud
+
+Spring Cloud&quot; 2026.0.0（代号为 Paddington）的首个候选版本&quot;（RC1）带来了依赖项升级、所有子项目的 RC1 更新，以及一项值得注意的变更：Spring Cloud Bus&quot; 不再作为独立的项目存在，而是已…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH"
+                        open
+                      >
+                        <summary class="article-expander__title">Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/ba/2e/ba5110afcd2d4ed84f320535f7ece62e.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>由 VoidZero 维护的 Vite 原生测试框架 Vitest 发布了 Vitest 5.0 版本&quot;。这次重大版本更新将运行速度置于功能扩展之上，同时悄然优化了若干长期使用的默认设置。
+
+通过一套专门设计的基准测试套件&quot;（测试范围涵盖从只有五个文件的实用程序包到拥有 1280 个模块的单体应用），团队报告称，在大多数配置下，性能提升了约 8% 至 25%，而在虚拟机池场景中，提升幅度高达 53%。对于这个版本，VoidZero 在 X 上总结说&quot;：“虚拟机池速度提升高达 53%，包括浏览器模式在内的整体性能提升约 18%”。这些改进源于共享单个 Vite 服务器的内联项目、已达稳定状态的磁盘 fsModuleCache、主进程与工作进程之间往返次数的减少，以及可复用编译代码的虚拟机池。新增的 vitest doctor 命令可以在不同配置下重新运行测试套件，并推荐更快的选项。
+
+浏览器模式还新增了内置的“跟踪视图&quot;（Trace View）”，可以将每次交互和断言记录为 DOM 快照进行逐步回放；而新的 vi.when&quot; API 允许单个监听器针对每个参数返回不同的值。
+
+clearMocks 现在默认值为 true，未添加 await 的异步断言会直接失败而非发出警告，被提升的 vi.mock 调用（置于顶层作用域之外）现在会直接抛出错误，同时 toThrow(&#x27;&#x27;) 现在会匹配任意错误。正如独立分析站点 OpenReplay 所指出的那样&quot;，这些更改中的大多数只是“消除了原本就错误的测试代码”，但真正危险的是那些在 Vitest 4 上通过本地测试，却在 CI 中“显示为红色并报出不明原因错误”的测试套件。通常，这类问题是出现在依赖于测试之间 mock 历史泄漏的调用计数断言上。
+
+Vitest 5 需要 Vite 6.4 和 Node.js 22.12&quot; 或更高版本；Yarn 用户现在必须自行安装 Vite，因为它已成为一个对等依赖项。迁移指南&quot;和 5.0.0 版本变更日志&quot;详细记录了每一项更改；报告输出、附件和 blob 报告现在均位于 .vitest/ 目录下，因此需要更新 CI 构建产物的路径。生态系统的适配工作尚在进行当中：Cloudflare 的 vitest-pool-workers 问题报告&quot;指出，其对等依赖范围被固定在 v4 版本，这意味着任何拉取新版本的项目都会“在运行任何测试之前失败”。
+
+在近期与 Jest 的直接对比&quot;中，Vitest 在性能和未来兼容性方面表现更佳，但在生态系统和社区方面稍逊一筹，这反映出 Jest 拥有远更大的用户基数以及对 React Native 的原生支持。对于正在考虑如何选的开发者，建议依然不变：在 Vite、Nuxt 或全新项目中选用 Vitest；已投入使用的大型 Jest 测试套件保持不变；让两者在单体库中并存。
+
+Vitest 是一款由 VoidZero 基于 Vite 开发的开源测试运行器。该公司由 Vite 创建者 Evan You 创立，现在已加入 Cloudflare。它复用项目现有的 Vite 配置来运行单元测试、组件测试和浏览器测试，并原生支持 ESM 和 TypeScript，目前拥有超过 790 名贡献者。
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/vite-5-release/&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF"
+                        open
+                      >
+                        <summary class="article-expander__title">File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/40/be/406111352b24287137d5e4f279039abe.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>最近，亚马逊云科技发布了 File Mover Express&quot;，这是一款基于 Apache 2.0 许可的开源应用程序，用于在本地系统与 Amazon S3 之间传输大文件。该工具支持 macOS、Windows 和 Linux 系统，具备并行传输、自动性能调优、重试、暂停和恢复以及文件完整性验证等功能。
+
+File Mover Express&quot; 旨在“以线速将媒体文件传输到 S3”，支持自动调优的并行传输、暂停和恢复、桌面图形界面、可编写脚本的命令行界面，以及从受监控文件夹的自动上传。
+
+该项目主要采用 Go 语言开发传输引擎，并使用 TypeScript 结合 Angular 开发图形界面。它还支持通过 MCP 与 AI 助手集成，以及基于 OIDC 的身份提供商身份验证。亚马逊云科技高级解决方案架构师 Provanshu Dey&quot;、高级软件工程师 Asbjorn Kjaer&quot;、解决方案架构师 Matthew Muccio&quot; 以及高级客户解决方案经理 Ross Dickson&quot; 解释道：
+
+File Mover Express 的核心是一个基于守护进程的传输引擎，它将传输操作与桌面会话解耦。该守护进程可以在你选择的任何机器上运行，无论是工作站、数据中心服务器，还是 Amazon Elastic Compute Cloud (Amazon EC2) 实例。而且，你可以通过加密且受密码保护的连接，从拖放式图形用户界面 (GUI) 或可编写脚本的命令行界面（CLI）对其进行控制。
+
+
+媒体团队经常在本地存储和云之间传输数太字节的资源。通常，这些传输面临着紧迫的截止期限，而且相关流程必须在发起传输的用户或设备断开连接后仍然能继续进行。传统的传输客户端可能会在桌面会话结束时停止运行，而商业替代方案则可能带来许可费用、专有协议或第三方基础设施的问题。File Mover Express 支持上传和下载，使团队能够将大文件传输到 Amazon S3，并将其检索回来进行编辑、审核或恢复。
+
+
+
+图片来源：GitHub 项目
+
+File Mover Express 将大文件分割为多个数据块，并利用多部分上传技术进行并行上传。在自动调优模式下，它会根据可用连接情况动态调整并行流的数量和数据块大小，以优化吞吐量。传输过程还支持可配置的重试机制，以及文件级的暂停和恢复功能。Dey、Kjaer、Muccio 和 Dickson 补充道：
+
+File Mover Express 提供了多种安全功能，包括传输中的文件加密、静止状态下的文件加密以及控制平面加密。所有传输均采用 HTTPS 协议，对 S3 存储桶的访问由 AWS 身份与访问管理（IAM）进行管控，并遵循已记录的最小权限策略……对于采用集中式身份管理的团队，File Mover Express 支持通过 OpenID Connect（OIDC）实现单点登录。
+
+
+File Mover Express 会在后台计算校验和，并将它们缓存到本地，以便在文件没有变化时重复使用。它支持 MD5、XXHash、XXHash64 和 XXH3，可以在兼容性和哈希性能之间进行选择。对于传输到远端存储桶的情况，用户可以启用 S3 传输加速，而带宽限制则有助于控制网络使用量。在 LinkedIn 上，Dickson 写道&quot;：
+
+将大型媒体文件迁移到云端不应该成为你一天中最耗时的环节。正因如此，我们亚马逊云科技团队中的一群人开发了 File Mover Express……对于媒体行业中需要传输摄像机存储卡、日常素材或交付成果的任何人来说，它可以解决这些常见的痛点。
+
+
+该项目的源代码&quot;已经在 GitHub 上开源，并且同时提供了适用于 macOS、Windows 和 Linux 的预编译包。
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/aws-s3-file-transfer/&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ"
+                        open
+                      >
+                        <summary class="article-expander__title">openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>过去一年，Agent几乎成为AI产业最热门的关键词。从Agent框架到Agent OS，再到Agentic Infra，越来越多的软件厂商开始重新定义自己的产品。原本距离普通用户相当遥远的操作系统，也被推到了AI基础设施变革的前台。
+ 
+但在OpenAtom openEuler委员会主席熊伟看来，有必要先厘清一个问题：Agent的兴起，并不意味着传统操作系统需要推倒重来。
+ 
+
+图：开放原子开源欧拉委员会主席熊伟发表主题演讲
+ 
+“操作系统本层并没有发生翻天覆地的变化，或者没有需要完全断裂式的发展。”
+ 
+11月13日，北京中关村国际创新中心，熊伟在Agentic Infra操作系统大会期间接受InfoQ等媒体群访时，给出了这一判断。
+ 
+就在当天，openEuler正式发布面向Agentic Infra的操作系统，并公布openEuler 24.03 LTS SP5版本，围绕沙箱、KV Cache、记忆系统和Agent安全等方向增强基础设施能力。这也是openEuler继2025年推动超节点操作系统之后，再次将技术演进方向与AI基础设施的变化紧密结合。
+ 
+作为一个已经发展七年的开源操作系统社区，openEuler系操作系统国内累计装机量预计突破2200万套。根据沙利文预测，其2026年在中国服务器操作系统新增市场份额有望达到61%。目前，社区已经汇聚2200多家成员单位、超过3万名开源贡献者。
+ 
+这些数字背后，一个更加值得关注的问题是：当大模型从生成答案走向执行任务，操作系统究竟应该扮演什么角色？
+
+Agent OS很热，但操作系统不需要推倒重来
+
+
+如今，几乎所有与AI有关的软件层都在重新寻找自己的定位。
+ 
+模型公司希望让大模型具备更强的工具调用能力，Agent框架希望接管复杂任务的编排与执行，云厂商开始构建Agent运行平台，而操作系统社区也在探索Agentic…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;14
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc"
+                        open
+                      >
+                        <summary class="article-expander__title">从 SDLC 到 ADLC：宝洁的 AI 原生组织实验</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/e4/32/e4b6b9ec1b47889146585beae8105f32.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Agent 能把几个环节连着做完之后，企业要重答三个问题：流程怎么走，团队怎么分工，哪些判断还得留给人。
+
+在今天的宝洁中国， AI 已经贯穿整个业务链条：从消费者研究、产品研发、品牌营销、供应链、到客服等等，每个环节都有 AI 的触角。
+一家穿越周期有着百年历史的消费品企业如此拥抱AI，比仅仅谈论上线了多少个 AI 工具更值得我们思考。在极客时间 9 周年「AI 落地见真章」访谈中，宝洁大中华区 CTO 童熙谈到了研发团队正在做的一项探索：他们尝试让 Agent 串联从业务需求到开发、测试、发布和运维的更多环节。这就是他在访谈里提到的 ADLC。
+
+生成代码快了多少，说明的只是其中一步。从需求进团队到结果能用，中间还有多少等待和返工，才是流程重构要算的那笔账。
+
+一、中间几步快了，整条流程还在等谁
+
+
+SDLC（软件开发生命周期） 这套流程，做开发的人都熟：需求提出、开发编码、测试验证、发布上线、运维监控，中间还夹着提单、代码评审、上线工单、发布检查。每个环节一个角色，交接一次。
+它跑了几十年，前提是每个环节都要有人来做决策、做执行，流程是按人的协作方式设计的。Agent 出来之后，这个前提松动了。
+童熙说，当我们把开发工作交给智能体、交给数字员工去做的时候，会发现它不再按角色分配任务，甚至有好几个环节都不需要存在了。
+童熙举了个假设。一项工作有七步，即使 Agent 能顺畅完成第二到第五步，第一步和第六步仍可能卡在人工交接上。
+哪些交接可以简化，哪些检查要明确责任人，是流程重构里最需要判断的地方。
+ADLC（Agent 驱动的开发生命周期） 要回答的就是这个：越来越多环节由 Agent 参与之后，整个生命周期怎么重新设计。这件事没法靠给每个环节配一个 AI 助手解决，流程图得重画。
+原有的流程是以人为中心设计的，现在需要设计一个新的、以 Agent 为中心的流程。童熙认…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C"
+                        open
+                      >
+                        <summary class="article-expander__title">阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/c7/ef/c70d89d585a578d107aa9b7d0672edef.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#x27; Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进AI在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。
+
+Qwen4-Max现已上线千问AI平台对外提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务的平均费用较上代模型大降6成；用户也可通过阿里Token Plan调用新模型，或在千问办公、Qoder、千问APP等应用中直接体验。据悉，Qwen4系列中的中小尺寸模型将陆续开源发布。
+
+
+
+Qwen4-Max采用基于Qwen稀疏注意力（QSA）的全新MoE架构，2.4T总参数仅激活71B，每个Token激活参数较上代模型少25%，并拥有更高的思考效率：在 Terminal-Bench 4.0 专业编程评测中，同为 Xhigh 思考档位，Qwen4-Max 较上一代 Qwen3.8-Max 的每次尝试平均 Token 用量从 289K 降至 151K，减少近50%，评测得分则从 38.9 分提升至 48.5 分，提升近25%。同时，基于缓存命中价格的大幅下降，评测结果显示，Qwen4-Max相比Qwen3.8-Max完成单个任务的平均费用（Cost per Task）降低了 58%。
+
+全新的架构结合高效的训练优化，使得Qwen4-Max性能全面提升。在聚焦编程的CodeArena全球盲测权威榜…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi"
+                        open
+                      >
+                        <summary class="article-expander__title">Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static001.infoq.cn/resource/image/b2/07/b2f6297cc4926b6dc85f3ef909e49807.jpeg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>亚马逊首席执行 Andy Jassy 近日表示，亚马逊云科技 2027 年的已承诺云算力已基本售罄，2028 年的也有很大一部分也已经分配完毕，不过该公司仍然为“按需服务”（On Demand）、EC2 和 Bedrock 预留了余量。
+
+据路透社 10 月 23 日报道&quot;，Jassy 是在与 Andreessen Horowitz 联合创始人 Ben Horowitz 及普通合伙人 Erik Torenberg 的视频播客中发表上述言论的。亚马逊云科技通过“按需容量预留”和“机器学习容量块”&quot;提供容量保障服务，客户可以通过前者在指定的可用区预留实例，而后者则是在未来某一日期开始的固定时间段内预留实例。正如 InfoQ 此前的报道&quot;，亚马逊云科技于 1 月在所有区域统一将 ML 容量块的费率上调了约 15%，涵盖 P5en、P5e、P5 和 P4d GPU 实例以及 Trn2 和 Trn1 实例。
+
+Jassy 表示，2026 年的容量已经售罄，公司即使投入远超今年计划的约 2200 亿美元的资本支出，也不会算作资本的低效利用。关于资源分配本身：
+
+2027 年的资源已基本售罄。我们总是会预留一部分资源用于按需服务以及我们的基础推理服务（即EC2），但大部分大块资源都已售罄。2028 年也有相当一部分资源已售罄。
+
+
+云分析师 David Linthicum 认为，该报告夸大了实际情况&quot;，并区分了 Jassy 所描述的预留资源块与企业日常可分配的资源：
+
+当然，我猜今天我仍然可以登录 AWS 控制台，为 AI 工作负载分配 GPU 算力。也许无法像某些大型模型提供商所期望的那样，预先预留未来三年内的超大规模算力资源块，但这与 “AWS 已售罄”的说法可不完全是同一回事。
+
+
+Linthicum 补充道，市场对预留实例、按需服务和已承诺容量本就没有一个清晰的认知，而这类头条新闻会导致错误的假设和错误的策略。
+
+Reddit 上的讨论&quot;转向了当前可用性，而非 2027 年的承诺。点赞数最高的评论来自一位名为 cbigsby 的开发者，他描述了普通实例类型的限制：
+
+过去一个月左右，我们在工作中发现的计算容量问题大幅增加，这仅仅是针对普通的 EC2 实例。更别说竞价实例了，就连按需实例我们都难以获得足够的配额。幸运的是，这些问题主要与持续集成（CI）相关，但也有令人担忧的情况，有几天生产环境的 Kubernetes 集群资源受到了限制。
+
+
+其他地方也出现了类似的报告。技术运营经理 Richard T. 在 Linthicum 的帖子下评论称，微软仅就 Azure 美国东部区域的容量限制发布了有限的信息，而他的团队已采用预留实例来保障未来增长所需的计算资源。在另一个相关的讨论&quot;中，有一位评论者报告称，从三大云服务商中的任何一家都难以获得足够的计算资源，并指出这种限制不仅限于 GPU。
+
+在回复 Linthicum 时，Ian Rae 指出了这种应对方式在架构层面的后果：
+
+转眼间，人们就会预留那些他们担心可能用到的云资源，而这恰恰是一种“反云”模式。
+
+
+亚马逊云科技已经针对 Rae 所描述的问题提供了相应的工具。正如去年 10 月 InfoQ 报道的那样&quot;，EC2 Capacity Manager 将容量数据聚合到一个跨账户、跨区域的仪表盘中，并报告已用与未用预留容量的比率，以此作为衡量预留效率的指标。
+
+2200 亿美元这一数字涵盖了总资本支出，而非仅 AI 支出。这一区别在两个讨论中均有评论者提及。亚马逊将于 10 月 29 日公布第三季度财报&quot;，届时其“剩余履约义务”披露会显示出已承诺容量中有多少属于合同收入。
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/aws-capacity-sold-out/&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -596,330 +1080,6 @@ AI写文章越来越牛逼，三分钟就能吐出一篇像模像样的稿子。
 美国全职主妇每周花在家务上的时间，1924年是52小时左右，到了1966年，反而到了55小时左右。
 家具齐了，然而总工时不降反升，经济史学家Joel Mokyr把这个现象命名为考恩悖论（Cowan Paradox）。
 那么问题…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >InfoQ 推荐</button>
-                  <a class="source-heading__link" href="https://www.infoq.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss"
-                        open
-                      >
-                        <summary class="article-expander__title">Azure 版 LocalStack 进入公开预览阶段，安全设置会存储但不生效</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/wPiiddayboPKUEH6m4Ss">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/31/23/31b75f973e056f9d88c2381905d0e723.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>LocalStack 公开预览其 Azure 模拟器。该服务免费且支持自助使用，预计将于 2027 年初正式发布。其官方文档坦率地指出了模拟资源与模拟资源行为之间的差距。
-
-该产品可以在开发者机器上运行 Azure 服务，并支持直接使用现有的 ARM 和 Bicep 模板、Terraform 模块、Pulumi 程序以及 Azure CLI 脚本，无需任何重写。其卖点在于测试应用程序，正如 LocalStack 所言&quot;，“无需等待开发者订阅，也无需为每次迭代付费”。服务列表&quot;覆盖范围很广，比公告本身所暗示的更广，涵盖 AKS、Container Apps、Functions、App Service、Cosmos DB、Service Bus、Event Hubs、Key Vault、App Configuration、Managed Identity、API Management 等。每位开发者都将获得一个隔离的沙箱环境，LocalStack 对自身的定位是开发和测试工具，而非 Azure 的替代品。
-
-该项目由 Paolo Salvatori 负责。在加入 LocalStack 之前，他曾在微软担任首席工程师长达 28 年。同时，他也是 Service Bus Explorer 的创建者。他用一句话概括了保真度协议&quot;：
-
-如果你的解决方案在 Azure 上运行完美，但在我们的模拟器上却失败了，那便是我们需要修复的 Bug。
-
-
-该文档&quot;涵盖了 24 个资源提供程序，并报告了每个 API 的实现程度。Storage Accounts&quot; 实现了 81 项操作中的 13 项。App Service&quot; 实现了 616 项操作中的 143 项。Virtual Network&quot; 实现了 29 项操作中的 10 项。
-
-更有参考价值的模式是已实现的操作会发生什么。通常，配置信息会被接受…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj"
-                        open
-                      >
-                        <summary class="article-expander__title">Spring 近期资讯：Boot、Framework、Data、Security、Modulith 和 AI 的首个候选版本</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/uCmKjbkjjkW17olm7smj">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/9a/6f/9ab7ccef41760ebc0000750b2c32886f.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Spring Boot
-
-Spring Boot&quot; 4.2.0 的首个候选版本&quot;（RC）带来了 Bug 修复、文档改进、依赖项升级以及以下新功能：迁移至 Ubuntu Resolute 构建器&quot;以取代 Noble Java Tiny 构建器&quot;；通过直接查找嵌套 JAR 文件中的类和资源来提升 Uber-Jar 的性能。要了解有关该版本的更多详细信息，请参阅发布说明&quot;和该维基页面&quot;。
-
-Spring Framework
-
-Spring Framework&quot; 7.1.0 的首个候选版本（RC）带来了 Bug 修复、依赖项升级以及以下新功能：改进了 DataAccessUtils&quot; 和 LinkedCaseInsensitiveMap&quot; 类中的空值处理；在 RetryListener&quot; 接口中定义了新的重载方法 onRetrySuccess() 和 onRetryFailure()，在参数列表中添加了 一个 RetryState&quot; 类的实例，以便监听器在失败时能够直接访问重试状态。要了解有关该版本的更多详细信息（包括移除已弃用的 API），请参阅发布说明&quot;。
-
-Spring Data
-
-Spring Data&quot; 2026.1.0 的首个候选版本&quot;（RC1）带来了 Bug 修复、依赖项升级、所有子项目的 RC1 更新，以及 Spring Data Redis&quot; 中一项值得注意的新功能：如果某个 Bean 实现了 SubscriptionListener&quot; 接口，那么该功能现在会转发与带注解的监听器方法相关的订阅通知。
-
-Spring Cloud
-
-Spring Cloud&quot; 2026.0.0（代号为 Paddington）的首个候选版本&quot;（RC1）带来了依赖项升级、所有子项目的 RC1 更新，以及一项值得注意的变更：Spring Cloud Bus&quot; 不再作为独立的项目存在，而是已…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH"
-                        open
-                      >
-                        <summary class="article-expander__title">Vitest 5 通过共享 Vite 服务器、跟踪视图和更严格的测试默认设置来优先保障性能</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/wy7Osc1cHY1U9gQR3pwH">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/ba/2e/ba5110afcd2d4ed84f320535f7ece62e.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>由 VoidZero 维护的 Vite 原生测试框架 Vitest 发布了 Vitest 5.0 版本&quot;。这次重大版本更新将运行速度置于功能扩展之上，同时悄然优化了若干长期使用的默认设置。
-
-通过一套专门设计的基准测试套件&quot;（测试范围涵盖从只有五个文件的实用程序包到拥有 1280 个模块的单体应用），团队报告称，在大多数配置下，性能提升了约 8% 至 25%，而在虚拟机池场景中，提升幅度高达 53%。对于这个版本，VoidZero 在 X 上总结说&quot;：“虚拟机池速度提升高达 53%，包括浏览器模式在内的整体性能提升约 18%”。这些改进源于共享单个 Vite 服务器的内联项目、已达稳定状态的磁盘 fsModuleCache、主进程与工作进程之间往返次数的减少，以及可复用编译代码的虚拟机池。新增的 vitest doctor 命令可以在不同配置下重新运行测试套件，并推荐更快的选项。
-
-浏览器模式还新增了内置的“跟踪视图&quot;（Trace View）”，可以将每次交互和断言记录为 DOM 快照进行逐步回放；而新的 vi.when&quot; API 允许单个监听器针对每个参数返回不同的值。
-
-clearMocks 现在默认值为 true，未添加 await 的异步断言会直接失败而非发出警告，被提升的 vi.mock 调用（置于顶层作用域之外）现在会直接抛出错误，同时 toThrow(&#x27;&#x27;) 现在会匹配任意错误。正如独立分析站点 OpenReplay 所指出的那样&quot;，这些更改中的大多数只是“消除了原本就错误的测试代码”，但真正危险的是那些在 Vitest 4 上通过本地测试，却在 CI 中“显示为红色并报出不明原因错误”的测试套件。通常，这类问题是出现在依赖于测试之间 mock 历史泄漏的调用计数断言上。
-
-Vitest 5 需要 Vite 6.4 和 Node.js 22.12&quot; 或更高版本；Yarn 用户现在必须自行安装 Vite，因为它已成为一个对等依赖项。迁移指南&quot;和 5.0.0 版本变更日志&quot;详细记录了每一项更改；报告输出、附件和 blob 报告现在均位于 .vitest/ 目录下，因此需要更新 CI 构建产物的路径。生态系统的适配工作尚在进行当中：Cloudflare 的 vitest-pool-workers 问题报告&quot;指出，其对等依赖范围被固定在 v4 版本，这意味着任何拉取新版本的项目都会“在运行任何测试之前失败”。
-
-在近期与 Jest 的直接对比&quot;中，Vitest 在性能和未来兼容性方面表现更佳，但在生态系统和社区方面稍逊一筹，这反映出 Jest 拥有远更大的用户基数以及对 React Native 的原生支持。对于正在考虑如何选的开发者，建议依然不变：在 Vite、Nuxt 或全新项目中选用 Vitest；已投入使用的大型 Jest 测试套件保持不变；让两者在单体库中并存。
-
-Vitest 是一款由 VoidZero 基于 Vite 开发的开源测试运行器。该公司由 Vite 创建者 Evan You 创立，现在已加入 Cloudflare。它复用项目现有的 Vite 配置来运行单元测试、组件测试和浏览器测试，并原生支持 ESM 和 TypeScript，目前拥有超过 790 名贡献者。
-
-声明：本文为InfoQ翻译，未经许可禁止转载。
-
-原文链接：https://www.infoq.com/news/2026/11/vite-5-release/&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF"
-                        open
-                      >
-                        <summary class="article-expander__title">File Mover Express：亚马逊云科技发布用于 S3 文件传输的开源工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/i0a4s8Cf7WMxcZha74kF">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/40/be/406111352b24287137d5e4f279039abe.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>最近，亚马逊云科技发布了 File Mover Express&quot;，这是一款基于 Apache 2.0 许可的开源应用程序，用于在本地系统与 Amazon S3 之间传输大文件。该工具支持 macOS、Windows 和 Linux 系统，具备并行传输、自动性能调优、重试、暂停和恢复以及文件完整性验证等功能。
-
-File Mover Express&quot; 旨在“以线速将媒体文件传输到 S3”，支持自动调优的并行传输、暂停和恢复、桌面图形界面、可编写脚本的命令行界面，以及从受监控文件夹的自动上传。
-
-该项目主要采用 Go 语言开发传输引擎，并使用 TypeScript 结合 Angular 开发图形界面。它还支持通过 MCP 与 AI 助手集成，以及基于 OIDC 的身份提供商身份验证。亚马逊云科技高级解决方案架构师 Provanshu Dey&quot;、高级软件工程师 Asbjorn Kjaer&quot;、解决方案架构师 Matthew Muccio&quot; 以及高级客户解决方案经理 Ross Dickson&quot; 解释道：
-
-File Mover Express 的核心是一个基于守护进程的传输引擎，它将传输操作与桌面会话解耦。该守护进程可以在你选择的任何机器上运行，无论是工作站、数据中心服务器，还是 Amazon Elastic Compute Cloud (Amazon EC2) 实例。而且，你可以通过加密且受密码保护的连接，从拖放式图形用户界面 (GUI) 或可编写脚本的命令行界面（CLI）对其进行控制。
-
-
-媒体团队经常在本地存储和云之间传输数太字节的资源。通常，这些传输面临着紧迫的截止期限，而且相关流程必须在发起传输的用户或设备断开连接后仍然能继续进行。传统的传输客户端可能会在桌面会话结束时停止运行，而商业替代方案则可能带来许可费用、专有协议或第三方基础设施的问题。File Mover Express 支持上传和下载，使团队能够将大文件传输到 Amazon S3，并将其检索回来进行编辑、审核或恢复。
-
-
-
-图片来源：GitHub 项目
-
-File Mover Express 将大文件分割为多个数据块，并利用多部分上传技术进行并行上传。在自动调优模式下，它会根据可用连接情况动态调整并行流的数量和数据块大小，以优化吞吐量。传输过程还支持可配置的重试机制，以及文件级的暂停和恢复功能。Dey、Kjaer、Muccio 和 Dickson 补充道：
-
-File Mover Express 提供了多种安全功能，包括传输中的文件加密、静止状态下的文件加密以及控制平面加密。所有传输均采用 HTTPS 协议，对 S3 存储桶的访问由 AWS 身份与访问管理（IAM）进行管控，并遵循已记录的最小权限策略……对于采用集中式身份管理的团队，File Mover Express 支持通过 OpenID Connect（OIDC）实现单点登录。
-
-
-File Mover Express 会在后台计算校验和，并将它们缓存到本地，以便在文件没有变化时重复使用。它支持 MD5、XXHash、XXHash64 和 XXH3，可以在兼容性和哈希性能之间进行选择。对于传输到远端存储桶的情况，用户可以启用 S3 传输加速，而带宽限制则有助于控制网络使用量。在 LinkedIn 上，Dickson 写道&quot;：
-
-将大型媒体文件迁移到云端不应该成为你一天中最耗时的环节。正因如此，我们亚马逊云科技团队中的一群人开发了 File Mover Express……对于媒体行业中需要传输摄像机存储卡、日常素材或交付成果的任何人来说，它可以解决这些常见的痛点。
-
-
-该项目的源代码&quot;已经在 GitHub 上开源，并且同时提供了适用于 macOS、Windows 和 Linux 的预编译包。
-
-声明：本文为InfoQ翻译，未经许可禁止转载。
-
-原文链接：https://www.infoq.com/news/2026/11/aws-s3-file-transfer/&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ"
-                        open
-                      >
-                        <summary class="article-expander__title">openEuler 进军 Agentic Infra！主席熊伟：不讲大故事，先解决真问题</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/JhBUwv1pHR3S986Ih0iJ">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>过去一年，Agent几乎成为AI产业最热门的关键词。从Agent框架到Agent OS，再到Agentic Infra，越来越多的软件厂商开始重新定义自己的产品。原本距离普通用户相当遥远的操作系统，也被推到了AI基础设施变革的前台。
- 
-但在OpenAtom openEuler委员会主席熊伟看来，有必要先厘清一个问题：Agent的兴起，并不意味着传统操作系统需要推倒重来。
- 
-
-图：开放原子开源欧拉委员会主席熊伟发表主题演讲
- 
-“操作系统本层并没有发生翻天覆地的变化，或者没有需要完全断裂式的发展。”
- 
-11月13日，北京中关村国际创新中心，熊伟在Agentic Infra操作系统大会期间接受InfoQ等媒体群访时，给出了这一判断。
- 
-就在当天，openEuler正式发布面向Agentic Infra的操作系统，并公布openEuler 24.03 LTS SP5版本，围绕沙箱、KV Cache、记忆系统和Agent安全等方向增强基础设施能力。这也是openEuler继2025年推动超节点操作系统之后，再次将技术演进方向与AI基础设施的变化紧密结合。
- 
-作为一个已经发展七年的开源操作系统社区，openEuler系操作系统国内累计装机量预计突破2200万套。根据沙利文预测，其2026年在中国服务器操作系统新增市场份额有望达到61%。目前，社区已经汇聚2200多家成员单位、超过3万名开源贡献者。
- 
-这些数字背后，一个更加值得关注的问题是：当大模型从生成答案走向执行任务，操作系统究竟应该扮演什么角色？
-
-Agent OS很热，但操作系统不需要推倒重来
-
-
-如今，几乎所有与AI有关的软件层都在重新寻找自己的定位。
- 
-模型公司希望让大模型具备更强的工具调用能力，Agent框架希望接管复杂任务的编排与执行，云厂商开始构建Agent运行平台，而操作系统社区也在探索Agentic…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;14
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc"
-                        open
-                      >
-                        <summary class="article-expander__title">从 SDLC 到 ADLC：宝洁的 AI 原生组织实验</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/e4/32/e4b6b9ec1b47889146585beae8105f32.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Agent 能把几个环节连着做完之后，企业要重答三个问题：流程怎么走，团队怎么分工，哪些判断还得留给人。
-
-在今天的宝洁中国， AI 已经贯穿整个业务链条：从消费者研究、产品研发、品牌营销、供应链、到客服等等，每个环节都有 AI 的触角。
-一家穿越周期有着百年历史的消费品企业如此拥抱AI，比仅仅谈论上线了多少个 AI 工具更值得我们思考。在极客时间 9 周年「AI 落地见真章」访谈中，宝洁大中华区 CTO 童熙谈到了研发团队正在做的一项探索：他们尝试让 Agent 串联从业务需求到开发、测试、发布和运维的更多环节。这就是他在访谈里提到的 ADLC。
-
-生成代码快了多少，说明的只是其中一步。从需求进团队到结果能用，中间还有多少等待和返工，才是流程重构要算的那笔账。
-
-一、中间几步快了，整条流程还在等谁
-
-
-SDLC（软件开发生命周期） 这套流程，做开发的人都熟：需求提出、开发编码、测试验证、发布上线、运维监控，中间还夹着提单、代码评审、上线工单、发布检查。每个环节一个角色，交接一次。
-它跑了几十年，前提是每个环节都要有人来做决策、做执行，流程是按人的协作方式设计的。Agent 出来之后，这个前提松动了。
-童熙说，当我们把开发工作交给智能体、交给数字员工去做的时候，会发现它不再按角色分配任务，甚至有好几个环节都不需要存在了。
-童熙举了个假设。一项工作有七步，即使 Agent 能顺畅完成第二到第五步，第一步和第六步仍可能卡在人工交接上。
-哪些交接可以简化，哪些检查要明确责任人，是流程重构里最需要判断的地方。
-ADLC（Agent 驱动的开发生命周期） 要回答的就是这个：越来越多环节由 Agent 参与之后，整个生命周期怎么重新设计。这件事没法靠给每个环节配一个 AI 助手解决，流程图得重画。
-原有的流程是以人为中心设计的，现在需要设计一个新的、以 Agent 为中心的流程。童熙认…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C"
-                        open
-                      >
-                        <summary class="article-expander__title">阿里 Qwen4-Max 正式登场：单任务成本暴降 58%，前端编程全球第六</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/bZrW40XdHeMSkfOBxL2C">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/c7/ef/c70d89d585a578d107aa9b7d0672edef.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max，总参数2.4T，具备原生视觉能力，支持百万上下文。基于创新的模型架构和训练优化，Qwen4-Max以更少的Token消耗实现了更高的性能，在智能体和编程等关键能力项上持续进化：在权威的全球前端编程盲测CodeArena中，Qwen4位居第六；在Agents&#x27; Last Exam（ALE）、Vals Index等智能体能力及专业任务三方评测中，Qwen4均处于领先梯队。Qwen4面向全领域的真实任务深度优化，可更好地调用专业工具处理长周期任务，推进AI在汽车制造、游戏开发、金融投研及科学研究等专业领域的深入落地。
-
-Qwen4-Max现已上线千问AI平台对外提供API服务，缓存命中每百万Tokens低至0.5元，完成单任务的平均费用较上代模型大降6成；用户也可通过阿里Token Plan调用新模型，或在千问办公、Qoder、千问APP等应用中直接体验。据悉，Qwen4系列中的中小尺寸模型将陆续开源发布。
-
-
-
-Qwen4-Max采用基于Qwen稀疏注意力（QSA）的全新MoE架构，2.4T总参数仅激活71B，每个Token激活参数较上代模型少25%，并拥有更高的思考效率：在 Terminal-Bench 4.0 专业编程评测中，同为 Xhigh 思考档位，Qwen4-Max 较上一代 Qwen3.8-Max 的每次尝试平均 Token 用量从 289K 降至 151K，减少近50%，评测得分则从 38.9 分提升至 48.5 分，提升近25%。同时，基于缓存命中价格的大幅下降，评测结果显示，Qwen4-Max相比Qwen3.8-Max完成单个任务的平均费用（Cost per Task）降低了 58%。
-
-全新的架构结合高效的训练优化，使得Qwen4-Max性能全面提升。在聚焦编程的CodeArena全球盲测权威榜…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi"
-                        open
-                      >
-                        <summary class="article-expander__title">Cloudflare 的后量子 GeoKey Manager 进入封闭测试阶段，暂不支持基于属性加密</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.infoq.cn/article/L4oHv9VcLJNRwhOXgOAi">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://static001.infoq.cn/resource/image/b2/07/b2f6297cc4926b6dc85f3ef909e49807.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>亚马逊首席执行 Andy Jassy 近日表示，亚马逊云科技 2027 年的已承诺云算力已基本售罄，2028 年的也有很大一部分也已经分配完毕，不过该公司仍然为“按需服务”（On Demand）、EC2 和 Bedrock 预留了余量。
-
-据路透社 10 月 23 日报道&quot;，Jassy 是在与 Andreessen Horowitz 联合创始人 Ben Horowitz 及普通合伙人 Erik Torenberg 的视频播客中发表上述言论的。亚马逊云科技通过“按需容量预留”和“机器学习容量块”&quot;提供容量保障服务，客户可以通过前者在指定的可用区预留实例，而后者则是在未来某一日期开始的固定时间段内预留实例。正如 InfoQ 此前的报道&quot;，亚马逊云科技于 1 月在所有区域统一将 ML 容量块的费率上调了约 15%，涵盖 P5en、P5e、P5 和 P4d GPU 实例以及 Trn2 和 Trn1 实例。
-
-Jassy 表示，2026 年的容量已经售罄，公司即使投入远超今年计划的约 2200 亿美元的资本支出，也不会算作资本的低效利用。关于资源分配本身：
-
-2027 年的资源已基本售罄。我们总是会预留一部分资源用于按需服务以及我们的基础推理服务（即EC2），但大部分大块资源都已售罄。2028 年也有相当一部分资源已售罄。
-
-
-云分析师 David Linthicum 认为，该报告夸大了实际情况&quot;，并区分了 Jassy 所描述的预留资源块与企业日常可分配的资源：
-
-当然，我猜今天我仍然可以登录 AWS 控制台，为 AI 工作负载分配 GPU 算力。也许无法像某些大型模型提供商所期望的那样，预先预留未来三年内的超大规模算力资源块，但这与 “AWS 已售罄”的说法可不完全是同一回事。
-
-
-Linthicum 补充道，市场对预留实例、按需服务和已承诺容量本就没有一个清晰的认知，而这类头条新闻会导致错误的假设和错误的策略。
-
-Reddit 上的讨论&quot;转向了当前可用性，而非 2027 年的承诺。点赞数最高的评论来自一位名为 cbigsby 的开发者，他描述了普通实例类型的限制：
-
-过去一个月左右，我们在工作中发现的计算容量问题大幅增加，这仅仅是针对普通的 EC2 实例。更别说竞价实例了，就连按需实例我们都难以获得足够的配额。幸运的是，这些问题主要与持续集成（CI）相关，但也有令人担忧的情况，有几天生产环境的 Kubernetes 集群资源受到了限制。
-
-
-其他地方也出现了类似的报告。技术运营经理 Richard T. 在 Linthicum 的帖子下评论称，微软仅就 Azure 美国东部区域的容量限制发布了有限的信息，而他的团队已采用预留实例来保障未来增长所需的计算资源。在另一个相关的讨论&quot;中，有一位评论者报告称，从三大云服务商中的任何一家都难以获得足够的计算资源，并指出这种限制不仅限于 GPU。
-
-在回复 Linthicum 时，Ian Rae 指出了这种应对方式在架构层面的后果：
-
-转眼间，人们就会预留那些他们担心可能用到的云资源，而这恰恰是一种“反云”模式。
-
-
-亚马逊云科技已经针对 Rae 所描述的问题提供了相应的工具。正如去年 10 月 InfoQ 报道的那样&quot;，EC2 Capacity Manager 将容量数据聚合到一个跨账户、跨区域的仪表盘中，并报告已用与未用预留容量的比率，以此作为衡量预留效率的指标。
-
-2200 亿美元这一数字涵盖了总资本支出，而非仅 AI 支出。这一区别在两个讨论中均有评论者提及。亚马逊将于 10 月 29 日公布第三季度财报&quot;，届时其“剩余履约义务”披露会显示出已承诺容量中有多少属于合同收入。
-
-声明：本文为InfoQ翻译，未经许可禁止转载。
-
-原文链接：https://www.infoq.com/news/2026/11/aws-capacity-sold-out/&quot;</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -11810,7 +11970,7 @@ CSS-Tricks has a new owner! originally handwritten and published with love on CS
       </section>
 
     <footer>
-      <time id="build-timestamp" datetime="2026-11-17T05:57:02.861Z">2026-11-17T05:57:02.861Z</time>
+      <time id="build-timestamp" datetime="2026-11-17T07:23:47.267Z">2026-11-17T07:23:47.267Z</time>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.18.1</a>
     </footer>
     <script src="index.js?v1.14.4"></script>

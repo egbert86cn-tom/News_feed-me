@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://egbert86cn-tom.github.io/News_feed-me/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T05:57:02.883Z</updated>
+    <updated>2026-11-17T07:23:47.285Z</updated>
     <generator>osmosfeed 1.18.1</generator>
     <link rel="alternate" href="https://egbert86cn-tom.github.io/News_feed-me/index.html"/>
     <link rel="self" href="https://egbert86cn-tom.github.io/News_feed-me/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意]]></title>
+        <id>https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI</id>
+        <link href="https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI"/>
+        <updated>2026-11-17T07:09:45.000Z</updated>
+        <summary type="html"><![CDATA[“所有 AI 生成的代码都应该开源。”
+
+11月15日，开源开发者 Jakub T. Jankiewicz 公开呼吁将 AI 生成的代码全部开源，或者直接放入公共领域。他认为，AI 模型从开源社区几十年积累的代码和技术知识中受益，企业却可以利用这些模型生成闭源软件，将原本属于社区的集体成果转化为自己的商业资产。这种做法，在他看来已经有了“许可证洗白”（license laundering）的嫌疑。
+
+这个观点迅速引爆了社区讨论。有人赞同，认为 AI 公司依靠开源代码发展壮大，如今应该让生成的代码重新回馈社区；也有人直接反驳：自己花几个月设计、调试的软件，难道因为使用了 Claude Code，就必须把全部源代码免费公开？
+
+实际上，靠编程能力冲上AI顶流的Anthropic 自己也在招股书中承认，使用 Claude Code 等工具生成的代码可能包含或复现开源软件，从而触发许可证义务，严重时甚至需要公开部分专有源代码。与此同时，Anthropic 的商业条款又明确向客户转让其拥有的模型输出相关权利。
+
+而 Jankiewicz 的主张，恰恰触及了这套商业模式中的另一端：如果 AI 模型的能力部分建立在开源社区长期积累的成果上，那么企业利用它生成的代码，究竟能在多大程度上成为自己的专有资产？
+
+部分开源开发者主张让 AI 生成的代码回归公共生态，Anthropic 等商业 AI 公司则需要让企业客户能够继续将生成代码用于专有软件开发。双方没有直接发生冲突，但代码归属、开源许可与商业利益之间的冲突，已经成为开发者社区公开争论的话题。
+
+
+开源代码喂大了编程模型，生成的代码却在闭源赚钱
+
+
+Jakub T. Jankiewicz 长期参与开源开发，是 JavaScript 项目 jQuery Terminal 的作者，也参与维护过 isomorphic-git。他对于开源与商业软…]]></summary>
+        <author>
+            <name>褚杏娟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉]]></title>
+        <id>https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9</id>
+        <link href="https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9"/>
+        <updated>2026-11-17T07:00:05.000Z</updated>
+        <summary type="html"><![CDATA[“POC非常成功，领导都非常高兴，说我们就去干吧。可真正做起来，效果完全不一样，数据不准确，其他问题也都出来了。”蔡彦斌在谈及企业部署AI Agent的实际情况时直言。
+
+企业的业务系统往往经过多年建设，数据分散在不同平台，系统之间存在复杂的依赖关系，业务规则也并不总是一致。AI Agent接入这些系统后，如何理解业务上下文、协调不同系统，以及应对生产环境中的异常情况？这些问题决定了Agent能否真正承担业务任务。
+
+在日前落幕的SAP TechEd 2026上，AI Agent进入企业核心业务流程成为重要议题。但从技术演示到真正投入生产，仍有不少工程问题需要解决。
+
+围绕这些问题，InfoQ专访了SAP全球高级副总裁、SAP全球研发网络总裁柯曼博士（Prof. Dr. Clas Neumann），以及SAP中国研究院院长、SAP全球副总裁、HCM产品全球化研发负责人蔡彦斌博士。
+ 
+模型能够理解行业知识，却未必知道一家企业究竟如何经营。蔡彦斌举了一个例子：他的一位朋友经营着一家自行车贴牌加工厂，曾让两个Agent制定未来几个月的产品定价策略。模型给出的分析看起来相当完整，却无法直接使用，因为它不了解具体产品，也不清楚企业的客户情况。
+ 
+在小范围测试中，企业可以为模型准备数据、设定明确任务。但进入生产环境后，Agent需要面对分散在不同系统中的业务数据、长期积累的管理规则，以及大量无法提前穷举的实际情况。
+ 
+柯曼认为，企业AI的目标应该是能够根据业务意图自主采取行动。例如，一家供应商的关键零部件延迟交付，系统不仅要及时识别风险，还要判断对生产和供应链的影响，并采取相应的补救措施。
+ 
+在这一思路下，SAP提出了“自主运营企业”（Autonomous Enterprise）愿景，希望让AI从辅助工具逐渐进入企业核心业务，承担更多流程编排和执行工作。
+ 
+不过，对于已经运行…]]></summary>
+        <author>
+            <name>褚杏娟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能]]></title>
+        <id>https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR</id>
+        <link href="https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR"/>
+        <updated>2026-11-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Leapwork 于 2026 年 9 月 30 日正式向管理 Playwright 测试套件的团队开放了 Play 服务。该服务为标准 Playwright 代码增加了需求可追溯性和审批工作流。团队可以在现有的持续集成（CI）管道中运行这些代码，也可以通过 Leapwork 的托管执行服务运行。
+
+Leapwork 在公告"中表示，Play 可以原样导入现有的 Playwright 测试套件。工程师可以连接 Jira 和 Git 仓库以及产品文档，构建知识库，为生成的测试提供上下文信息。他们还可以录制浏览器操作流程，并将录屏内容转换为测试用例。
+
+Leapwork 表示，Play 会监控已连接的代码仓库，检测可能改变应用程序行为或界面的推送操作，随后推荐相应的测试更新。此外，其产品页面"还介绍了一项“自愈”功能。该功能可以在测试步骤出现故障时进行修复，而非直接让测试运行失败。不过现有的公开资料并未说明，团队是否可以设置强制审批流程，要求定位器修复操作必须经过人工确认才能生效，也未说明此类修复如何记录在审计日志中。
+
+对于需要审查测试变更的团队，Play 会将每个测试与源头的需求、工单或文档建立关联。Leapwork 表示，该服务会保留测试编写历史和审批记录，以及完整的执行日志。团队可以将其导出作为证据。该服务还会报告不稳定的测试以及跨应用程序或团队的测试覆盖率。
+
+基于角色的权限和审批工作流可以控制谁可以创建和运行测试。Leapwork 的企业版套餐包含完整的治理、安全和审计功能，但该公告并未明确说明免费套餐中具体提供了哪些控制功能。
+
+Leapwork 开发者关系副总裁 Donovan Brady 在公告中描述了这一管理难题：“目前，阻碍企业团队效率的因素主要是追溯测试来源，以及在测试生成后管理数十个团队中成千上万个测试用例。”
+
+团队还可以通过基于 Model Context Protocol（MCP）服务器的 AI 编码助手来运行 Play。根据 Leapwork 产品页面的介绍，可以将 Claude Code、Codex 和 Cursor 作为客户端，而其托管执行是基于 Chromium 的。Leapwork 表示，其托管服务可以并行运行测试套件，包括环境和测试数据管理。
+
+开源的 Playwright 已通过 Trace Viewer" 提供了故障诊断功能，包括操作详情、网络请求和屏幕截图。这些功能有助于工程师排查单次运行的问题；而 Play 的优势在于能够跨团队集中管理测试溯源和审批流程。
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/leapwork-play-playwright/"]]></summary>
+        <author>
+            <name>作者：Mark Silvester</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud API Gateway 推出面向实时 AI 应用的流式处理]]></title>
+        <id>https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B</id>
+        <link href="https://www.infoq.cn/article/X2WRCQI4NorJVEvpgX5B"/>
+        <updated>2026-11-17T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[谷歌宣布公开预览 API Gateway 流式处理功能"，将传统的请求-响应模型扩展至需要实时通信的应用程序。据谷歌称，这对于提供流式模型响应、多步骤代理工作流和交互式会话的 AI 应用尤为重要。
+
+这项新功能使流式端点能够在 API Gateway 背后运行，同时保留了现有的网关策略和安全控制措施，从而解决了之前存在的一项限制：
+
+迄今为止，在 API Gateway 中构建这类体验的开发人员都不得不做出一个两难的选择：要么将 API Gateway 部署在 API 前端并放弃流式传输，要么让流式传输端点绕过网关，从而放弃身份验证、API 密钥强制执行以及可观测性——而正是这些特性，才使得网关从一开始就变得不可或缺。
+
+
+API Gateway 支持多种流式传输模式，包括服务器发送事件（SSE）、分块传输编码和 HTTP 响应流式传输、WebSockets 以及 gRPC。流式连接最多可以保持打开状态一小时，此后如果需要继续通信，客户端就必须建立新的连接。
+
+新版本引入了流式传输支持，而且无需更改现有的 API 规范，也无需使用特定的 API、扩展或注解。谷歌强调，所有现有的 API 配置和功能都将照常运行，包括 API 密钥强制执行、JWT 验证、后端服务账户身份验证、Cloud Logging 和 Cloud Monitoring 集成，以及路径模板和请求路由。
+
+这个新版本的另外一项优势是引入了可预测的网关主机名。此前，网关主机名包含一个生成的哈希值，而且只能在网关创建之后才能确定。现在，它们遵循一种确定性的格式：GATEWAY_ID-PROJECT_NUMBER.REGION.gateway.dev，这使得开发人员能够在创建资源之前就对其进行引用和配置。
+
+谷歌强调了流式传输对 AI 应用的重要性。在这些应用中，模型响应是逐步生成的，而非以单个完整的响应返回。借助这一新功能，开发者将能够实时地流式传输模型响应，在多步骤任务中更新代理进度，支持工具调用协议和与远程 MCP 服务器的连接，并处理交互式 AI 应用。
+
+API Gateway 还支持模型路由功能"，提供一个兼容 OpenAI 的单一端点，可以根据请求负载中的模型字段，将请求路由至 Gemini、Claude 或 OpenAI gpt-oss 模型。
+
+模型路由与流式传输相结合，意味着客户端可以获得一个熟悉的、基于标准的流式传输接口，同时你仍然可以集中控制哪些模型可供访问、由谁访问以及遵循何种策略。
+
+
+针对谷歌的这份公告，X 平台用户 emildrops 指出了两个重要的局限性"。首先，“现有网关无法就地切换”；其次，“延迟衡量的是整个数据流，而非首字节到达时间……因此，延迟图表可能会因非故障原因而显得异常”。同样，LinkedIn 用户 Ehsan Elahi Zaheer 也指出"：
+
+监控也需要谨慎：网关请求延迟指标衡量的是数据流持续时间，而非“首字节到达时间”。一张延迟图表可能掩盖了截然不同的用户体验。
+
+
+在预览期间，开发者必须在创建网关时通过指定 --enable-streaming 命令行标志显式地启用这项新功能。
+
+
+声明：本文为InfoQ翻译，未经许可禁止转载。
+
+原文链接：https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/"]]></summary>
+        <author>
+            <name>Sergio De Simone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber的备胎，Zoox的跳板]]></title>
         <id>https://www.huxiu.com/article/4906201.html</id>
