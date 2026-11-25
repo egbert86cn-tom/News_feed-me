@@ -1,29 +1,153 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "author": null,
-          "description": "Fixed: Favicon used as article image",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 291,
-          "title": "v1.15.1",
-          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        }
-      ],
-      "group": null,
-      "maxArticles": null
-    },
-    {
       "title": "虎嗅资讯-全部",
       "feedUrl": "https://rsshub.rssforever.com/huxiu/article",
       "siteUrl": "https://www.huxiu.com/article",
       "articles": [
+        {
+          "id": "huxiu-article-4908352",
+          "author": "IT桔子",
+          "description": "过去两年，宇树科技的机器人不止在国内火，更是火到了全球，在海外多次刷屏。王兴兴不仅成为英伟达年会晚宴的受邀客人，宇树更是被马斯克评价“实力超群，堪称顶级强劲对手”。但翻遍了宇树科技历史以来的所有融资，股东名单是清一色的中资，没有一家外资大厂。这个反差正好引出三个我感兴趣的问题：中国人形机器人本体公司第一梯队里......\n本文来自微信公众号： IT桔子 ，作者：吴梅梅\n过去两年，宇树科技的机器人不止在国内火，更是火到了全球，在海外多次刷屏。\n王兴兴不仅成为英伟达年会晚宴的受邀客人，宇树更是被马斯克评价“实力超群，堪称顶级强劲对手”。\n但翻遍了宇树科技历史以来的所有融资，股东名单是清一色的中资，没有一家外资大厂。\n这个反差正好引出三个我感兴趣的问题：中国人形机器人本体公司第一梯队里，有哪些拿了外资大厂的钱？这些外资企业又是从何时开始投资中国具身智能的？被投方除了本体厂商，是否还有产业链公司？\n20家中国具身智能样本公司\n被外资大厂投过\n基于IT桔子的数据，我通过MCP把近五年（2022年1月1日到2026年11月17日）国内具身智能/机器人投资事件全部拉了一遍，共1407条，再逐笔辨认投资方里有没有知名的外资企业和跨国公司，最后筛出33笔。\n离现在最近的一笔是2026年11月12日思灵机器人（Agile Robots）宣布完成的5亿美元F轮融资，投后估值85亿美元。软银领投，跟投名单里有英伟达、日立集团和T.Capital，本轮投资方清一色是外资大厂。\n\n这张表合计33笔投资，落在20家机器人公司身上，投资方是涵盖韩系、东南亚、日系、欧洲系的12家外资大厂。\n20家被投公司里，人形机器人本体第一梯队只出现了三家：智元机器人（LG、正大、未来资产三家外资）、星动纪元（三星、新加坡电信、友利资本三家）、众擎机器人（三星）被外资大厂投过。\n宇树科技从2016年创立到2026年在科创…",
+          "link": "https://www.huxiu.com/article/4908352.html",
+          "publishedOn": "2026-11-25T07:43:56.000Z",
+          "wordCount": null,
+          "title": "错过宇树，日韩等外资抢投中国具身智能公司",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908278",
+          "author": "字母AI",
+          "description": "上市第四个交易日，Anthropic就破发了。11月19日，Anthropic登陆纳斯达克，开盘价比83美元的发行价高出34%。算上承销商追加认购的股份，这次IPO的规模达到935亿美元，创下全球纪录。可到了11月24日收盘，股价已经跌到81.91美元。即便是按发行价买到股票的人，手里的股票也开始亏钱了。同一......\n本文来自微信公众号：字母AI，作者：小金牙，编辑：王靖，题图来自：视觉中国\n上市第四个交易日，Anthropic就破发了。\n11月19日，Anthropic登陆纳斯达克，开盘价比83美元的发行价高出34%。算上承销商追加认购的股份，这次IPO的规模达到935亿美元，创下全球纪录。可到了11月24日收盘，股价已经跌到81.91美元。即便是按发行价买到股票的人，手里的股票也开始亏钱了。\n同一天，X上还传出了一条离职消息，说汤姆·布洛姆菲尔德已经离开Anthropic。布洛姆菲尔德是英国数字银行Monzo的联合创始人，今年7月才从创业孵化器Y Combinator休假，加入Anthropic的算力团队。\n他本人尚未证实离职的消息，但这不禁让人嘀咕，Anthropic的离职潮是否马上就要开启。\nAnthropic在招股书里提到，对一些早期员工和任职时间较长的员工来说，他们持有的股权可能占个人财富的很大一部分。\n用公司的原话说，“他们所持股份的价值，可能会影响他们是否选择继续为我们工作。”\n除了留人，阿莫迪还得跟马斯克和亚马逊周旋，给Claude凑够算力。至于公司什么时候能靠Claude稳定赚钱，也还没有答案。\n细数下来，摆在Anthropic面前的，至少有七个大坑要填。游戏，才刚刚开始。\n一、什么时候能稳定赚钱？\n今年二季度，Anthropic有了9.74亿美元的营业利润。到了三季度，Claude卖得更好了，公司收入接近170亿美元，比上个季度又涨了47%，营业上…",
+          "link": "https://www.huxiu.com/article/4908278.html",
+          "publishedOn": "2026-11-25T07:36:48.000Z",
+          "wordCount": null,
+          "title": "破发！但这仅仅是Anthropic要填的七个大坑之一",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908341",
+          "author": "黄瓜汽水",
+          "description": "今天你吃了多少克蛋白质？以前你可能以为这句话只会从健身教练嘴里说出来，而现在，蛋白质已经变成了打在年轻人身上的全新赛博鞭子。如果今天的蛋白质摄入量没达标，哪怕人都躺床上了，也要爬起来再补一口高蛋白希腊酸奶。年轻人对蛋白质已经进化出畜牧业级别的上进心。自从“高蛋白”这个概念火了以后，今年......\n出品 | 虎嗅青年文化组\n作者 | 黄瓜汽水\n编辑 | 渣渣郡\n本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。\n今天你吃了多少克蛋白质？\n以前你可能以为这句话只会从健身教练嘴里说出来，而现在，蛋白质已经变成了打在年轻人身上的全新赛博鞭子。\n如果今天的蛋白质摄入量没达标，哪怕人都躺床上了，也要爬起来再补一口高蛋白希腊酸奶。\n年轻人对蛋白质已经进化出畜牧业级别的上进心。\n\n自从“高蛋白”这个概念火了以后，今年最火的计量单位变成了鸡蛋。\n不管是一杯拿铁还是一块蛋糕，商家都必须先冲过来告诉你这一口下去相当于吃了几颗鸡蛋。\n鸡蛋其实也挺委屈。都用它来做指标，还不如直接吃它来得方便。\n母鸡看了现在的健身人，都要捂着屁股跑路。最近为了保护小动物的肛门，小红书网友甚至建议大家吃小号的鸡蛋了。\n\n中国特色糖浆咖啡市场也跟着“高蛋白”三个字变天了。\n2026年4月，星巴克中国上了高蛋白拿铁PRO，招牌数字是每杯20克原生乳蛋白。到了9月底，瑞幸也跟上节奏，端出了高蛋白酸奶饮，也是号称每杯约20克蛋白质。\n这可能是整个咖啡史上咖啡豆最没存在感的一场竞争。\n有没有可能，花40块钱喝一杯高蛋白拿铁，不如直接去便利店买3个茶叶蛋？\n原因也很简单。毕竟茶叶蛋没写清楚自己是“高蛋白”。\n\n除了茶饮咖啡，几乎你能想象到的所有零食，都开始硬蹭“高蛋白”。\n盒马推出了“0脂肪蛋白糕”，一盒300克，售价16.9元，吃完一整盒可以摄取高达33克的…",
+          "link": "https://www.huxiu.com/article/4908341.html",
+          "publishedOn": "2026-11-25T07:36:24.000Z",
+          "wordCount": null,
+          "title": "蛋白质焦虑，才是Z世代最大的精神危机",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908347",
+          "author": "底线思维©",
+          "description": "2026年11月19日下午在深圳举行的中俄美元首会晤，中方是主持人。笔者认为，作为三个大国的第一次会晤，其意义已超越三方聚首的象征性，《和平宣言》列出的四点，看似是一个框架性的说明，但可以为后续的具体事务提供声索依据。在对比三方关注的侧重点中，也可见中俄美动态的微妙关系。对于中国来说，更值得把握机遇、搭建机制......\n本文来自微信公众号： 底线思维 ，作者：江宇舟\n2026年11月19日下午在深圳举行的中俄美元首会晤，中方是主持人。\n笔者认为，作为三个大国的第一次会晤，其意义已超越三方聚首的象征性，《和平宣言》列出的四点，看似是一个框架性的说明，但可以为后续的具体事务提供声索依据。\n在对比三方关注的侧重点中，也可见中俄美动态的微妙关系。对于中国来说，更值得把握机遇、搭建机制，从今天会晤的主持者，变为后续系列议题的设置者。\n一、《中俄美元首和平宣言》，仅仅只是一个框架或象征吗？\n我关注到了一种现象，那就是西方舆论熟练运用了宣传技巧，在此次会晤前先把意义无限拔高，赋予其诸如启动新核裁军谈判、促成乌克兰和伊朗战事终结，乃至重新划分势力范围这样臆想出来的使命，等到会晤的《和平宣言》一发，马上宣布“缺乏实质内容”、“不符合预期”。\n就和他们干扰A股市场时候写小作文是一个套路。\n本次三方会晤的意义，并不在于某些人强加臆想的强权分配世界。而是在多极化浪潮遭遇逆全球化的历史节点，三个最为独立的大国，讨论为多变的世界安上一道刹车，疏通一条热线。\n首先，从形式上说，这是中俄美三国元首第一次举行三方会晤。过去十年，三国经济总量占世界GDP的比重，从40%出头增长到如今超过45%（这也反衬出其他一些发达国家相对衰退）；按照世界银行的统计口径，过去十年GDP增量中，接近52%是由这三个国家贡献。大量的产业产值、产品和军事装备，三国也都占全球同等比重，乃至更高。\n中国以前所未有的世界工厂释放规模效…",
+          "link": "https://www.huxiu.com/article/4908347.html",
+          "publishedOn": "2026-11-25T07:27:54.000Z",
+          "wordCount": null,
+          "title": "三国元首会晤之后，中国如何从“主持人”成为“出题人”？",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908346",
+          "author": "底线思维©",
+          "description": "中共江苏省委党校世界经济与政治教研部讲师；中国南海研究院海洋法律与政策研究所助理研究员2026年下半年，苏比克湾异常繁忙：美国海军陆战队的仓库堆满预置车辆，海军恒温仓库投入使用，“哨兵”级巡逻艇以此为支点轮番进入南海，“特里同”号等无人艇在湾口游弋，美国贸易发展署注资扩建苏比克湾的修船泊位和干船坞；美国总统特......\n本文来自微信公众号： 底线思维 ，作者：薛亮、王腾飞\n中共江苏省委党校世界经济与政治教研部讲师；\n中国南海研究院海洋法律与政策研究所助理研究员\n2026年下半年，苏比克湾异常繁忙：美国海军陆战队的仓库堆满预置车辆，海军恒温仓库投入使用，“哨兵”级巡逻艇以此为支点轮番进入南海，“特里同”号等无人艇在湾口游弋，美国贸易发展署注资扩建苏比克湾的修船泊位和干船坞；美国总统特朗普也于11月18日在马尼拉敲定了苏比克湾战略设施相关安排。\n再往前数：11月初，菲海军陆战队在此接收2艘美国T38无人艇；7月，美国国务卿鲁比奥到访马尼拉，宣布逾一亿美元升级苏比克湾的港口和燃料码头；同月，一支由六艘巡逻舰组成的美国海岸警卫队中队从中东整体移驻，开始在苏比克湾轮换行动；6月，4艘美制无人艇在苏比克湾海军基地移交菲律宾海军。\n苏比克湾，这座冷战时期美国最大的海外海军基地，在沉寂三十多年后，突然又热闹起来。1992年美军降旗撤离时，许多人以为一个时代就此落幕。如今种种迹象表明，美军正以一种不事声张的方式重返此地，重新加深在苏比克湾的存在。这种不同于冷战时期的“回归”究竟意欲何为？又能走多远？\n旧基地的新热闹\n苏比克湾的底子是现成的。这里有天然深水良港、大型机场、干船坞和仓储网络，西扼南海航道，北望巴士海峡。冷战时期，它是美国海军在西太平洋最重要的后勤基地之一。越战时期，美国海军第七舰队大量舰艇在此补给、维修。1992年美军撤离后，菲律宾把它改造成自由港和经济特区，成了大马尼拉地区之…",
+          "link": "https://www.huxiu.com/article/4908346.html",
+          "publishedOn": "2026-11-25T07:27:32.000Z",
+          "wordCount": null,
+          "title": "不挂牌子的基地：美军正变相重返苏比克湾",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908340",
+          "author": "奇点湃",
+          "description": "11月12日，贝壳成立25周年。这一天，董事长兼CEO彭永东宣布，「贝壳找房」App正式更名为「贝壳」。公司同时发布新愿景：「以专业，陪伴家的每一程」。少了两个字，一家依靠房地产交易成长起来的企业，开始从名字中淡化交易的痕迹。彭永东在周年讲话中说：「上一座山的路，翻不了下一座山。」这句话指向房地产行业，也隐约......\n本文来自微信公众号： 奇点湃 ，作者：王雪然\n11月12日，贝壳成立25周年。\n这一天，董事长兼CEO彭永东宣布，「贝壳找房」App正式更名为「贝壳」。公司同时发布新愿景：「以专业，陪伴家的每一程」。\n少了两个字，一家依靠房地产交易成长起来的企业，开始从名字中淡化交易的痕迹。\n彭永东在周年讲话中说：「上一座山的路，翻不了下一座山。」这句话指向房地产行业，也隐约概括了左晖离开后的贝壳。过去几年，它试过业务扩张，试过事业线分权，如今又重新收拢组织，把「专业」和「消费者」放到更靠前的位置。\n这些动作足以回答贝壳正在改变，却还不足以回答一个更关键的问题：左晖留下的那套系统，在离开它最熟悉的市场环境后，能否形成一种新的运转方式？\n左晖留下的，究竟是什么\n2001年，左晖创办链家时，中国房地产刚刚进入市场化发展的黄金时期。\n城市化、住房商品化与居民财富积累，共同创造了庞大的交易市场。行业迅速扩张，基础规则却相当粗糙。房源信息分散在门店和经纪人手中，虚假房源、价格不透明、重复挂牌普遍存在。同行之间即便面对同一套房，也缺少稳定合作的理由。\n链家后来做真房源、楼盘字典和服务标准化，贝壳再将经纪人合作网络ACN开放给更多品牌和门店。房源维护、客户开发、带看和成交可以由不同经纪人完成，再按照规则分配收益。\n左晖最重要的贡献，因而不止于创办了一家大型中介公司。他把行业内原本依赖个人经验和彼此防范的关系，改造成了可以持续协作的规则。消费者获得更可靠的信息，经纪人能够通过分工获得收入…",
+          "link": "https://www.huxiu.com/article/4908340.html",
+          "publishedOn": "2026-11-25T07:22:32.000Z",
+          "wordCount": null,
+          "title": "贝壳，不再找房",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908344",
+          "author": "CITY来不©",
+          "description": "每隔一周左右，亚历克斯·施罗德（Alex Schroeder）就会带领一群20至30人的队伍，在清晨漫步华盛顿特区。参与者几乎都是彼此陌生，或最近才认识的人。他们来自华盛顿地区的不同地方，有些人住在马里兰州和弗吉尼亚州；他们的生活背景也各不相同：有带着年幼孩子的母亲，有想在漫长工作周结束后放松一下的学校教师，......\n本文来自微信公众号： CITY来不 ，作者：散步中的\n每隔一周左右，亚历克斯·施罗德（Alex Schroeder）就会带领一群20至30人的队伍，在清晨漫步华盛顿特区。参与者几乎都是彼此陌生，或最近才认识的人。他们来自华盛顿地区的不同地方，有些人住在马里兰州和弗吉尼亚州；他们的生活背景也各不相同：有带着年幼孩子的母亲，有想在漫长工作周结束后放松一下的学校教师，有刚搬来这里、希望结识新朋友的新居民，也有希望重新认识这座城市的老住户。\n每次他们会走上两到三英里，路线则各不相同，穿过城市的不同街区，从市中心的洛根圆环，到阿纳科斯蒂亚河滨水区正在兴起的大型规划社区。为了让这趟散步更有吸引力，每条路线都以一家正在崛起的新兴咖啡馆为起点和终点。\n“我看到一些熟悉的面孔不断回来，他们也因此在这个群体里建立起自己的社群。这种感觉真的很好。”34岁的施罗德说，他是District Walk Club的创办人。\n他最初并没有打算创办一个走路俱乐部。他只是希望把自己作为内容创作者在线上建立起来的社群，带到现实生活中。\n施罗德曾在Instagram上向近30万名粉丝提议成立一个跑步俱乐部，但有人问他，是否考虑过更轻松、对心肺耐力要求没那么高的活动。毕竟，华盛顿特区已经有十多个跑步俱乐部。于是，他改变了主意。\n“在创办这个俱乐部之前，我其实从没听说过走路俱乐部。”施罗德说。他的账号DevourDC主要介绍当地美食。“但走路时聊天，比跑步时聊天容易得多。而我们这么做的全部目的，就是…",
+          "link": "https://www.huxiu.com/article/4908344.html",
+          "publishedOn": "2026-11-25T07:21:24.000Z",
+          "wordCount": null,
+          "title": "越来越多人用“散步”对抗健身文化",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908335",
+          "author": "山上",
+          "description": "B站逃过大红果。作者I何简编辑I王彬封面I生化危机爆发夜大红果吞噬一切长视频的时代，唯有B站这边风景独好。11月24日，B站发布2026年第三季度财报。当季B站日活跃用户数达到1.24亿，月活跃用户数达到3.94亿，用户日均使用时长达到121分钟，三项数据均创下历史新高。这也是B站用户日均使用时长第一次超过两......\n本文来自微信公众号： 山上 ，作者：山上团队，原文标题：《红果为何吃不下 B 站？》\nB站逃过大红果。\n作者I何简\n编辑I王彬\n封面I生化危机爆发夜\n大红果吞噬一切长视频的时代，唯有B站这边风景独好。\n11月24日，B站发布2026年第三季度财报。当季B站日活跃用户数达到1.24亿，月活跃用户数达到3.94亿，用户日均使用时长达到121分钟，三项数据均创下历史新高。这也是B站用户日均使用时长第一次超过两个小时。\n\nB站财报\n昨晚财报电话会一开场，连高盛分析师都忍不住发问，在越来越多的互联网公司受到短剧和短视频冲击的情况下，怎么B站还能持续增长。\nB站董事长兼CEO陈睿说，今年有不少人问他B站有没有受到短剧的影响，“我的回答肯定是没有。”\n陈睿将短内容比作薯片，将B站的内容比作米饭，称两者满足的是不同用户的不同需求——小陈颇有些骄傲自家优质内容的意味，一个是垃圾食品，一个是优质主食。\n至少从财报来看，小陈的确有底气这么说。过去三年，尽管短剧迅速崛起，B站的用户总使用时长仍保持着两位数的年度增速。今年上半年，这一数据同比增长了17%，三季度也有14%的增长。\n但过去大半年，B站的投资者们显然没有陈睿那么乐观。年初至今，B站美股、港股股价较年内高点双双跌去近7成。\n过去几个月，多家投行接连下调B站的盈利预期和目标价，理由之一便是担心B站即便能留住不看短剧的用户，也未必能留住转投短剧的广告主。\n最新的财报一定程度上打消了投资者的疑虑。第三季度，B站营收83.2亿元…",
+          "link": "https://www.huxiu.com/article/4908335.html",
+          "publishedOn": "2026-11-25T07:13:57.000Z",
+          "wordCount": null,
+          "title": "红果为何吃不下 B 站？",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908336",
+          "author": "过客财经",
+          "description": "民生加银增强债券年内最大回撤47.21%，引发市场热议。事实上，固收基金净值暴跌并不稀奇，当年信达澳银纯债净值曾经单日大跌21.42%，刷新了投资者对于债券投资潜在信用风险的认知。当然，印象中债基的净值暴跌大多源于“踩雷”，而民生加银增强债券则是源于极端策略。可以肯定的是，很多投资者对于民生加银增强债券净值波......\n本文来自微信公众号： 过客财经 ，作者：DBS路人甲\n民生加银增强债券年内最大回撤47.21%，引发市场热议。\n事实上，固收基金净值暴跌并不稀奇，当年信达澳银纯债净值曾经单日大跌21.42%，刷新了投资者对于债券投资潜在信用风险的认知。当然，印象中债基的净值暴跌大多源于“踩雷”，而民生加银增强债券则是源于极端策略。\n可以肯定的是，很多投资者对于民生加银增强债券净值波动的烈度并无充分的心理准备。原因很简单，在今年的基金中报中，它的业绩比较基准为“中国债券综合指数收益率”。直到2026年9月21日，才调整为“中证可转换债券指数收益率×50%＋中债-综合全价（总值）指数收益率×32%＋沪深300指数收益率×18%”。\n之所以一直强调，基金的买卖双方都要重视基金合同，原因很简单，持有人买入基金产品的原因五花八门，购买渠道也是各有不同，这种情况下如何能做到平衡好所有持有人的利益？\n答案就是基金合同，它至少能约束基金投资行为的下限。\n回顾一下民生加银增强债券在11月以来的净值表现。既有单日跌6.42%的惊魂，也有单日上涨9.75%的“大奇迹日”。总而言之，它的净值曲线并不像一只固定收益基金，而是类似于权益基金。并且还不是均衡型权益基金的那种“温吞水”，而是典型的赛道型基金的表现。\n\n数据来源：同花顺iFinD\n如上图所示，纯粹从二级债基的角度出发，民生加银增强债券在三季末也遵守了合同约定，股票资产的比例在20%以内。那么问题来了，18.4%的权益仓位为何能让净值单日出…",
+          "link": "https://www.huxiu.com/article/4908336.html",
+          "publishedOn": "2026-11-25T07:11:08.000Z",
+          "wordCount": null,
+          "title": "被权益夺舍的债券基金",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908172",
+          "author": "简单心理",
+          "description": "前段时间，一位朋友向我倾诉她和伴侣同居后的烦恼。两人工作都忙，平时见面的时间不多，于是决定住在一起，希望能多些相处的时间。可下班回家后，伴侣常常抱着手机。她试着沟通，对方却反问：「我们待在同一个空间里，还不算陪吗？」类似因手机使用产生的摩擦，在伴侣关系中越来越常见。在社会心理学中，这种行为被称作「伴侣手机冷落......\n本文来自微信公众号： 简单心理 ，作者：简单心理\n前段时间，一位朋友向我倾诉她和伴侣同居后的烦恼。两人工作都忙，平时见面的时间不多，于是决定住在一起，希望能多些相处的时间。\n可下班回家后，伴侣常常抱着手机。她试着沟通，对方却反问：「我们待在同一个空间里，还不算陪吗？」\n类似因手机使用产生的摩擦，在伴侣关系中越来越常见。\n在社会心理学中，这种行为被称作「伴侣手机冷落」（partner phubbing），指的是两个人明明待在一起，其中一方却不断把注意力转向手机，退出了面对面的互动。\n为什么一个低头看手机的动作，能让人感到更孤独？当手机成为亲密关系里的「第三者」，我们该如何重新找回对彼此的关注？\n01\n你看手机的时候，\n我很孤单\n餐厅、地铁和街边，随处可见这样的情侣：一方忙着刷手机，另一方几次开口，却始终等不到回应。TA明明就在身边，但被晾在一旁的人却觉得，自己还没有手机重要。\n手机带来的影响，远不止少说了几句话那么简单，它还可能让伴侣感到被忽略。\n\n图源小红书@VintageCat复古猫\n一项发表于2021年的研究通过两项调查，分别收集了507人和386人的数据，考察伴侣在共同相处时使用手机与关系满意度之间的联系。研究者分别引入了五个中介变量：\n▨排斥感：感到自己被忽视，或被排除在伴侣的互动之外。\n▨感知伴侣回应性：感到伴侣愿意理解、认可并关心自己。\n▨感知亲密感：在彼此分享和回应的互动中，感受到关系的亲近。\n▨手机使用冲突：因手机使用产生分歧。\n▨嫉妒感：…",
+          "link": "https://www.huxiu.com/article/4908172.html",
+          "publishedOn": "2026-11-25T06:58:26.000Z",
+          "wordCount": null,
+          "title": "亲密关系里最隐蔽的伤害，很多人每天都在做",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908332",
+          "author": "冯伟冯大白",
+          "description": "一批中国消费硬件品牌，已经把在当地交付和维修的条件提前算进了出海生意。想卖一把需要试坐的电动椅，就得先给买家说清楚，不合适的话能不能退、谁出运费。LiberNovo主站早期公布的Omni退货说明里，符合条件的非质量退货由买家与品牌各担一半运费，现在的美国直营政策给合格退货提供预付运单。品牌接过这部分试坐成本，......\n本文来自微信公众号： 冯伟冯大白 ，作者：冯大白\n一批中国消费硬件品牌，已经把在当地交付和维修的条件提前算进了出海生意。想卖一把需要试坐的电动椅，就得先给买家说清楚，不合适的话能不能退、谁出运费。LiberNovo主站早期公布的Omni退货说明里，符合条件的非质量退货由买家与品牌各担一半运费，现在的美国直营政策给合格退货提供预付运单。品牌接过这部分试坐成本，也得先有一条能把椅子收回来的线路。\n\n大件出海要先算返程运费\nAEKE的S1 Pro是一台带屏幕的家用力量训练机。买家收到的是已经组装好的整机，外箱最长边两米，连包装约130公斤。在美国直营站下单，标准配送把它送到入口。普通付费入户每件参考价150美元，客服报价前会问楼层，也要核对电梯能否装下整个箱子。升级配送每件参考价300美元，通常会把机器送进指定房间、拆箱并收走包装。交到门口和交到平时训练的房间，承运商要做的工作不同，能不能接到这一步还得看当地的条件。\n如果机器搬进屋后不合用，回程又得单独算。按AEKE的美国直营条款，到货30天内可以申请符合条件的非质量退货。机器已经开过箱，原包装还能用，要付500美元。开箱后原包装缺失、损坏或无法复用，退运和重装箱合计要付800美元。11月24日，美国直营页的S1 Pro完整套装促销价是3599美元，最高一档约占售价的22%。打算用几天再决定的买家，收到货时就得想好，要不要请人把将来可能用到的箱子带走。\n退货申请获准、买家确认费用后，AEKE会约承运商上门取件。…",
+          "link": "https://www.huxiu.com/article/4908332.html",
+          "publishedOn": "2026-11-25T06:52:23.000Z",
+          "wordCount": null,
+          "title": "一群目标是星辰大海的中国品牌把出海玩法迭代了",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908205",
+          "author": "TOP创新区研究院",
+          "description": "日前，欧洲AI的旗手、Mistral AI的CEO Arthur Mensch发了一篇檄文，标题三个词：Build or surrender。造，或者投降。就在不久前，他自己的亲客户刚把他换掉——弃用Mistral，改用一批跑在欧洲服务器上的开源模型，Qwen、GLM、Kimi。哦，顺便把成本砍掉了一半。Mi......\n本文来自微信公众号： TOP创新区研究院 ，作者：AI研究组\n日前，欧洲AI的旗手、Mistral AI的CEO Arthur Mensch发了一篇檄文，标题三个词：\nBuild or surrender。\n造，或者投降。\n就在不久前，他自己的亲客户刚把他换掉——\n弃用Mistral，改用一批跑在欧洲服务器上的开源模型，Qwen、GLM、Kimi。\n哦，顺便把成本砍掉了一半。\n\nMistral AI的CEO Arthur Mensch\n布鲁塞尔尴尬极了。\n因为这件事情的前几天，Politico报道，欧盟正把重心从“造最先进的模型”挪向“把现成技术铺进经济”。\n前面吹冲锋号，后面在商量换防。\n其实，这是AI新时代的贸工技与技工贸之争。\n目前欧洲有一派认为：\n前沿模型一代烧数亿欧元，下一代数十亿，欧洲凑不齐钱和算力，不如学互联网时代，底座交给美国人，欧洲押注工业数据、中小企业和行业知识做应用，模型用别人开源的。\n比如欧盟委员会主席冯德莱恩(家人都在美国)九月在盟情咨文里说，欧洲不必开发前沿技术，也能从AI拿到巨大收益；欧委会AI顾问Jim Hagemann Snabe同月主张，把劲使在生产力上。\n这是Mensch坚决反对的。\n首先，这样做成本不划算：\nMensch算了一笔账，欧洲企业每年付给美国云厂商和软件厂商超过2600亿欧元——比欧盟一年的共同预算还多。\n好比图省事租了门面，二十年后房租比家用还高。\n而且AI更危险。\n互联网跑在TCP/IP、HTTP这些开…",
+          "link": "https://www.huxiu.com/article/4908205.html",
+          "publishedOn": "2026-11-25T06:38:32.000Z",
+          "wordCount": null,
+          "title": "造，还是投降？欧洲的AI路在何方？",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908327",
+          "author": "中国企业家杂志",
+          "description": "Q3经营收入、利润双降，AI与芯片面临外部监管考验。11月24日晚，小米集团发布2026年第三季度财报。总收入1072亿元，同比下滑5.2%；毛利216.15亿元，同比下降16.7%；经营利润65.72亿元，同比下降56.5%；经调整净利润48.8亿元，同比下滑56.8%。这已经是小米净利润连续第三个季度同比......\n本文来自微信公众号： 中国企业家杂志 ，编辑：李原，作者：林秋艺\nQ3经营收入、利润双降，AI与芯片面临外部监管考验。\n11月24日晚，小米集团发布2026年第三季度财报。总收入1072亿元，同比下滑5.2%；毛利216.15亿元，同比下降16.7%；经营利润65.72亿元，同比下降56.5%；经调整净利润48.8亿元，同比下滑56.8%。\n这已经是小米净利润连续第三个季度同比下滑，净利率从去年同期的10%收缩到4.6%。\n财报缩水严重，固然因为去年同期，小米收获了一个最漂亮的季报。经调整净利润113亿元，新车交付10.88万辆，双双创下新高，汽车业务还首次实现单季盈利。\n这一季拆开分项看，外部形势不乐观，但财报里还是有几块业务在向上走。\n汽车业务第三季度交付100975辆，其中9月7日才上市的澎程系列，用23天交付了超过1万辆。手机出货3070万台，在全球大盘同比下滑约两成的背景下，市场份额连续第三个季度环比提升，平均售价涨到1486元，创历史新高。手机×AIoT业务的海外收入占比达到49.1%，同比、环比均实现增长。\n“这个三季度，我感觉是智能手机行业，至少是我从业以来最难的一个季度。”小米集团合伙人、总裁卢伟冰在当晚的财报电话会上告诉《中国企业家》。\n\n小米集团合伙人、总裁卢伟冰摄影：李英武\n财报发布前约一周，外部环境再生变数。11月16日，美国商务部发布《管控对先进半导体的远程访问》临时最终规则，进一步收紧了海外代工与封测环节的合规豁免和核验路径。…",
+          "link": "https://www.huxiu.com/article/4908327.html",
+          "publishedOn": "2026-11-25T06:27:58.000Z",
+          "wordCount": null,
+          "title": "最难季度之后，小米要换打法了",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "huxiu-article-4908323",
           "author": "西直门外汉",
@@ -4220,6 +4344,25 @@
       "maxArticles": null
     },
     {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 291,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        }
+      ],
+      "group": null,
+      "maxArticles": null
+    },
+    {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
@@ -4404,124 +4547,30 @@
       "maxArticles": null
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
-          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-          "publishedOn": "2026-11-17T12:00:00.000Z",
-          "wordCount": 4651,
-          "title": "Meet AI 2027 Conference (Dec 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-          "author": "hello@smashingmagazine.com (Andrew Chung)",
-          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
-          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-          "publishedOn": "2026-11-17T08:00:00.000Z",
-          "wordCount": 4437,
-          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
-          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-          "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6056,
-          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
-          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-          "publishedOn": "2026-11-06T08:00:00.000Z",
-          "wordCount": 3433,
-          "title": "A New Community For In-House UX People",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
-          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-          "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6887,
-          "title": "Making Immersive LLM Chat Experiences More Accessible",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
-          "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6991,
-          "title": "Modern CSS Might Make Your Front-End More Complex",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-          "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4537,
-          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
-        }
-      ],
-      "group": null,
-      "maxArticles": null
-    },
-    {
       "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6b06284b7f6906157677974a",
+          "author": "Ajay Patel",
+          "description": "If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/",
+          "publishedOn": "2026-11-25T00:14:03.000Z",
+          "wordCount": 6569,
+          "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e0f2c2e490269cb30227a2b/cec83f18-c647-46a4-a7ca-125aea525bed.png"
+        },
+        {
+          "id": "6b061084d3cd7eb63b3e05fa",
+          "author": "Reetain Raina",
+          "description": "Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi",
+          "link": "https://www.freecodecamp.org/news/how-phishing-attacks-work/",
+          "publishedOn": "2026-11-24T22:32:36.000Z",
+          "wordCount": 4948,
+          "title": "How Phishing Attacks Actually Work (And How Developers Can Spot Them)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb02608a-4ac9-48f2-8d81-5c5684ab9892.png"
+        },
         {
           "id": "6b05b3498a6cb0ff981c0f3f",
           "author": "Beau Carnes",
@@ -4777,870 +4826,134 @@
       "maxArticles": null
     },
     {
-      "title": "programming",
-      "feedUrl": "https://www.reddit.com/r/programming.rss",
-      "siteUrl": "https://www.reddit.com/r/programming",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
-          "author": null,
-          "description": "submitted by    /u/gvufhidjo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
-          "publishedOn": "2026-11-17T01:10:10.000Z",
-          "wordCount": null,
-          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
-          "author": null,
-          "description": "submitted by    /u/Cool-Click1253  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
-          "publishedOn": "2026-11-16T19:51:23.000Z",
-          "wordCount": null,
-          "title": "What Happens to Work After a Timeout?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
-          "author": null,
-          "description": "submitted by    /u/mttd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
-          "publishedOn": "2026-11-16T19:34:22.000Z",
-          "wordCount": null,
-          "title": "“…and the proof is checked in Lean”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
-          "author": null,
-          "description": "submitted by    /u/candurz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
-          "publishedOn": "2026-11-16T17:56:30.000Z",
-          "wordCount": null,
-          "title": "Introducing the World's Strongest Sokoban Solver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxvugz/publishing_the_python_wheels_pypi_is_missing_each/",
-          "author": null,
-          "description": "submitted by    /u/ManufacturerKey6917  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxvugz/publishing_the_python_wheels_pypi_is_missing_each/",
-          "publishedOn": "2026-11-16T17:43:19.000Z",
-          "wordCount": null,
-          "title": "Publishing the Python wheels PyPI is missing: each built twice from the sdist, released only if the builds are byte-identical",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
-          "author": null,
-          "description": "submitted by    /u/wagslane  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
-          "publishedOn": "2026-11-16T16:43:47.000Z",
-          "wordCount": null,
-          "title": "Learning to Code in 2026: The Data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
-          "author": null,
-          "description": "submitted by    /u/wolframhempel  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
-          "publishedOn": "2026-11-16T16:38:21.000Z",
-          "wordCount": null,
-          "title": "Do Repeat Yourself",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
-          "publishedOn": "2026-11-16T15:14:49.000Z",
-          "wordCount": null,
-          "title": "From charging a blended rate to IC++: pass network costs to your connected accounts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
-          "author": null,
-          "description": "To keep DPOLens's Docker image small, I dropped sentence-transformers and called the embedding model through ONNX Runtime directly. It took about forty lines of my own code, and the image came out roughly 800 MB lighter.\n It worked. Then, while load-testing the community version, I found that the first start took nearly 23 minutes on 1.5 CPUs and peaked at 3.4 GB of memory.\n I had quietly lost two things:\n  \nSorting by length. sentence-transformers sorts its inputs by length before batching them, and it doesn't tell you. My code didn't sort, so a 20-token paragraph sharing a batch with a 512-token article was padded to 512. Almost two thirds of the model's work was padding.\n \nThe CPU limit. Inside a container capped at 2.5 CPUs, Python and ONNX Runtime both saw all 10 of my laptop's cores and started 10 threads, which then took turns on two and a half CPUs' worth of time.\n \n I sorted the inputs and capped each batch by its shape, and set the thread count from the container's real limit. The result was 5.1× faster with 65% less memory, and the vectors and search results stayed the same.\n What I learned: a library is more than its API. When you replace one, you also take over everything it did without being asked, and the only way to find out what that was is to measure.\n    submitted by    /u/No-Negotiation-8359  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
-          "publishedOn": "2026-11-16T14:08:15.000Z",
-          "wordCount": null,
-          "title": "I Found a 5× Performance Problem Hiding in Plain Sight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
-          "author": null,
-          "description": "submitted by    /u/alexp_lt  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
-          "publishedOn": "2026-11-16T13:25:41.000Z",
-          "wordCount": null,
-          "title": "BrowserPod 4.0: the microVM that runs in the browser, now free for any use",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
-          "author": null,
-          "description": "submitted by    /u/ROFLLOLSTER  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
-          "publishedOn": "2026-11-16T13:19:47.000Z",
-          "wordCount": null,
-          "title": "Microsoft Outage Preliminary Postmortem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
-          "author": null,
-          "description": "Hello\n I have already released Ring 1.28 \n Ring is a dynamic language with lightweight implementation like Lua but with more features like Python/Ruby. I created it because I was looking for a Visual FoxPro replacement but was not satisfied with many other languages that I tried. The development started in Sept. 2013, and Ring 1.0 is released in January 2016, and I continued developing it as open-source project for over 10 years. I used to get feedback about the language through this group which contains over 3,000 topics.\n So, here is what Ring is trying to do\n (1) Keeping the implementation simple and small (The KISS Principle) that one programmer can study/understand in short time, but still a powerful and practical dynamic language with many useful programming paradigms.\n The motivatio…",
-          "link": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
-          "publishedOn": "2026-11-16T11:05:11.000Z",
-          "wordCount": null,
-          "title": "Ring programming language version 1.28 is released!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
-          "author": null,
-          "description": "submitted by    /u/wordbit12  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
-          "publishedOn": "2026-11-16T10:36:48.000Z",
-          "wordCount": null,
-          "title": "When Good Practices Become Empty Rituals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
-          "author": null,
-          "description": "submitted by    /u/faqir-ila-rhmatillah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
-          "publishedOn": "2026-11-16T08:24:15.000Z",
-          "wordCount": null,
-          "title": "How JavaScript and Python actually run your code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
-          "author": null,
-          "description": "I am so curious, after seeing bots dominate in Chess, and now recently in competitive games like Clash Royale, are there any games/websites where theoretically a bot that plays better than humans can be built?\n    submitted by    /u/PandaXPanther  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
-          "publishedOn": "2026-11-16T03:04:54.000Z",
-          "wordCount": null,
-          "title": "After Clash Royale's top ladder has now started being dominated by bots, are there any videogames where people want to see a bot capable of beating humans built?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
-          "author": null,
-          "description": "submitted by    /u/Old-Illustrator-8692  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
-          "publishedOn": "2026-11-16T01:48:44.000Z",
-          "wordCount": null,
-          "title": "Route To Hosting Videos For Websites, Apps And Subscription Services",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xx0jyi/many_tiles_one_space_two_worlds_at_last_a_use_for/",
-          "author": null,
-          "description": "submitted by    /u/zeroone  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xx0jyi/many_tiles_one_space_two_worlds_at_last_a_use_for/",
-          "publishedOn": "2026-11-15T16:59:57.000Z",
-          "wordCount": null,
-          "title": "Many Tiles, One Space, Two Worlds -- At Last, a Use for Bubble Sort",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
-          "author": null,
-          "description": "submitted by    /u/Charming_Skin_8549  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
-          "publishedOn": "2026-11-15T16:03:16.000Z",
-          "wordCount": null,
-          "title": "Understanding Go: inside PGO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
-          "author": null,
-          "description": "Python 3.12 and 3.13 dropped 25 stdlib modules (distutils, imp, cgi, pipes, telnetlib...). This scan of PyPI found 1,623 projects that still import one of them outside a try/except. 852 of those are in the 60k most downloaded packages, and 544 of the 852 haven't had a release in two years. Index covers last year's releases plus the top 60k by downloads, so the real number is higher. Download numbers are from ClickHouse's public PyPI dataset (ClickPy). \n    submitted by    /u/Business-Feedback635  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
-          "publishedOn": "2026-11-15T15:37:40.000Z",
-          "wordCount": null,
-          "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
-          "author": null,
-          "description": "submitted by    /u/DataBaeBee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
-          "publishedOn": "2026-11-15T15:01:42.000Z",
-          "wordCount": null,
-          "title": "Brockett-Dobkin Rectangular Matrix Multiplication Algorithm From 1970s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
-          "author": null,
-          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
-          "publishedOn": "2026-11-15T14:55:39.000Z",
-          "wordCount": null,
-          "title": "Memory management in 40 major C projects, a survey",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
-          "author": null,
-          "description": "submitted by    /u/ZealousidealStorm200  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
-          "publishedOn": "2026-11-15T11:41:01.000Z",
-          "wordCount": null,
-          "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
-          "publishedOn": "2026-11-15T10:33:28.000Z",
-          "wordCount": null,
-          "title": "Slack’s Migration to a Cellular Architecture",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
-          "author": null,
-          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
-          "publishedOn": "2026-11-14T19:00:37.000Z",
-          "wordCount": null,
-          "title": "What we learned operating auth for 1,000+ APIs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
-          "author": null,
-          "description": "Author here. I’ve spent quite some time building the payout side of a cross-border payments platform, mostly the routing engine.\n The thing that surprised me most was that what looks like one international transfer is really a series of local payments, and the money usually doesn’t cross the border when you hit send.\n The hardest bug class was timeouts. When a partner doesn’t answer, you don’t know if the money went through, and retrying can pay someone twice. We handle that with status checks using the same reference.\n We learned it the hard way when we relied on one partner for one of our major routes, and when it went down, most of our payouts failed with it.\n Curious how others handle the “unknown” state. Happy to answer questions.\n    submitted by    /u/Nice_Thought_2000  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
-          "publishedOn": "2026-11-14T17:59:42.000Z",
-          "wordCount": null,
-          "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
-          "author": null,
-          "description": "submitted by    /u/Cool-Click1253  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
-          "publishedOn": "2026-11-14T16:10:10.000Z",
-          "wordCount": null,
-          "title": "A Unicode Escape Can Turn a Java Comment Into Executable Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
-          "publishedOn": "2026-11-14T14:21:19.000Z",
-          "wordCount": null,
-          "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
-          "author": null,
-          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
-          "publishedOn": "2026-11-14T13:28:14.000Z",
-          "wordCount": null,
-          "title": "Beating the frontier on NetHack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
-          "author": null,
-          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
-          "publishedOn": "2026-11-14T13:00:28.000Z",
-          "wordCount": null,
-          "title": "Problem with concurrent linter fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
-          "author": null,
-          "description": "submitted by    /u/despacit0_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
-          "publishedOn": "2026-11-14T12:57:35.000Z",
-          "wordCount": null,
-          "title": "It's all about the allocator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
-          "author": null,
-          "description": "submitted by    /u/javinpaul  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
-          "publishedOn": "2026-11-14T10:12:21.000Z",
-          "wordCount": null,
-          "title": "The reason you aren’t making $300k as a developer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
-          "author": null,
-          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
-          "publishedOn": "2026-11-14T08:08:48.000Z",
-          "wordCount": null,
-          "title": "Some Projects Need to Fail",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
-          "author": null,
-          "description": "submitted by    /u/mttd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
-          "publishedOn": "2026-11-14T05:37:03.000Z",
-          "wordCount": null,
-          "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
-          "author": null,
-          "description": "submitted by    /u/NXGZ  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
-          "publishedOn": "2026-11-14T02:38:21.000Z",
-          "wordCount": null,
-          "title": "How I accidentally became a millionaire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
-          "publishedOn": "2026-11-13T23:01:25.000Z",
-          "wordCount": null,
-          "title": "Uber’s Rate Limiting System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
-          "author": null,
-          "description": "… Wait, does this also mean I could just build my own Apollo reddit app now and finally stop the pain? \n    submitted by    /u/wauter  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
-          "publishedOn": "2026-11-13T21:32:49.000Z",
-          "wordCount": null,
-          "title": "The age of hyper-personal software is here",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
-          "author": null,
-          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
-          "publishedOn": "2026-11-13T20:34:53.000Z",
-          "wordCount": null,
-          "title": "Announcing Rust 1.100.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
-          "author": null,
-          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
-          "publishedOn": "2026-11-13T20:31:35.000Z",
-          "wordCount": null,
-          "title": "Concurrent Shell Command Queues",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
-          "author": null,
-          "description": "submitted by    /u/thunderseethe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
-          "publishedOn": "2026-11-13T15:01:37.000Z",
-          "wordCount": null,
-          "title": "ML Modules for Mere Mortals",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
-          "publishedOn": "2026-11-13T14:02:17.000Z",
-          "wordCount": null,
-          "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
-          "author": null,
-          "description": "I wrote this up after building the leaderboard for a programming game. The server proves a run is legal and that a program produced it, not that a human wrote it. The post covers what it checks and the gaps I know about. I'd like to hear how you would attack it.\n    submitted by    /u/CoolGuidance3352  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
-          "publishedOn": "2026-11-13T12:42:13.000Z",
-          "wordCount": null,
-          "title": "A leaderboard you can't fake: deterministic replay, sealed replays and a source check",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
-          "author": null,
-          "description": "submitted by    /u/noteflakes  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
-          "publishedOn": "2026-11-13T07:32:55.000Z",
-          "wordCount": null,
-          "title": "Steadfast Update I - The Baseline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
-          "author": null,
-          "description": "submitted by    /u/wtfse  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
-          "publishedOn": "2026-11-13T07:25:18.000Z",
-          "wordCount": null,
-          "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
-          "author": null,
-          "description": "submitted by    /u/JuanixVentures  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
-          "publishedOn": "2026-11-13T05:58:24.000Z",
-          "wordCount": null,
-          "title": "Artisanal Coding #02: Animated ASCII Donut in pure zig",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xv009s/im_starting_a_youtube_channel_where_i_am/",
-          "author": null,
-          "description": "submitted by    /u/JuanixVentures  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xv009s/im_starting_a_youtube_channel_where_i_am/",
-          "publishedOn": "2026-11-13T05:56:31.000Z",
-          "wordCount": null,
-          "title": "I'm starting a Youtube channel where I am uploading artisanal coding videos before I forget how to code.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xuydgm/discord_is_ditching_electron_and_its_new_app_uses/",
-          "author": null,
-          "description": "submitted by    /u/Personal_Rough6944  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xuydgm/discord_is_ditching_electron_and_its_new_app_uses/",
-          "publishedOn": "2026-11-13T04:26:51.000Z",
-          "wordCount": null,
-          "title": "Discord is ditching Electron and its new app uses less RAM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
-          "publishedOn": "2026-11-13T01:45:17.000Z",
-          "wordCount": null,
-          "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
-          "publishedOn": "2026-11-12T21:43:22.000Z",
-          "wordCount": null,
-          "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
-          "author": null,
-          "description": "submitted by    /u/wtfse  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
-          "publishedOn": "2026-11-12T18:12:49.000Z",
-          "wordCount": null,
-          "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
-          "author": null,
-          "description": "submitted by    /u/teivah  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
-          "publishedOn": "2026-11-12T15:12:25.000Z",
-          "wordCount": null,
-          "title": "Building Barista: Formal Verification and TLA+",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
-          "author": null,
-          "description": "submitted by    /u/Nuoji  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
-          "publishedOn": "2026-11-12T13:16:09.000Z",
-          "wordCount": null,
-          "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
-          "author": null,
-          "description": "PHP is known for being easy to deploy and has been battle-hardened over 30 years on the web. By contrast, mobile apps are infamous for being tough to deploy.\n Today, we bring PHP's ease of deployment to mobile apps, thanks to OTA builds in Bifrost and a free and open source plugin for your apps.\n Fully offline-first, native apps with the flexibility of PHP. That's SuperNative!\n    submitted by    /u/nativephp_official  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
-          "publishedOn": "2026-11-12T09:43:46.000Z",
-          "wordCount": null,
-          "title": "Over-the-air updates come to NativePHP apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
-          "author": null,
-          "description": "This video sheds light on a bug that has been around for a few decades but is still easily missed; specifically due to the letter \"i\" having unique casing rules for Turkish as \"İ/i\" (dotted I) and \"I/ı\" (dotless i).\n To add a few extra points of my own:\n  \nThe root cause of the Unity box letter bug is also related to the regular uppercasing method of C# (ToUpper), since Unity itself is written on C#. For the same reason, multiple other Turkish-related bugs (like Unity failing to recognize VR controllers on Turkish PCs) have also been reported and fixed. The particular \"i\" bug mentioned in this video has been fixed on Unity version 6.2 in 2024, or at least that was what Unity told me when I contacted them; I haven't confirmed it myself.\n I have seen two Unity video games (CRYSTAR and Speedr…",
-          "link": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
-          "publishedOn": "2026-11-12T08:15:24.000Z",
-          "wordCount": null,
-          "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
-          "author": null,
-          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
-          "publishedOn": "2026-11-12T07:00:41.000Z",
-          "wordCount": null,
-          "title": "Lean explained with TypeScript",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
-          "author": null,
-          "description": "submitted by    /u/Efficient_File  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
-          "publishedOn": "2026-11-12T02:06:26.000Z",
-          "wordCount": null,
-          "title": "Go 1.27.4 security release: cgo flags and a net/http fix",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
-          "author": null,
-          "description": "How do you balance performance and readability in Rust? Are there any strategies or any paradigms to guarantee professional code quality?\n The answer to both is simple: Rust’s type system is all you need.\n (this is a satirical piece)\n    submitted by    /u/PastEar9661  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
-          "publishedOn": "2026-11-11T22:22:44.000Z",
-          "wordCount": null,
-          "title": "Rust's Type System is All You Need",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
-          "author": null,
-          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
-          "publishedOn": "2026-11-11T19:46:16.000Z",
-          "wordCount": null,
-          "title": "eMudhra's official incident report on how they ended up with private key 4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
-          "publishedOn": "2026-11-11T16:56:23.000Z",
-          "wordCount": null,
-          "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
-          "author": null,
-          "description": "submitted by    /u/artemave  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
-          "publishedOn": "2026-11-11T16:52:45.000Z",
-          "wordCount": null,
-          "title": "I made sandboxed development feel like local development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
-          "author": null,
-          "description": "submitted by    /u/BrewedDoritos  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
-          "publishedOn": "2026-11-11T16:25:55.000Z",
-          "wordCount": null,
-          "title": "Go Turns 17 - The Go Programming Language",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
-          "author": null,
-          "description": "I have been working on this for two hours; it's a new topic my lecturer introduced but didn't bother to explain how it works, and they gave me a whole-ass code to correct. This is first test which i wrote and corrected below, and everything seems to be fine i get all the green checkmarks. Still, it does not show up on the terminal; I can't see the result; the only thing I can see is, \"The test run did not record any output.\" I tried with Claude, Gemini, and ChatGPT, but nothing helps; they are just morons, os sif anyone can help, please do. Also dont mind link i had to so i was able to post\n import static org.junit.Assert.assertEquals; import org.junit.Test; public class PurseTest { public static final double EPSILON = 0.01; public static final double ONE_EURO_VALUE = 1.0; public static final double FIFTY_CENT_VALUE = .50; public static final double TEN_CENT_VALUE = .10; public static final double ONE_CENT_VALUE = .01; private int numOneEuro; private int numFiftyCent; private int numTenCent; private int numOneCent; public double getTotal() { return numOneEuro * ONE_EURO_VALUE + numFiftyCent * FIFTY_CENT_VALUE + numTenCent * TEN_CENT_VALUE + numOneCent * ONE_CENT_VALUE; } public double addOneCentCoins(){ return numOneCent++; } u/Test public void testAddOneCentCoins() { numOneEuro = numFiftyCent = numTenCent = numOneCent = 0; PurseTest myPurse = new PurseTest(); assertEquals(0, myPurse.getTotal(), EPSILON); myPurse.addOneCentCoins(); assertEquals(0.01, myPurse.getTotal(), EPSILON); } \n    submitted by    /u/WildAction3904  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
-          "publishedOn": "2026-11-11T15:05:23.000Z",
-          "wordCount": null,
-          "title": "Can someone help me with java Junit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
-          "author": null,
-          "description": "submitted by    /u/H_chibaX  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
-          "publishedOn": "2026-11-11T11:48:25.000Z",
-          "wordCount": null,
-          "title": "Why We Shouldn't Trust Clocks in Distributed Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
-          "author": null,
-          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
-          "publishedOn": "2026-11-11T04:01:00.000Z",
-          "wordCount": null,
-          "title": "Regressive JPEGs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
-          "author": null,
-          "description": "submitted by    /u/SamrayLeung  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
-          "publishedOn": "2026-11-10T19:15:19.000Z",
-          "wordCount": null,
-          "title": "A Chromium Bug Caused by a 25-Hour Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
-          "author": null,
-          "description": "submitted by    /u/Patient-Pollution46  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
-          "publishedOn": "2026-11-10T18:38:32.000Z",
-          "wordCount": null,
-          "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
-          "author": null,
-          "description": "submitted by    /u/359Panda3U  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
-          "publishedOn": "2026-11-10T18:04:29.000Z",
-          "wordCount": null,
-          "title": "Announcing .NET 11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
-          "author": null,
-          "description": "submitted by    /u/Swimming-Shop-1564  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
-          "publishedOn": "2026-11-10T16:06:51.000Z",
-          "wordCount": null,
-          "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
-          "author": null,
-          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
-          "publishedOn": "2026-11-10T11:45:22.000Z",
-          "wordCount": null,
-          "title": "Let Over Lambda book is now free to read online",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
-          "author": null,
-          "description": "submitted by    /u/Happycodeine  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
-          "publishedOn": "2026-11-10T11:45:16.000Z",
-          "wordCount": null,
-          "title": "Microservices can work for low-latency workloads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
-          "author": null,
-          "description": "submitted by    /u/benjoffe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
-          "publishedOn": "2026-11-10T09:36:42.000Z",
-          "wordCount": null,
-          "title": "A faster way to calculate the date of Easter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
-          "author": null,
-          "description": "submitted by    /u/ChromeBadger  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
-          "publishedOn": "2026-11-10T04:59:39.000Z",
-          "wordCount": null,
-          "title": "Decoding REXPaint Files in Odin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
-          "publishedOn": "2026-11-10T01:13:15.000Z",
-          "wordCount": null,
-          "title": "How we reduced core unit boot time from hours to minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
-          "author": null,
-          "description": "submitted by    /u/mttd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
-          "publishedOn": "2026-11-09T18:40:12.000Z",
-          "wordCount": null,
-          "title": "The ENIAC in Context: 80 Years of Computing History",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
-          "author": null,
-          "description": "submitted by    /u/DataBaeBee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
-          "publishedOn": "2026-11-09T16:55:33.000Z",
-          "wordCount": null,
-          "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
-          "author": null,
-          "description": "submitted by    /u/cekrem  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
-          "publishedOn": "2026-11-09T13:27:16.000Z",
-          "wordCount": null,
-          "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
-          "author": null,
-          "description": "submitted by    /u/jailbird  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
-          "publishedOn": "2026-11-08T22:43:05.000Z",
-          "wordCount": null,
-          "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
-          "author": null,
-          "description": "submitted by    /u/mttd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
-          "publishedOn": "2026-11-08T18:09:53.000Z",
-          "wordCount": null,
-          "title": "Sem86 - A full-system emulator without hardcoded semantics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
-          "author": null,
-          "description": "submitted by    /u/suhcoR  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
-          "publishedOn": "2026-11-08T13:52:58.000Z",
-          "wordCount": null,
-          "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
-          "author": null,
-          "description": "submitted by    /u/noteflakes  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
-          "publishedOn": "2026-11-08T09:08:43.000Z",
-          "wordCount": null,
-          "title": "Introducing Project Steadfast",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
-          "author": null,
-          "description": "submitted by    /u/_telesis  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
-          "publishedOn": "2026-11-08T06:53:33.000Z",
-          "wordCount": null,
-          "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
-          "author": null,
-          "description": "submitted by    /u/imbev  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
-          "publishedOn": "2026-11-08T04:44:15.000Z",
-          "wordCount": null,
-          "title": "Objects, attributes, maps, oh my!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
-          "author": null,
-          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
-          "publishedOn": "2026-11-08T04:01:15.000Z",
-          "wordCount": null,
-          "title": "A quick look at zero-knowledge proofs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
-          "author": null,
-          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
-          "publishedOn": "2026-11-07T23:58:05.000Z",
-          "wordCount": null,
-          "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
-          "author": null,
-          "description": "This article is a deep dive into the internals of the asyncio Python standard library. It is written from a debugging perspective, stepping through the code line by line.\n    submitted by    /u/humbulani-ndou  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
-          "publishedOn": "2026-11-07T10:26:39.000Z",
-          "wordCount": null,
-          "title": "Internals of asyncio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
-          "author": null,
-          "description": "submitted by    /u/rmadriz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
-          "publishedOn": "2026-11-07T01:00:30.000Z",
-          "wordCount": null,
-          "title": "Libghostty 1.0",
-          "imageUrl": null
+          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "publishedOn": "2026-11-17T12:00:00.000Z",
+          "wordCount": 4651,
+          "title": "Meet AI 2027 Conference (Dec 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "author": "hello@smashingmagazine.com (Andrew Chung)",
+          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "publishedOn": "2026-11-17T08:00:00.000Z",
+          "wordCount": 4437,
+          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "publishedOn": "2026-11-12T10:00:00.000Z",
+          "wordCount": 6056,
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
+          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "publishedOn": "2026-11-06T08:00:00.000Z",
+          "wordCount": 3433,
+          "title": "A New Community For In-House UX People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "publishedOn": "2026-11-05T13:00:00.000Z",
+          "wordCount": 6887,
+          "title": "Making Immersive LLM Chat Experiences More Accessible",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+          "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "publishedOn": "2026-11-03T10:00:00.000Z",
+          "wordCount": 6991,
+          "title": "Modern CSS Might Make Your Front-End More Complex",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "publishedOn": "2026-10-31T08:00:00.000Z",
+          "wordCount": 4537,
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
         }
       ],
-      "group": "开发",
-      "maxArticles": null,
-      "recovered": true
+      "group": null,
+      "maxArticles": null
     },
     {
       "title": "InfoQ 推荐",
       "feedUrl": "https://rsshub.rssforever.com/infoq/recommend",
       "siteUrl": "https://www.infoq.cn",
       "articles": [
+        {
+          "id": "https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF",
+          "author": "林绮蓓",
+          "description": "整理｜林绮蓓\n编辑｜蔡芳芳\n\nAI写代码越普遍，语言选择和验证问题越突出。\n \n“计算机界的诺贝尔奖”图灵奖1966年设立至今，因编程语言获奖的成果约占五分之一，主要研究领域为编程语言的获奖人约占三分之一。在2026年IDEA大会上，美国工程院外籍院士、IDEA研究院创院理事长沈向洋由此笑称，“懂语言者得图灵”。\n\n这背后是计算机科学的一条主线。代码是所有工作流、所有逻辑的底层，编程语言则是人向机器表达逻辑的媒介。每一个计算时代都有与之相应的语言，语言的演进始终回应着计算需求的变化。\n\nAI时代的变化在于，编程的主体正在从人变成Agent。对人来说，语言似乎不再重要，用Vibe Coding提出需求就能得到能跑的程序，不必关心AI选了哪门语言。但对Agent来说，语言的选择直接决定软件的安全性、性能与可维护性，也就决定了最终交付软件的能力上限。\n\n旧的语言为上一个计算时代定型，为Agent而生的新语言，则打开了参与定义AI时代基础软件体系的机会窗口。\n\n基于这个判断，IDEA研究院四年前立项自研语言MoonBit。四年间，这门语言从零起步，如今在全世界每周被下载近百万次，近四成代码由海外开发者贡献。在近期的2026 IDEA大会上，MoonBit正式发布1.0版本。MoonBit的作者张宏波在编程语言领域深耕近二十年，此前在彭博和Meta做语言开发，沈向洋称他是自己所知唯一一位写出的编程语言被全球数万人使用的中国人。\n \n以下内容整理自张宏波在2026 IDEA大会上的演讲，为阅读体验内容顺序略有调整。\n\n过去一年，整个软件工程发生了巨大的变化，很多软件基础架构都在重写，比如版本管理工具、代码审核工具。但这还是比较上层的东西。更底层一点看，编程语言是我们每个程序员都要使用的工具，随着智能体编程的范式转移，它会不会引入新的工具和革新？这是我们今天讨论的话题。\n\nAI 时代，编…",
+          "link": "https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF",
+          "publishedOn": "2026-11-25T07:44:25.000Z",
+          "wordCount": 4865,
+          "title": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
+          "imageUrl": "https://static001.infoq.cn/resource/image/21/e6/21c3e3c9ab61de54605ce33ea66145e6.png"
+        },
         {
           "id": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O",
           "author": "作者：Craig Risi",
@@ -7454,6 +6767,866 @@
       ],
       "group": "国内科技",
       "maxArticles": null
+    },
+    {
+      "title": "programming",
+      "feedUrl": "https://www.reddit.com/r/programming.rss",
+      "siteUrl": "https://www.reddit.com/r/programming",
+      "articles": [
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
+          "author": null,
+          "description": "submitted by    /u/gvufhidjo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xy71dn/carnegie_mellon_is_putting_computer_science/",
+          "publishedOn": "2026-11-17T01:10:10.000Z",
+          "wordCount": null,
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
+          "author": null,
+          "description": "submitted by    /u/Cool-Click1253  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxza0t/what_happens_to_work_after_a_timeout/",
+          "publishedOn": "2026-11-16T19:51:23.000Z",
+          "wordCount": null,
+          "title": "What Happens to Work After a Timeout?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
+          "author": null,
+          "description": "submitted by    /u/mttd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxytd6/and_the_proof_is_checked_in_lean/",
+          "publishedOn": "2026-11-16T19:34:22.000Z",
+          "wordCount": null,
+          "title": "“…and the proof is checked in Lean”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
+          "author": null,
+          "description": "submitted by    /u/candurz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxw6xh/introducing_the_worlds_strongest_sokoban_solver/",
+          "publishedOn": "2026-11-16T17:56:30.000Z",
+          "wordCount": null,
+          "title": "Introducing the World's Strongest Sokoban Solver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxvugz/publishing_the_python_wheels_pypi_is_missing_each/",
+          "author": null,
+          "description": "submitted by    /u/ManufacturerKey6917  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxvugz/publishing_the_python_wheels_pypi_is_missing_each/",
+          "publishedOn": "2026-11-16T17:43:19.000Z",
+          "wordCount": null,
+          "title": "Publishing the Python wheels PyPI is missing: each built twice from the sdist, released only if the builds are byte-identical",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
+          "author": null,
+          "description": "submitted by    /u/wagslane  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxu86p/learning_to_code_in_2026_the_data/",
+          "publishedOn": "2026-11-16T16:43:47.000Z",
+          "wordCount": null,
+          "title": "Learning to Code in 2026: The Data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
+          "author": null,
+          "description": "submitted by    /u/wolframhempel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxu2yo/do_repeat_yourself/",
+          "publishedOn": "2026-11-16T16:38:21.000Z",
+          "wordCount": null,
+          "title": "Do Repeat Yourself",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxrwnt/from_charging_a_blended_rate_to_ic_pass_network/",
+          "publishedOn": "2026-11-16T15:14:49.000Z",
+          "wordCount": null,
+          "title": "From charging a blended rate to IC++: pass network costs to your connected accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
+          "author": null,
+          "description": "To keep DPOLens's Docker image small, I dropped sentence-transformers and called the embedding model through ONNX Runtime directly. It took about forty lines of my own code, and the image came out roughly 800 MB lighter.\n It worked. Then, while load-testing the community version, I found that the first start took nearly 23 minutes on 1.5 CPUs and peaked at 3.4 GB of memory.\n I had quietly lost two things:\n  \nSorting by length. sentence-transformers sorts its inputs by length before batching them, and it doesn't tell you. My code didn't sort, so a 20-token paragraph sharing a batch with a 512-token article was padded to 512. Almost two thirds of the model's work was padding.\n \nThe CPU limit. Inside a container capped at 2.5 CPUs, Python and ONNX Runtime both saw all 10 of my laptop's cores and started 10 threads, which then took turns on two and a half CPUs' worth of time.\n \n I sorted the inputs and capped each batch by its shape, and set the thread count from the container's real limit. The result was 5.1× faster with 65% less memory, and the vectors and search results stayed the same.\n What I learned: a library is more than its API. When you replace one, you also take over everything it did without being asked, and the only way to find out what that was is to measure.\n    submitted by    /u/No-Negotiation-8359  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxq90s/i_found_a_5_performance_problem_hiding_in_plain/",
+          "publishedOn": "2026-11-16T14:08:15.000Z",
+          "wordCount": null,
+          "title": "I Found a 5× Performance Problem Hiding in Plain Sight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
+          "author": null,
+          "description": "submitted by    /u/alexp_lt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxpaa4/browserpod_40_the_microvm_that_runs_in_the/",
+          "publishedOn": "2026-11-16T13:25:41.000Z",
+          "wordCount": null,
+          "title": "BrowserPod 4.0: the microVM that runs in the browser, now free for any use",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
+          "author": null,
+          "description": "submitted by    /u/ROFLLOLSTER  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxp5pe/microsoft_outage_preliminary_postmortem/",
+          "publishedOn": "2026-11-16T13:19:47.000Z",
+          "wordCount": null,
+          "title": "Microsoft Outage Preliminary Postmortem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
+          "author": null,
+          "description": "Hello\n I have already released Ring 1.28 \n Ring is a dynamic language with lightweight implementation like Lua but with more features like Python/Ruby. I created it because I was looking for a Visual FoxPro replacement but was not satisfied with many other languages that I tried. The development started in Sept. 2013, and Ring 1.0 is released in January 2016, and I continued developing it as open-source project for over 10 years. I used to get feedback about the language through this group which contains over 3,000 topics.\n So, here is what Ring is trying to do\n (1) Keeping the implementation simple and small (The KISS Principle) that one programmer can study/understand in short time, but still a powerful and practical dynamic language with many useful programming paradigms.\n The motivatio…",
+          "link": "https://www.reddit.com/r/programming/comments/1xxmn7s/ring_programming_language_version_128_is_released/",
+          "publishedOn": "2026-11-16T11:05:11.000Z",
+          "wordCount": null,
+          "title": "Ring programming language version 1.28 is released!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
+          "author": null,
+          "description": "submitted by    /u/wordbit12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxm6d1/when_good_practices_become_empty_rituals/",
+          "publishedOn": "2026-11-16T10:36:48.000Z",
+          "wordCount": null,
+          "title": "When Good Practices Become Empty Rituals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
+          "author": null,
+          "description": "submitted by    /u/faqir-ila-rhmatillah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxk3zb/how_javascript_and_python_actually_run_your_code/",
+          "publishedOn": "2026-11-16T08:24:15.000Z",
+          "wordCount": null,
+          "title": "How JavaScript and Python actually run your code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
+          "author": null,
+          "description": "I am so curious, after seeing bots dominate in Chess, and now recently in competitive games like Clash Royale, are there any games/websites where theoretically a bot that plays better than humans can be built?\n    submitted by    /u/PandaXPanther  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxek1d/after_clash_royales_top_ladder_has_now_started/",
+          "publishedOn": "2026-11-16T03:04:54.000Z",
+          "wordCount": null,
+          "title": "After Clash Royale's top ladder has now started being dominated by bots, are there any videogames where people want to see a bot capable of beating humans built?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
+          "author": null,
+          "description": "submitted by    /u/Old-Illustrator-8692  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xxd0ul/route_to_hosting_videos_for_websites_apps_and/",
+          "publishedOn": "2026-11-16T01:48:44.000Z",
+          "wordCount": null,
+          "title": "Route To Hosting Videos For Websites, Apps And Subscription Services",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xx0jyi/many_tiles_one_space_two_worlds_at_last_a_use_for/",
+          "author": null,
+          "description": "submitted by    /u/zeroone  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xx0jyi/many_tiles_one_space_two_worlds_at_last_a_use_for/",
+          "publishedOn": "2026-11-15T16:59:57.000Z",
+          "wordCount": null,
+          "title": "Many Tiles, One Space, Two Worlds -- At Last, a Use for Bubble Sort",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
+          "author": null,
+          "description": "submitted by    /u/Charming_Skin_8549  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwz44b/understanding_go_inside_pgo/",
+          "publishedOn": "2026-11-15T16:03:16.000Z",
+          "wordCount": null,
+          "title": "Understanding Go: inside PGO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
+          "author": null,
+          "description": "Python 3.12 and 3.13 dropped 25 stdlib modules (distutils, imp, cgi, pipes, telnetlib...). This scan of PyPI found 1,623 projects that still import one of them outside a try/except. 852 of those are in the 60k most downloaded packages, and 544 of the 852 haven't had a release in two years. Index covers last year's releases plus the top 60k by downloads, so the real number is higher. Download numbers are from ClickHouse's public PyPI dataset (ClickPy). \n    submitted by    /u/Business-Feedback635  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwyhpm/544_unmaintained_pypi_packages_with_imports_that/",
+          "publishedOn": "2026-11-15T15:37:40.000Z",
+          "wordCount": null,
+          "title": "544 unmaintained PyPI packages with imports that fail on Python 3.12+ still get 100M+ downloads a month",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
+          "author": null,
+          "description": "submitted by    /u/DataBaeBee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwxmp1/brockettdobkin_rectangular_matrix_multiplication/",
+          "publishedOn": "2026-11-15T15:01:42.000Z",
+          "wordCount": null,
+          "title": "Brockett-Dobkin Rectangular Matrix Multiplication Algorithm From 1970s",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
+          "author": null,
+          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwxhbp/memory_management_in_40_major_c_projects_a_survey/",
+          "publishedOn": "2026-11-15T14:55:39.000Z",
+          "wordCount": null,
+          "title": "Memory management in 40 major C projects, a survey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
+          "author": null,
+          "description": "submitted by    /u/ZealousidealStorm200  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwtfmr/what_go_127s_generic_methods_made_possible_for/",
+          "publishedOn": "2026-11-15T11:41:01.000Z",
+          "wordCount": null,
+          "title": "What Go 1.27’s generic methods made possible for ORMs. Compile-checked columns with no generated code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwsbxo/slacks_migration_to_a_cellular_architecture/",
+          "publishedOn": "2026-11-15T10:33:28.000Z",
+          "wordCount": null,
+          "title": "Slack’s Migration to a Cellular Architecture",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
+          "author": null,
+          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
+          "publishedOn": "2026-11-14T19:00:37.000Z",
+          "wordCount": null,
+          "title": "What we learned operating auth for 1,000+ APIs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
+          "author": null,
+          "description": "Author here. I’ve spent quite some time building the payout side of a cross-border payments platform, mostly the routing engine.\n The thing that surprised me most was that what looks like one international transfer is really a series of local payments, and the money usually doesn’t cross the border when you hit send.\n The hardest bug class was timeouts. When a partner doesn’t answer, you don’t know if the money went through, and retrying can pay someone twice. We handle that with status checks using the same reference.\n We learned it the hard way when we relied on one partner for one of our major routes, and when it went down, most of our payouts failed with it.\n Curious how others handle the “unknown” state. Happy to answer questions.\n    submitted by    /u/Nice_Thought_2000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
+          "publishedOn": "2026-11-14T17:59:42.000Z",
+          "wordCount": null,
+          "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
+          "author": null,
+          "description": "submitted by    /u/Cool-Click1253  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw63wj/a_unicode_escape_can_turn_a_java_comment_into/",
+          "publishedOn": "2026-11-14T16:10:10.000Z",
+          "wordCount": null,
+          "title": "A Unicode Escape Can Turn a Java Comment Into Executable Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
+          "publishedOn": "2026-11-14T14:21:19.000Z",
+          "wordCount": null,
+          "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
+          "author": null,
+          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
+          "publishedOn": "2026-11-14T13:28:14.000Z",
+          "wordCount": null,
+          "title": "Beating the frontier on NetHack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
+          "author": null,
+          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw1um8/problem_with_concurrent_linter_fixes/",
+          "publishedOn": "2026-11-14T13:00:28.000Z",
+          "wordCount": null,
+          "title": "Problem with concurrent linter fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
+          "author": null,
+          "description": "submitted by    /u/despacit0_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
+          "publishedOn": "2026-11-14T12:57:35.000Z",
+          "wordCount": null,
+          "title": "It's all about the allocator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
+          "author": null,
+          "description": "submitted by    /u/javinpaul  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvyyl1/the_reason_you_arent_making_300k_as_a_developer/",
+          "publishedOn": "2026-11-14T10:12:21.000Z",
+          "wordCount": null,
+          "title": "The reason you aren’t making $300k as a developer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+          "author": null,
+          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+          "publishedOn": "2026-11-14T08:08:48.000Z",
+          "wordCount": null,
+          "title": "Some Projects Need to Fail",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+          "author": null,
+          "description": "submitted by    /u/mttd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+          "publishedOn": "2026-11-14T05:37:03.000Z",
+          "wordCount": null,
+          "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+          "author": null,
+          "description": "submitted by    /u/NXGZ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+          "publishedOn": "2026-11-14T02:38:21.000Z",
+          "wordCount": null,
+          "title": "How I accidentally became a millionaire",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+          "publishedOn": "2026-11-13T23:01:25.000Z",
+          "wordCount": null,
+          "title": "Uber’s Rate Limiting System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
+          "author": null,
+          "description": "… Wait, does this also mean I could just build my own Apollo reddit app now and finally stop the pain? \n    submitted by    /u/wauter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvkeuh/the_age_of_hyperpersonal_software_is_here/",
+          "publishedOn": "2026-11-13T21:32:49.000Z",
+          "wordCount": null,
+          "title": "The age of hyper-personal software is here",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+          "author": null,
+          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+          "publishedOn": "2026-11-13T20:34:53.000Z",
+          "wordCount": null,
+          "title": "Announcing Rust 1.100.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
+          "author": null,
+          "description": "submitted by    /u/Either_Collection349  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xviun2/concurrent_shell_command_queues/",
+          "publishedOn": "2026-11-13T20:31:35.000Z",
+          "wordCount": null,
+          "title": "Concurrent Shell Command Queues",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
+          "author": null,
+          "description": "submitted by    /u/thunderseethe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xva4qf/ml_modules_for_mere_mortals/",
+          "publishedOn": "2026-11-13T15:01:37.000Z",
+          "wordCount": null,
+          "title": "ML Modules for Mere Mortals",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv8oe9/formatting_an_entire_25_million_line_codebase/",
+          "publishedOn": "2026-11-13T14:02:17.000Z",
+          "wordCount": null,
+          "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
+          "author": null,
+          "description": "I wrote this up after building the leaderboard for a programming game. The server proves a run is legal and that a program produced it, not that a human wrote it. The post covers what it checks and the gaps I know about. I'd like to hear how you would attack it.\n    submitted by    /u/CoolGuidance3352  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv6v71/a_leaderboard_you_cant_fake_deterministic_replay/",
+          "publishedOn": "2026-11-13T12:42:13.000Z",
+          "wordCount": null,
+          "title": "A leaderboard you can't fake: deterministic replay, sealed replays and a source check",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
+          "author": null,
+          "description": "submitted by    /u/noteflakes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv1mjg/steadfast_update_i_the_baseline/",
+          "publishedOn": "2026-11-13T07:32:55.000Z",
+          "wordCount": null,
+          "title": "Steadfast Update I - The Baseline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
+          "author": null,
+          "description": "submitted by    /u/wtfse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv1i5m/exploit_a_22_years_old_postgresql_compositetype/",
+          "publishedOn": "2026-11-13T07:25:18.000Z",
+          "wordCount": null,
+          "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
+          "author": null,
+          "description": "submitted by    /u/JuanixVentures  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv01hz/artisanal_coding_02_animated_ascii_donut_in_pure/",
+          "publishedOn": "2026-11-13T05:58:24.000Z",
+          "wordCount": null,
+          "title": "Artisanal Coding #02: Animated ASCII Donut in pure zig",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xv009s/im_starting_a_youtube_channel_where_i_am/",
+          "author": null,
+          "description": "submitted by    /u/JuanixVentures  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xv009s/im_starting_a_youtube_channel_where_i_am/",
+          "publishedOn": "2026-11-13T05:56:31.000Z",
+          "wordCount": null,
+          "title": "I'm starting a Youtube channel where I am uploading artisanal coding videos before I forget how to code.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xuydgm/discord_is_ditching_electron_and_its_new_app_uses/",
+          "author": null,
+          "description": "submitted by    /u/Personal_Rough6944  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xuydgm/discord_is_ditching_electron_and_its_new_app_uses/",
+          "publishedOn": "2026-11-13T04:26:51.000Z",
+          "wordCount": null,
+          "title": "Discord is ditching Electron and its new app uses less RAM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+          "publishedOn": "2026-11-13T01:45:17.000Z",
+          "wordCount": null,
+          "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
+          "publishedOn": "2026-11-12T21:43:22.000Z",
+          "wordCount": null,
+          "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
+          "author": null,
+          "description": "submitted by    /u/wtfse  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
+          "publishedOn": "2026-11-12T18:12:49.000Z",
+          "wordCount": null,
+          "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
+          "author": null,
+          "description": "submitted by    /u/teivah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
+          "publishedOn": "2026-11-12T15:12:25.000Z",
+          "wordCount": null,
+          "title": "Building Barista: Formal Verification and TLA+",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
+          "author": null,
+          "description": "submitted by    /u/Nuoji  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
+          "publishedOn": "2026-11-12T13:16:09.000Z",
+          "wordCount": null,
+          "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
+          "author": null,
+          "description": "PHP is known for being easy to deploy and has been battle-hardened over 30 years on the web. By contrast, mobile apps are infamous for being tough to deploy.\n Today, we bring PHP's ease of deployment to mobile apps, thanks to OTA builds in Bifrost and a free and open source plugin for your apps.\n Fully offline-first, native apps with the flexibility of PHP. That's SuperNative!\n    submitted by    /u/nativephp_official  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xu8mlk/overtheair_updates_come_to_nativephp_apps/",
+          "publishedOn": "2026-11-12T09:43:46.000Z",
+          "wordCount": null,
+          "title": "Over-the-air updates come to NativePHP apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
+          "author": null,
+          "description": "This video sheds light on a bug that has been around for a few decades but is still easily missed; specifically due to the letter \"i\" having unique casing rules for Turkish as \"İ/i\" (dotted I) and \"I/ı\" (dotless i).\n To add a few extra points of my own:\n  \nThe root cause of the Unity box letter bug is also related to the regular uppercasing method of C# (ToUpper), since Unity itself is written on C#. For the same reason, multiple other Turkish-related bugs (like Unity failing to recognize VR controllers on Turkish PCs) have also been reported and fixed. The particular \"i\" bug mentioned in this video has been fixed on Unity version 6.2 in 2024, or at least that was what Unity told me when I contacted them; I haven't confirmed it myself.\n I have seen two Unity video games (CRYSTAR and Speedr…",
+          "link": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
+          "publishedOn": "2026-11-12T08:15:24.000Z",
+          "wordCount": null,
+          "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
+          "author": null,
+          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
+          "publishedOn": "2026-11-12T07:00:41.000Z",
+          "wordCount": null,
+          "title": "Lean explained with TypeScript",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
+          "author": null,
+          "description": "submitted by    /u/Efficient_File  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xu0jb5/go_1274_security_release_cgo_flags_and_a_nethttp/",
+          "publishedOn": "2026-11-12T02:06:26.000Z",
+          "wordCount": null,
+          "title": "Go 1.27.4 security release: cgo flags and a net/http fix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
+          "author": null,
+          "description": "How do you balance performance and readability in Rust? Are there any strategies or any paradigms to guarantee professional code quality?\n The answer to both is simple: Rust’s type system is all you need.\n (this is a satirical piece)\n    submitted by    /u/PastEar9661  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
+          "publishedOn": "2026-11-11T22:22:44.000Z",
+          "wordCount": null,
+          "title": "Rust's Type System is All You Need",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
+          "author": null,
+          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
+          "publishedOn": "2026-11-11T19:46:16.000Z",
+          "wordCount": null,
+          "title": "eMudhra's official incident report on how they ended up with private key 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
+          "publishedOn": "2026-11-11T16:56:23.000Z",
+          "wordCount": null,
+          "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
+          "author": null,
+          "description": "submitted by    /u/artemave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtmw9l/i_made_sandboxed_development_feel_like_local/",
+          "publishedOn": "2026-11-11T16:52:45.000Z",
+          "wordCount": null,
+          "title": "I made sandboxed development feel like local development",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
+          "author": null,
+          "description": "submitted by    /u/BrewedDoritos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtm606/go_turns_17_the_go_programming_language/",
+          "publishedOn": "2026-11-11T16:25:55.000Z",
+          "wordCount": null,
+          "title": "Go Turns 17 - The Go Programming Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
+          "author": null,
+          "description": "I have been working on this for two hours; it's a new topic my lecturer introduced but didn't bother to explain how it works, and they gave me a whole-ass code to correct. This is first test which i wrote and corrected below, and everything seems to be fine i get all the green checkmarks. Still, it does not show up on the terminal; I can't see the result; the only thing I can see is, \"The test run did not record any output.\" I tried with Claude, Gemini, and ChatGPT, but nothing helps; they are just morons, os sif anyone can help, please do. Also dont mind link i had to so i was able to post\n import static org.junit.Assert.assertEquals; import org.junit.Test; public class PurseTest { public static final double EPSILON = 0.01; public static final double ONE_EURO_VALUE = 1.0; public static final double FIFTY_CENT_VALUE = .50; public static final double TEN_CENT_VALUE = .10; public static final double ONE_CENT_VALUE = .01; private int numOneEuro; private int numFiftyCent; private int numTenCent; private int numOneCent; public double getTotal() { return numOneEuro * ONE_EURO_VALUE + numFiftyCent * FIFTY_CENT_VALUE + numTenCent * TEN_CENT_VALUE + numOneCent * ONE_CENT_VALUE; } public double addOneCentCoins(){ return numOneCent++; } u/Test public void testAddOneCentCoins() { numOneEuro = numFiftyCent = numTenCent = numOneCent = 0; PurseTest myPurse = new PurseTest(); assertEquals(0, myPurse.getTotal(), EPSILON); myPurse.addOneCentCoins(); assertEquals(0.01, myPurse.getTotal(), EPSILON); } \n    submitted by    /u/WildAction3904  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtk21c/can_someone_help_me_with_java_junit/",
+          "publishedOn": "2026-11-11T15:05:23.000Z",
+          "wordCount": null,
+          "title": "Can someone help me with java Junit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
+          "author": null,
+          "description": "submitted by    /u/H_chibaX  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xtfqog/why_we_shouldnt_trust_clocks_in_distributed/",
+          "publishedOn": "2026-11-11T11:48:25.000Z",
+          "wordCount": null,
+          "title": "Why We Shouldn't Trust Clocks in Distributed Systems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
+          "author": null,
+          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xt7wkx/regressive_jpegs/",
+          "publishedOn": "2026-11-11T04:01:00.000Z",
+          "wordCount": null,
+          "title": "Regressive JPEGs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
+          "author": null,
+          "description": "submitted by    /u/SamrayLeung  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
+          "publishedOn": "2026-11-10T19:15:19.000Z",
+          "wordCount": null,
+          "title": "A Chromium Bug Caused by a 25-Hour Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
+          "author": null,
+          "description": "submitted by    /u/Patient-Pollution46  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
+          "publishedOn": "2026-11-10T18:38:32.000Z",
+          "wordCount": null,
+          "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
+          "author": null,
+          "description": "submitted by    /u/359Panda3U  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
+          "publishedOn": "2026-11-10T18:04:29.000Z",
+          "wordCount": null,
+          "title": "Announcing .NET 11",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
+          "author": null,
+          "description": "submitted by    /u/Swimming-Shop-1564  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
+          "publishedOn": "2026-11-10T16:06:51.000Z",
+          "wordCount": null,
+          "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
+          "author": null,
+          "description": "submitted by    /u/alexeyr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
+          "publishedOn": "2026-11-10T11:45:22.000Z",
+          "wordCount": null,
+          "title": "Let Over Lambda book is now free to read online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
+          "author": null,
+          "description": "submitted by    /u/Happycodeine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
+          "publishedOn": "2026-11-10T11:45:16.000Z",
+          "wordCount": null,
+          "title": "Microservices can work for low-latency workloads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
+          "author": null,
+          "description": "submitted by    /u/benjoffe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
+          "publishedOn": "2026-11-10T09:36:42.000Z",
+          "wordCount": null,
+          "title": "A faster way to calculate the date of Easter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
+          "author": null,
+          "description": "submitted by    /u/ChromeBadger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
+          "publishedOn": "2026-11-10T04:59:39.000Z",
+          "wordCount": null,
+          "title": "Decoding REXPaint Files in Odin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
+          "publishedOn": "2026-11-10T01:13:15.000Z",
+          "wordCount": null,
+          "title": "How we reduced core unit boot time from hours to minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
+          "author": null,
+          "description": "submitted by    /u/mttd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
+          "publishedOn": "2026-11-09T18:40:12.000Z",
+          "wordCount": null,
+          "title": "The ENIAC in Context: 80 Years of Computing History",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
+          "author": null,
+          "description": "submitted by    /u/DataBaeBee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
+          "publishedOn": "2026-11-09T16:55:33.000Z",
+          "wordCount": null,
+          "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
+          "author": null,
+          "description": "submitted by    /u/cekrem  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
+          "publishedOn": "2026-11-09T13:27:16.000Z",
+          "wordCount": null,
+          "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
+          "author": null,
+          "description": "submitted by    /u/jailbird  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
+          "publishedOn": "2026-11-08T22:43:05.000Z",
+          "wordCount": null,
+          "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
+          "author": null,
+          "description": "submitted by    /u/mttd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
+          "publishedOn": "2026-11-08T18:09:53.000Z",
+          "wordCount": null,
+          "title": "Sem86 - A full-system emulator without hardcoded semantics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
+          "author": null,
+          "description": "submitted by    /u/suhcoR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
+          "publishedOn": "2026-11-08T13:52:58.000Z",
+          "wordCount": null,
+          "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
+          "author": null,
+          "description": "submitted by    /u/noteflakes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqu801/introducing_project_steadfast/",
+          "publishedOn": "2026-11-08T09:08:43.000Z",
+          "wordCount": null,
+          "title": "Introducing Project Steadfast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
+          "author": null,
+          "description": "submitted by    /u/_telesis  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
+          "publishedOn": "2026-11-08T06:53:33.000Z",
+          "wordCount": null,
+          "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
+          "author": null,
+          "description": "submitted by    /u/imbev  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
+          "publishedOn": "2026-11-08T04:44:15.000Z",
+          "wordCount": null,
+          "title": "Objects, attributes, maps, oh my!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
+          "author": null,
+          "description": "submitted by    /u/fagnerbrack  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqp9wx/a_quick_look_at_zeroknowledge_proofs/",
+          "publishedOn": "2026-11-08T04:01:15.000Z",
+          "wordCount": null,
+          "title": "A quick look at zero-knowledge proofs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
+          "author": null,
+          "description": "submitted by    /u/Ok_Stomach6651  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
+          "publishedOn": "2026-11-07T23:58:05.000Z",
+          "wordCount": null,
+          "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
+          "author": null,
+          "description": "This article is a deep dive into the internals of the asyncio Python standard library. It is written from a debugging perspective, stepping through the code line by line.\n    submitted by    /u/humbulani-ndou  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
+          "publishedOn": "2026-11-07T10:26:39.000Z",
+          "wordCount": null,
+          "title": "Internals of asyncio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
+          "author": null,
+          "description": "submitted by    /u/rmadriz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
+          "publishedOn": "2026-11-07T01:00:30.000Z",
+          "wordCount": null,
+          "title": "Libghostty 1.0",
+          "imageUrl": null
+        }
+      ],
+      "group": "开发",
+      "maxArticles": null,
+      "recovered": true
     }
   ],
   "cliVersion": "1.18.1"
