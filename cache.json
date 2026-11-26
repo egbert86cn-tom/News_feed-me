@@ -1,646 +1,109 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "author": null,
-          "description": "Fixed: Favicon used as article image",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
-          "publishedOn": "2022-06-22T06:05:35.000Z",
-          "wordCount": 291,
-          "title": "v1.15.1",
-          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
-        }
-      ],
-      "group": null,
-      "maxArticles": null
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=398743",
-          "author": "Geoff Graham",
-          "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
-          "publishedOn": "2026-11-25T15:32:42.000Z",
-          "wordCount": 1721,
-          "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/11/remix-scroll.mp4",
-            "length": "15516421",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=398126",
-          "author": "Kevin Powell",
-          "description": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.\nStyle Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
-          "publishedOn": "2026-11-25T14:06:34.000Z",
-          "wordCount": 3490,
-          "title": "Style Queries as Conditional Modifiers",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/11/20261116-1529-04.2595129.mp4",
-            "length": "5847089",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396490",
-          "author": "Steve Frenzel",
-          "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/using-frontend-fallbacks/",
-          "publishedOn": "2026-11-23T14:21:44.000Z",
-          "wordCount": 3205,
-          "title": "Using Fallbacks for a Robust Front-End",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=398239",
-          "author": "Geoff Graham",
-          "description": "A new resource resurrecting lost web-dev articles and posts:\nThis is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to \n…\nDev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dev-material-archive/",
-          "publishedOn": "2026-11-23T14:18:50.000Z",
-          "wordCount": 1832,
-          "title": "Dev Material Archive",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397535",
-          "author": "Geoff Graham",
-          "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
-          "publishedOn": "2026-11-20T15:03:47.000Z",
-          "wordCount": 2484,
-          "title": "Andy Clarke answers six questions about Standout Designs for the Web",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=397984",
-          "author": "John Rhea",
-          "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/s/scroll-state/",
-          "publishedOn": "2026-11-19T14:57:54.000Z",
-          "wordCount": 3935,
-          "title": "scroll-state()",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=398054",
-          "author": "Andy Bell",
-          "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/when-everything-has-changed/",
-          "publishedOn": "2026-11-18T14:55:21.000Z",
-          "wordCount": 3996,
-          "title": "When Everything Has Changed, What Do We Do Next?",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395816",
-          "author": "Lee Meyer",
-          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
-          "publishedOn": "2026-11-16T16:47:05.000Z",
-          "wordCount": 3563,
-          "title": "Staggering Scroll-Driven Animations with animation-range-start",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397800",
-          "author": "Geoff Graham",
-          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
-          "publishedOn": "2026-11-13T14:05:24.000Z",
-          "wordCount": 2916,
-          "title": "10 Big Ol’ 2027 Black Friday Deals",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397598",
-          "author": "Andy Clarke",
-          "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/beyond-12-columns/",
-          "publishedOn": "2026-11-12T16:06:55.000Z",
-          "wordCount": 3719,
-          "title": "Beyond 12 Columns: Designing Layouts With Personality",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396572",
-          "author": "Jens Oliver Meiert",
-          "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-using-declarations-just-once/",
-          "publishedOn": "2026-11-10T16:42:18.000Z",
-          "wordCount": 2958,
-          "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397812",
-          "author": "Geoff Graham",
-          "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-version-20/",
-          "publishedOn": "2026-11-09T15:49:48.000Z",
-          "wordCount": 5030,
-          "title": "CSS-Tricks, Version 20",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
-            "length": "7389584",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397890",
-          "author": "Geoff Graham",
-          "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-tricks-redesign-preview/",
-          "publishedOn": "2026-11-06T18:52:59.000Z",
-          "wordCount": 2475,
-          "title": "RSS Club: CSS-Tricks Redesign Preview",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396817",
-          "author": "Stu Robson",
-          "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
-          "publishedOn": "2026-11-05T14:55:31.000Z",
-          "wordCount": 4765,
-          "title": "Taming Typography: Building a Modern CSS Reset",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397777",
-          "author": "Geoff Graham",
-          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/smashing-ai-conference/",
-          "publishedOn": "2026-11-04T15:02:51.000Z",
-          "wordCount": 1967,
-          "title": "Smashing AI Conference",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397741",
-          "author": "Temani Afif",
-          "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
-          "publishedOn": "2026-11-03T14:50:32.000Z",
-          "wordCount": 3644,
-          "title": "Re-Implementing :nth-child() With Modern CSS",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397698",
-          "author": "Daniel Schwarz",
-          "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-20/",
-          "publishedOn": "2026-11-02T15:06:07.000Z",
-          "wordCount": 2814,
-          "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=397546",
-          "author": "Preethi",
-          "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-frankenstein-table/",
-          "publishedOn": "2026-10-29T13:47:08.000Z",
-          "wordCount": 2969,
-          "title": "The Frankenstein Table",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
-        }
-      ],
-      "group": null,
-      "maxArticles": null
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
-          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
-          "publishedOn": "2026-11-17T12:00:00.000Z",
-          "wordCount": 4651,
-          "title": "Meet AI 2027 Conference (Dec 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-          "author": "hello@smashingmagazine.com (Andrew Chung)",
-          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
-          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
-          "publishedOn": "2026-11-17T08:00:00.000Z",
-          "wordCount": 4437,
-          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
-          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
-          "publishedOn": "2026-11-12T10:00:00.000Z",
-          "wordCount": 6056,
-          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
-          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-          "publishedOn": "2026-11-06T08:00:00.000Z",
-          "wordCount": 3433,
-          "title": "A New Community For In-House UX People",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
-          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-          "publishedOn": "2026-11-05T13:00:00.000Z",
-          "wordCount": 6887,
-          "title": "Making Immersive LLM Chat Experiences More Accessible",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
-          "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
-          "publishedOn": "2026-11-03T10:00:00.000Z",
-          "wordCount": 6991,
-          "title": "Modern CSS Might Make Your Front-End More Complex",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
-          "publishedOn": "2026-10-31T08:00:00.000Z",
-          "wordCount": 4537,
-          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
-        }
-      ],
-      "group": null,
-      "maxArticles": null
-    },
-    {
-      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "6b0740e9d9c19e6e465e6cbf",
-          "author": "Shradha Puri",
-          "description": "Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f",
-          "link": "https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/",
-          "publishedOn": "2026-11-25T20:11:21.000Z",
-          "wordCount": 3932,
-          "title": "How Wearables Can Turn Your Body Into a Dashboard",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6103d1de-159f-474e-9981-b1c84778c5ff.png"
-        },
-        {
-          "id": "6b073bc61949010821f01797",
-          "author": "Ijeoma Igboagu",
-          "description": "When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/",
-          "publishedOn": "2026-11-25T19:49:25.000Z",
-          "wordCount": 4857,
-          "title": "How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6c616b65-646a-49ca-8d72-22ce52ea4426.png"
-        },
-        {
-          "id": "6b06284b7f6906157677974a",
-          "author": "Ajay Patel",
-          "description": "If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/",
-          "publishedOn": "2026-11-25T00:14:03.000Z",
-          "wordCount": 6569,
-          "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e0f2c2e490269cb30227a2b/cec83f18-c647-46a4-a7ca-125aea525bed.png"
-        },
-        {
-          "id": "6b061084d3cd7eb63b3e05fa",
-          "author": "Reetain Raina",
-          "description": "Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi",
-          "link": "https://www.freecodecamp.org/news/how-phishing-attacks-work/",
-          "publishedOn": "2026-11-24T22:32:36.000Z",
-          "wordCount": 4948,
-          "title": "How Phishing Attacks Actually Work (And How Developers Can Spot Them)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb02608a-4ac9-48f2-8d81-5c5684ab9892.png"
-        },
-        {
-          "id": "6b05b3498a6cb0ff981c0f3f",
-          "author": "Beau Carnes",
-          "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
-          "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
-          "publishedOn": "2026-11-24T15:54:49.000Z",
-          "wordCount": 1588,
-          "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
-          "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
-        },
-        {
-          "id": "6b04590fe116d564954b31ad",
-          "author": "Rajdeep Singh",
-          "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
-          "publishedOn": "2026-11-23T15:17:35.000Z",
-          "wordCount": 3263,
-          "title": "How to Use the GitHub CLI with GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
-        },
-        {
-          "id": "6b04581bc6f7393e301ba3cd",
-          "author": "Chidiebere Njoku",
-          "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
-          "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
-          "publishedOn": "2026-11-23T15:13:31.000Z",
-          "wordCount": 4006,
-          "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
-        },
-        {
-          "id": "6b0457f1f1e50f6d0a06ec3f",
-          "author": "Manish Shivanandhan",
-          "description": "Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An",
-          "link": "https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/",
-          "publishedOn": "2026-11-23T15:12:49.000Z",
-          "wordCount": 2407,
-          "title": "AI Network Firewalls for Enterprise Security Architecture",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1dcbb09-9eb5-4c61-99c3-3da86dd82dea.png"
-        },
-        {
-          "id": "6b009404336f5868385eb26f",
-          "author": "Chosen Vincent",
-          "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
-          "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
-          "publishedOn": "2026-11-20T18:40:04.000Z",
-          "wordCount": 5874,
-          "title": "How to Write an API Migration Guide (With a Real Example)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
-        },
-        {
-          "id": "6aff718ab7bbd995ee693880",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
-          "publishedOn": "2026-11-19T22:00:42.000Z",
-          "wordCount": 5000,
-          "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/17f495db-a70b-427b-a69d-4b200d573081.png"
-        },
-        {
-          "id": "6aff37e26fa61df077387de3",
-          "author": "Bala Priya C",
-          "description": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
-          "publishedOn": "2026-11-19T17:54:42.000Z",
-          "wordCount": 2968,
-          "title": "How to Scrape Websites in Python with Olostep",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1f48704-57ee-42f1-8687-766ff3abb630.png"
-        },
-        {
-          "id": "6aff2ffbede28e00513a0715",
-          "author": "Bhavin Sheth",
-          "description": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
-          "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
-          "publishedOn": "2026-11-19T17:20:58.000Z",
-          "wordCount": 8036,
-          "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ad5640f-31b1-412d-a20c-d1180ae363f2.png"
-        },
-        {
-          "id": "6afdc8c04e123f818c6a048e",
-          "author": "Beau Carnes",
-          "description": "Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota",
-          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/",
-          "publishedOn": "2026-11-18T15:48:16.000Z",
-          "wordCount": 1662,
-          "title": "Learn Data Structures and Algorithms in Python with Visualizations",
-          "imageUrl": "https://i.ytimg.com/vi/ybe6EGe_wjo/maxresdefault.jpg"
-        },
-        {
-          "id": "6afba1044c9d975934925ee6",
-          "author": "Samuel Tosin",
-          "description": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
-          "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
-          "publishedOn": "2026-11-17T00:34:12.000Z",
-          "wordCount": 7958,
-          "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2573405d-995c-4738-862d-0fadc243446c.png"
-        },
-        {
-          "id": "6afb9d63e1e477f325473f68",
-          "author": "David Aniebo",
-          "description": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
-          "publishedOn": "2026-11-17T00:18:42.000Z",
-          "wordCount": 8170,
-          "title": "How to Build a Translator with Chrome’s Built-In AI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d251ce9-4e88-476b-9a54-0face0578c19.png"
-        },
-        {
-          "id": "6af88630044134836d5c4f7d",
-          "author": "Beau Carnes",
-          "description": "GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and",
-          "link": "https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/",
-          "publishedOn": "2026-11-14T16:02:56.000Z",
-          "wordCount": 1661,
-          "title": "Build and Train a GLM-5.3-Flash Model From Scratch with Python",
-          "imageUrl": "https://i.ytimg.com/vi/-gfgQfw2g_E/maxresdefault.jpg"
-        },
-        {
-          "id": "6af7069e2028f50f83240511",
-          "author": "Manish Shivanandhan",
-          "description": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
-          "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
-          "publishedOn": "2026-11-13T12:46:22.000Z",
-          "wordCount": 3253,
-          "title": "How to Speed Up CI in the Age of AI-Written Code",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d1609f3b-9a5c-402f-b04d-30349dd2e10e.png"
-        },
-        {
-          "id": "6af6f326f94aa3564f351d31",
-          "author": "Yemi Ojedapo",
-          "description": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
-          "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
-          "publishedOn": "2026-11-13T11:23:18.000Z",
-          "wordCount": 6311,
-          "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae47b7ae-2c13-49b9-bad7-a20a28edbecb.png"
-        },
-        {
-          "id": "6af6ea1b6758a8ccb76659d6",
-          "author": "Bhavin Sheth",
-          "description": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
-          "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
-          "publishedOn": "2026-11-13T10:44:43.000Z",
-          "wordCount": 9808,
-          "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eb2e1525-11db-47ef-a27c-b0672184efe8.png"
-        },
-        {
-          "id": "6af33ff6e6a1d476dd025c20",
-          "author": "Beau Carnes",
-          "description": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
-          "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
-          "publishedOn": "2026-11-10T16:01:58.000Z",
-          "wordCount": 1693,
-          "title": "Learn Agentic Coding with Codex & AI Coding Agents",
-          "imageUrl": "https://i.ytimg.com/vi/ajfQWhGQGLE/maxresdefault.jpg"
-        },
-        {
-          "id": "6af31a20042fa071f004461c",
-          "author": "Reetain Raina",
-          "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
-          "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
-          "publishedOn": "2026-11-10T13:20:32.000Z",
-          "wordCount": 5200,
-          "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5ab5b73d-ffb5-4c71-91b7-648b69bb79b7.png"
-        },
-        {
-          "id": "6aee2d6e123f77519047915d",
-          "author": "Bhavin Sheth",
-          "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
-          "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
-          "publishedOn": "2026-11-06T19:41:34.000Z",
-          "wordCount": 14368,
-          "title": "How to Build a PDF Storyboard Generator Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8109e42-db7b-4690-9d2b-2be82ab57943.png"
-        },
-        {
-          "id": "6aedfb097070ca4b7e00e608",
-          "author": "Beau Carnes",
-          "description": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
-          "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
-          "publishedOn": "2026-11-06T16:06:33.000Z",
-          "wordCount": 1675,
-          "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
-          "imageUrl": "https://cdn.hashnode.com/uploads/gql/5f68e7df6dfc523d0a894e7c/1bca1e16-d488-4afc-bc2f-ede5902092c4.jpg"
-        },
-        {
-          "id": "6aecb9efa7a2ab6fb8e3fe94",
-          "author": "Ajay Patel",
-          "description": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
-          "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
-          "publishedOn": "2026-11-05T17:16:30.000Z",
-          "wordCount": 13742,
-          "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ddea2027-27b4-407e-83a5-d84bfd295627.png"
-        },
-        {
-          "id": "6aeba47df91e889efe09a17a",
-          "author": "Reetain Raina",
-          "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
-          "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
-          "publishedOn": "2026-11-04T21:32:45.000Z",
-          "wordCount": 3831,
-          "title": "What a CAPTCHA Farm Attack Actually Looks Like",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
-        },
-        {
-          "id": "6aeb864c3b9bd5f8621e17c4",
-          "author": "Quincy Larson",
-          "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
-          "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
-          "publishedOn": "2026-11-04T19:23:56.000Z",
-          "wordCount": 1739,
-          "title": "Introducing Socrates and the New freeCodeCamp Forum",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b482fb0-6ce1-4cd9-8241-e83e65c390f8.png"
-        },
-        {
-          "id": "6aea2f4db1deb69c0283692a",
-          "author": "Saar Twito",
-          "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
-          "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
-          "publishedOn": "2026-11-03T19:00:29.000Z",
-          "wordCount": 7201,
-          "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d158690-136a-44a2-aa34-e24be77e004c.png"
-        },
-        {
-          "id": "6aea2aaffbe759481e70cb16",
-          "author": "jabo Landry",
-          "description": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
-          "publishedOn": "2026-11-03T18:40:47.000Z",
-          "wordCount": 5029,
-          "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60aa4c00-42d7-4e36-84b4-89f55b140dca.png"
-        },
-        {
-          "id": "6aea10a0338bcff0a27d3b67",
-          "author": "Reetain Raina",
-          "description": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
-          "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
-          "publishedOn": "2026-11-03T16:49:36.000Z",
-          "wordCount": 4271,
-          "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4192997d-6653-4cd6-a51f-22c379b2565c.png"
-        }
-      ],
-      "group": "默认",
-      "maxArticles": null
-    },
-    {
       "title": "虎嗅资讯-全部",
       "feedUrl": "https://rsshub.rssforever.com/huxiu/article",
       "siteUrl": "https://www.huxiu.com/article",
       "articles": [
+        {
+          "id": "huxiu-article-4908667",
+          "author": "名酒研究所",
+          "description": "当前，国产威士忌正在加速扩产，生产厂家已有64家，实际蒸馏能力7万千升，规划能力13万千升，四川邛崃、峨眉山、浙江千岛湖、云南大理四大产区成形，热钱、产区、标准与产能几乎同时涌入。把视线拉远，威士忌在全球烈酒版图里的位置并不平均。根据FortuneBusinessInsights行业报告，2025年全球威士忌......\n本文来自微信公众号： 名酒研究所 ，作者：名酒研究所\n当前，国产威士忌正在加速扩产，生产厂家已有64家，实际蒸馏能力7万千升，规划能力13万千升，四川邛崃、峨眉山、浙江千岛湖、云南大理四大产区成形，热钱、产区、标准与产能几乎同时涌入。\n把视线拉远，威士忌在全球烈酒版图里的位置并不平均。\n根据FortuneBusinessInsights行业报告，2025年全球威士忌市场规模约928.9亿美元，是全球销售额第一大烈酒品类。在这之中，苏格兰威士忌出口额53.6亿英镑，在全球160多个市场销售，具有较高的地位。\n苏格兰威士忌的成就，来源于过去几十年里反复经历周期、反复重置自身：产能扩张之后是库存压顶，单一麦芽价值爆发之后是调和威士忌底部承接，欧美成熟市场增长放缓之后是印度、亚太增量分层接棒。梳理苏格兰威士忌的产业路径，可为正在经历产能扩张与库存考验的国产威士忌，以及处在存量竞争阶段的烈酒行业，提供一份参照。\n二十余年出口曲线：出口额增长快于出口量增长\n由于苏格兰本地烈酒消费量较小，苏格兰威士忌出口数据更能真实反映这一品类的发展情况。追溯2000年以来的出口额与出口量，可以看到六个明显阶段。\n\n2000年至2011年，是缓慢放量、出口额加速增长。出口额从约21.6亿英镑增长至42.3亿英镑，翻了一番；出口量增长相对温和，出口额增长显著快于出口量增长，高端化趋势开始显现。这一时期，单一麦芽威士忌逐渐成为出口额驱动引擎。\n2012年至2015年，是高位调整期。2012…",
+          "link": "https://www.huxiu.com/article/4908667.html",
+          "publishedOn": "2026-11-26T07:30:37.000Z",
+          "wordCount": null,
+          "title": "苏格兰威士忌的周期启示",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908519",
+          "author": "秦朔朋友圈",
+          "description": "11月19日，人工智能公司Anthropic在纳斯达克上市，首日收于97.17美元，较发行价上涨17%。硅谷投资者成为焦点，远在中东的阿布扎比却出现了一位隐形赢家。阿联酋投资机构MGX披露，按照这一收盘价计算，其持有的Anthropic股份账面浮盈约200亿美元。成立于2024年的MGX，只用了两年多便跻身全......\n本文来自微信公众号： 秦朔朋友圈 ，作者：朱兆一，题图来自：AI生成\n11月19日，人工智能公司Anthropic在纳斯达克上市，首日收于97.17美元，较发行价上涨17%。硅谷投资者成为焦点，远在中东的阿布扎比却出现了一位隐形赢家。\n阿联酋投资机构MGX披露，按照这一收盘价计算，其持有的Anthropic股份账面浮盈约200亿美元。成立于2024年的MGX，只用了两年多便跻身全球人工智能投资的重要参与者。它连续参与Anthropic融资，并在上市时继续加码。\n当然，200亿美元仍是账面收益。股价会波动，大额减持也受到限制。但一笔投资所展示的转变已经十分清楚。\n过去，阿联酋向世界出售石油，再把美元投向全球市场；如今，来自能源的财富开始直接分享人工智能企业成长所带来的巨额收益。\n阿联酋的打算还有更远的一步。它希望在本土建设大型数据中心，将资本和能源优势转化为可供出口的计算能力，用“算力美元”为经济寻找新的支柱。只是，随着美国强化先进芯片监管、伊朗战争冲击海湾安全，转型正面临两道关口：关键技术掌握在谁手里，支撑长期投资的稳定环境还能维持多久？\n一、全力押注人工智能\n阿联酋直到今天仍然拥有可观的石油储量，能源出口仍是国家财富的重要来源。该国推动转型，并非因为油井即将枯竭。真正的压力来自未来几十年全球经济结构可能发生的变化。\n新能源汽车、可再生能源和能效技术不断发展，石油需求的长期增长承受压力。油价又受到全球经济周期、主要消费国政策及地缘冲突影响。产油国可以调节供…",
+          "link": "https://www.huxiu.com/article/4908519.html",
+          "publishedOn": "2026-11-26T07:27:36.000Z",
+          "wordCount": null,
+          "title": "一投浮盈1340亿，阿联酋的“算力美元”赌局",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908665",
+          "author": "老吴投资分析©",
+          "description": "中国拥有全球规模最大、门类最齐全的制造业体系，从服装、家具、家电“老三样”到新能源汽车、锂电池、光伏产品的“新三样”，中国制造已经完成一轮又一轮的迭代，在全球市场攻城略地。工程师红利、完整产业链配套优势有目共睹。产业层面的竞争力肉眼可见，但一个长期困扰投资者的问题始终存在：产业的强势，为什么很难顺畅转化为A股......\n本文来自微信公众号： 老吴投资分析 ，作者：老吴\n中国拥有全球规模最大、门类最齐全的制造业体系，从服装、家具、家电“老三样”到新能源汽车、锂电池、光伏产品的“新三样”，中国制造已经完成一轮又一轮的迭代，在全球市场攻城略地。工程师红利、完整产业链配套优势有目共睹。产业层面的竞争力肉眼可见，但一个长期困扰投资者的问题始终存在：产业的强势，为什么很难顺畅转化为A股的牛市？很多细分赛道龙头，产品横扫全球，股价却长期低迷。\n为什么产业基本面和资本市场表现之间，始终横亘着一道显著的鸿沟？\n首先要厘清一个核心误区：产业强不等于上市公司整体盈利强！\n产业优势更多体现在产能、规模、供应链配套和全球市占率，不等于行业内企业拥有稳定、丰厚的利润。不管是老三样还是新三样，国内优势赛道普遍有一个特点：一旦技术路线成熟、准入门槛降低，资本就会蜂拥而入，产能快速扩张，内卷随之而来。新三样里的光伏、动力电池，就反复上演价格战，行业份额越做越大，但毛利率持续被压缩，ROE长期承压。简单说，东西卖得多、全球份额高，利润却越来越薄。\n与此同时，很多产业链价值最高的环节，高端芯片、精密设备、核心材料、工业软件仍大量依赖外部采购，国内企业很多时候承担制造组装环节，赚取加工端利润，价值分配格局天然受限。老三样同样如此，属于充分竞争的轻工制造，壁垒不高，长期只能赚微薄加工费，很难形成高利润护城河。\n其次是上市公司结构，和中国优势产业版图不完全匹配。\nA股市场的权重基座，长期由银行、能源、基建等周期、重…",
+          "link": "https://www.huxiu.com/article/4908665.html",
+          "publishedOn": "2026-11-26T07:26:58.000Z",
+          "wordCount": null,
+          "title": "中国产业强为什么没有转化为股市强？",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908664",
+          "author": "IT桔子",
+          "description": "11月25日，深圳一家芯片公司宣布完成亿元融资。比较特别的是，它的投资方名单里是五家银行的名字：工商银行、中国银行、农业银行、招商银行、宁波银行。航顺芯片，一家做MCU的芯片设计公司，最新一轮融资名单里没有一个财务投资人，全是银行。这种结构在硬科技融资里不算常见。跟着这起交易，我们来了解下银行是参与到股权投资......\n本文来自微信公众号： IT桔子 ，作者：Judy，原文标题：《银行正在抢 PE 的活》\n11月25日，深圳一家芯片公司宣布完成亿元融资。比较特别的是，它的投资方名单里是五家银行的名字：工商银行、中国银行、农业银行、招商银行、宁波银行。\n航顺芯片，一家做MCU的芯片设计公司，最新一轮融资名单里没有一个财务投资人，全是银行。这种结构在硬科技融资里不算常见。\n跟着这起交易，我们来了解下银行是参与到股权投资市场的。\n五家银行，来路不同\n新闻里写投资方是「五大行」这个说法，严格讲并不准确。\n实际上，工行、中行、农行是通过各自的AIC出资。\nAIC是Asset Investment Company的缩写，中文叫金融资产投资公司，银行的全资子公司，持牌非银金融机构，2017年为承接债转股业务设立。\n招商银行走的是招银投资，2025年获批的股份行AIC，注册资本150亿，行长王小青在股东大会上说过今年安排了超百亿预算。\n而宁波银行没有AIC牌照。它是城商行，这笔钱走的不是AIC通道。\n这五家银行的钱来路并不同，考核和退出要求也不一样。\n至于各家具体用什么主体进来、什么价格、有没有回购条款，公开信息里都查不到，航顺的公众号只说了金额。\n一条走了十年的路\n银行能参与到企业的股权投资里，是用了将近十年才走通的一条路。\n2016年国务院推市场化债转股，目的是给企业降杠杆。第二年五大行各自设立AIC，干的活是接银行手里的存量债权，把债转成股——本质上还是处理不良资产，只是换了个主体…",
+          "link": "https://www.huxiu.com/article/4908664.html",
+          "publishedOn": "2026-11-26T07:19:37.000Z",
+          "wordCount": null,
+          "title": "银行正在抢PE 的活",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908661",
+          "author": "黑板洞察",
+          "description": "一场大学考试，过去最容易引起争议的情形是学生偷偷打开了AI；如今，澳大利亚新南威尔士大学（UNSW）却给出了一种相反的安排：有些考核不仅允许AI参与，而且要求学生必须使用AI。2026年10月13日，UNSW在官方文章中解释了新的三模式考核体系：不能使用AI（Can’t use AI）、可以使用AI（Can ......\n本文来自微信公众号： 黑板洞察 ，作者：耳东\n一场大学考试，过去最容易引起争议的情形是学生偷偷打开了AI；如今，澳大利亚新南威尔士大学（UNSW）却给出了一种相反的安排：有些考核不仅允许AI参与，而且要求学生必须使用AI。\n2026年10月13日，UNSW在官方文章中解释了新的三模式考核体系：不能使用AI（Can’t use AI）、可以使用AI（Can use AI）、必须使用AI（Must use AI）。这并非一项突然出现的临时规定。学校于6月1日公布新的考核与学业进展政策，并于6月22日面向教职员工介绍新安排，相关模式从2026年第六小学期起逐步实施。学校强调，三种模式分别服务于不同的学习目标，而非简单向学生发放AI使用许可。\n其中，最耐人寻味的是“必须使用AI”。按照UNSW的解释，当AI能力本身就是学习成果之一，学生需要展示对AI批判性、合乎伦理、负责任且有效的使用能力。考核的重点因此不再只是学生交出了什么作品，还包括学生为什么这样使用工具、如何审视工具输出，以及能否作出专业判断。\n一所高校的制度调整之所以值得关注，是因为它指向大学正在面对的共同困境：当AI能够生成论文、程序、数据分析和商业方案，学校凭什么断定一份优秀作业背后存在同样优秀的学生？如果答案本身越来越容易获得，成绩究竟应该证明什么？\n01\n从禁止到必须，\n高校开始重新划定考核边界\n生成式AI进入大学的最初几年，学校往往先从学术诚信入手：要求披露AI使用情况、限制某些课程的工具使用、…",
+          "link": "https://www.huxiu.com/article/4908661.html",
+          "publishedOn": "2026-11-26T07:14:58.000Z",
+          "wordCount": null,
+          "title": "当大学开始要求学生必须使用AI，考试正在被重新定义",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908656",
+          "author": "听风译码",
+          "description": "5月22日，国家统计局公布2025年全国1%人口抽样调查主要数据。这份公报里最容易被滑过去的一行是：全国共有家庭户51465万户，平均每个家庭户2.52人。2.52。三口之家这个词用了三十多年，如今它不再是平均数。一个人住、两个人住、老人单独住，正在从例外变成常态。真正的问题不是家变小了，而是过去默认由“家里......\n本文来自微信公众号： 听风译码 ，作者：安申国\n5月22日，国家统计局公布2025年全国1%人口抽样调查主要数据。\n这份公报里最容易被滑过去的一行是：全国共有家庭户51465万户，平均每个家庭户2.52人。\n2.52。\n三口之家这个词用了三十多年，如今它不再是平均数。\n一个人住、两个人住、老人单独住，正在从例外变成常态。\n真正的问题不是家变小了，而是过去默认由“家里人”接住的事——养老、看病、吃饭、出事时有人签字——接下来由谁接。\n⑴一户人家，凑不齐三个人\n先把2.52这个数字的来路说清楚。\n2025年11月1日零时，全国1%人口抽样调查推算得出：全国家庭户51465万户，家庭户人口129685万人，平均每个家庭户2.52人。\n同一份公报里，60岁及以上人口32122万人，占22.86%；65岁及以上22309万人，占15.87%。\n把时间轴拉长，这条线一直在往下走。\n1982年，户均4.43人；2000年，3.44人；2010年，3.10人；2020年第七次全国人口普查，2.62人；2025年，2.52人。\n四十三年，家里少了将近两个人。\n另一组对比更说明问题：家庭户的数量在涨，户均人数在跌。\n2020年七普时全国家庭户约4.94亿户，2025年到了5.15亿户，五年多了约2000万户；同期户均人口从2.62人降到2.52人。\n这里还有一个更少被提起的对照：家庭户在变多，总人口在变少。\n据2025年国民经济和社会发展统计公报，年末全国人口140489万人…",
+          "link": "https://www.huxiu.com/article/4908656.html",
+          "publishedOn": "2026-11-26T06:52:26.000Z",
+          "wordCount": null,
+          "title": "2.52人的家：住房、养老与消费，都要按一个人重做",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908654",
+          "author": "底线思维©",
+          "description": "亚洲为何能够在数千年间占据世界经济中心？西方主导世界的格局又为何在短短两个世纪内形成，并在今天逐渐发生逆转？美国著名经济学家、哥伦比亚大学教授杰弗里·萨克斯近日在复旦大学中国研究院发表演讲，从三千年的历史长时段出发，梳理亚洲人口与经济优势的形成、欧洲殖民帝国的崛起，以及美国主导的国际秩序如何走向衰落。萨克斯指......\n本文来自微信公众号： 底线思维 ，作者：杰弗里·萨克斯\n亚洲为何能够在数千年间占据世界经济中心？西方主导世界的格局又为何在短短两个世纪内形成，并在今天逐渐发生逆转？\n美国著名经济学家、哥伦比亚大学教授杰弗里·萨克斯近日在复旦大学中国研究院发表演讲，从三千年的历史长时段出发，梳理亚洲人口与经济优势的形成、欧洲殖民帝国的崛起，以及美国主导的国际秩序如何走向衰落。\n萨克斯指出，西方主导世界并非历史常态，而是近代殖民扩张与工业革命共同塑造的阶段性结果。随着中国、印度等亚洲经济体崛起，世界经济重心正重新回到亚洲，单极霸权已难以适应新的力量格局。面对多极化时代的到来，大国应如何摆脱霸权思维，通过合作避免冲突，成为国际社会必须回答的问题。\n\n2026年11月7日，杰弗里·萨克斯在复旦大学发表演讲。复旦大学中国研究院\n杰弗里·萨克斯：\n非常感谢大家。很高兴再次来到复旦大学，也非常高兴能有这次机会和大家交流。\n我们可以谈论很多事情，因为当下的世界正处于一个非常有意思的时期：一个重大变革、重大转型的时期。我想借用一个词——“长时段”（long term）——从历史的长视角来理解我们今天所处的位置。如果大家允许我从长时段谈起，我想把时间拨回三千年前，再逐步走到今天，并由此展望未来。\n之所以要采取长时段视角，是因为我们正处于一个历史关口：亚洲已经重新回到世界经济的中心位置。这是过去七十五年、尤其是过去四十五年来中国发生的一系列变化所带来的结果。按照我们目前能够进行的、较为恰当的购…",
+          "link": "https://www.huxiu.com/article/4908654.html",
+          "publishedOn": "2026-11-26T06:43:13.000Z",
+          "wordCount": null,
+          "title": "杰弗里·萨克斯：从3000年历史看，西方中心只是短暂例外，亚洲正重新归位",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908650",
+          "author": "酒店圈儿Hotelers",
+          "description": "很长一段时间里，厨房是酒店的自留地。酒店餐饮涵盖不同时段、不同场景和不同菜系，长期以来，一直被当作客房的配套服务。酒店自己招聘厨师、研发菜单、采购食材，也承担餐厅的经营成本。随着酒店高端餐饮关注度最近两年的显著崛起，这套分工正在变化。新荣记、广州酒家、唐宫、莲香楼等餐饮品牌，正以不同方式进入酒店：有的接手整间......\n本文来自微信公众号： 酒店圈儿 ，作者：Martin\n很长一段时间里，厨房是酒店的自留地。\n酒店餐饮涵盖不同时段、不同场景和不同菜系，长期以来，一直被当作客房的配套服务。酒店自己招聘厨师、研发菜单、采购食材，也承担餐厅的经营成本。\n随着酒店高端餐饮关注度最近两年的显著崛起，这套分工正在变化。\n新荣记、广州酒家、唐宫、莲香楼等餐饮品牌，正以不同方式进入酒店：有的接手整间餐厅，有的参与菜单研发，还有的把合作延伸到早餐、客房送餐和零售。\n厨房交给别人之后，酒店得到想要的了么？\n算账逻辑变了，\n酒店餐饮得重新盘算■\n过去，酒店餐厅的盈亏不一定要单独计算。\n在上一阶段以地产开发商为主导的高端酒店项目里，酒店常常是综合开发的一部分。建酒店的目的，除了客房收入保证稳定现金流，还可能为了完善商业配套、提升项目形象，带动周边住宅和商业物业价值。餐饮即使亏损，也可能由整个项目的收益消化平衡。\n不用细说也能意识到，这套逻辑变了。\n据仲量联行统计，2024年中国内地酒店投资交易额178.7亿元。按交易额计算，68%的出售方是开发商，12%来自房地产基金。收购方中，高净值人士约占三成，国资企业占两成，金融机构近两成。国资在酒店交易中的占比，也从2015至2019年的0.1%升至2020至2024年的14.9%。\n到2025年，开发商在卖方中的占比降至约三成。\n过去，账是给综合体算的。现在这本账，要落到这栋楼里：客房、餐饮、人工和空间效率，都要单独核算。\n酒店经营端同样承压。2025…",
+          "link": "https://www.huxiu.com/article/4908650.html",
+          "publishedOn": "2026-11-26T06:39:34.000Z",
+          "wordCount": null,
+          "title": "酒店餐厅，为什么开始把厨房交给别人？",
+          "itunes": {},
+          "imageUrl": null
+        },
+        {
+          "id": "huxiu-article-4908645",
+          "author": "看客insight©",
+          "description": "截至2025年底，我国失能老人约有3600万名，相当于60岁以上的老人中，每十个就有一个完全不能自理。当三餐和大小便都需要他人照料，许多其他的需求就会被极度压缩，比如——洗澡。四年前，张永和媳妇回到老家，开始全职从事“助浴师”，专门上门为老人“洗澡”。人老了会变成什么样，大概没有人会比张永他们更清楚。把失能老......\n本文来自微信公众号： 看客inSight ，作者：看客\n截至2025年底，我国失能老人约有3600万名，相当于60岁以上的老人中，每十个就有一个完全不能自理。\n当三餐和大小便都需要他人照料，许多其他的需求就会被极度压缩，比如——洗澡。\n四年前，张永和媳妇回到老家，开始全职从事“助浴师”，专门上门为老人“洗澡”。人老了会变成什么样，大概没有人会比张永他们更清楚。\n把失能老人从床上挪进浴缸，即使使用医用的移位机，也经常需要人工地抱、搀扶，老人赤裸地在他怀中，老年斑、老人味，脂肪流失后皱缩的极薄的皮肤，褶皱处多年没有洗过的污垢，都一览无余。\n有老人在遇到他们之前，好几年都没有洗过澡，臭味让家人都不自觉远离；有老人在澡盆中失禁，他们必须面不改色地收拾干净；也有老人把自己生命的最后交给他们，希望干干净净地离开。\n而张永最大的愿望是：“我希望我们这个职业没有生意。”\n一\n洗澡，是一种情绪价值\n24年的大年初四，张永媳妇接到一个电话，问他们现在能不能安排上门洗澡。\n累了一整年，张永家的惯例是休息到初八、初九，他们问对方能不能晚几天，约到初十、初十一往后都行，对方回答说：“我可能等不了那么久。”\n原来对面是想给自己的妈妈约一次洗澡。老人六十多岁，癌症已经全身扩散，人在临终关怀医院，“时间可能不是很长了”。老人在网上刷到了上门助浴的短视频，想在走之前干干净净的，子女不想老人有遗憾，在电话里哀求：“我给你加钱，加一倍也行。”\n一听是这种情况，张永和媳妇一商量，“去！”\n春节期…",
+          "link": "https://www.huxiu.com/article/4908645.html",
+          "publishedOn": "2026-11-26T06:23:34.000Z",
+          "wordCount": null,
+          "title": "回东北做职业助浴师：帮失能老人洗澡，月入三万",
+          "itunes": {},
+          "imageUrl": null
+        },
         {
           "id": "huxiu-article-4908639",
           "author": "未来图灵",
@@ -5200,6 +4663,642 @@
       "maxArticles": null
     },
     {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 291,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        }
+      ],
+      "group": null,
+      "maxArticles": null
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=398743",
+          "author": "Geoff Graham",
+          "description": "Hey folks! I’m just so dang excited about this little project I’m working on with long-time author Lee Meyer that I had to share it with you before it goes out.\nWe’re going full 2013-meets-2026 with an art-directed piece that …\nRSS Club: Preview Art-Directed Scrollytelling Article originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/rss-club-preview-art-directed-scrollytelling-article/",
+          "publishedOn": "2026-11-25T15:32:42.000Z",
+          "wordCount": 1721,
+          "title": "RSS Club: Preview Art-Directed Scrollytelling Article",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/remix-scroll.mp4",
+            "length": "15516421",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398126",
+          "author": "Kevin Powell",
+          "description": "Where style queries shine is when the condition and the styles need to live in different places, or when one condition needs to affect several things at once: components that keep working, and adapt sensibly, no matter where they end up.\nStyle Queries as Conditional Modifiers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-style-queries-as-conditional-modifiers/",
+          "publishedOn": "2026-11-25T14:06:34.000Z",
+          "wordCount": 3490,
+          "title": "Style Queries as Conditional Modifiers",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/20261116-1529-04.2595129.mp4",
+            "length": "5847089",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396490",
+          "author": "Steve Frenzel",
+          "description": "It’s important to use fallbacks to build a robust front end, either to quietly and discreetly avoid the error or to communicate it to our users.\nUsing Fallbacks for a Robust Front-End originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-frontend-fallbacks/",
+          "publishedOn": "2026-11-23T14:21:44.000Z",
+          "wordCount": 3205,
+          "title": "Using Fallbacks for a Robust Front-End",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2021/06/reset-refresh-recycle-default.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398239",
+          "author": "Geoff Graham",
+          "description": "A new resource resurrecting lost web-dev articles and posts:\nThis is an archive of written articles about web development, web design, and web accessibility that once existed on the World Wide Web and which would otherwise be lost to \n…\nDev Material Archive originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/dev-material-archive/",
+          "publishedOn": "2026-11-23T14:18:50.000Z",
+          "wordCount": 1832,
+          "title": "Dev Material Archive",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/06/technical-writing.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397535",
+          "author": "Geoff Graham",
+          "description": "Web designer, author, and Stuff & Nonsense founder Andy Clarke has released Standout Designs for the Web, a new e-book that encourages designers to move beyond familiar templates and conventional layouts to create more personality-driven websites.\nThe book draws …\nAndy Clarke answers six questions about Standout Designs for the Web originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+          "publishedOn": "2026-11-20T15:03:47.000Z",
+          "wordCount": 2484,
+          "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/standout-design-thumbmnail.png"
+        },
+        {
+          "id": "https://css-tricks.com/?page_id=397984",
+          "author": "John Rhea",
+          "description": "The CSS scroll-state() query, surprisingly, has nothing to do with whether you’re doom-scrolling in a state of existential dread. It does, however, allow you to change the CSS used based on scrolling behavior.\nscroll-state() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/functions/s/scroll-state/",
+          "publishedOn": "2026-11-19T14:57:54.000Z",
+          "wordCount": 3935,
+          "title": "scroll-state()",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-gradient-logo-default.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=398054",
+          "author": "Andy Bell",
+          "description": "It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …\nWhen Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/when-everything-has-changed/",
+          "publishedOn": "2026-11-18T14:55:21.000Z",
+          "wordCount": 3996,
+          "title": "When Everything Has Changed, What Do We Do Next?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=395816",
+          "author": "Lee Meyer",
+          "description": "Imagine a CSS karaoke machine that displays a ball bouncing on text that incrementally highlights, based on progress through via speech recognition and running that kind of animation as a single predictable, holistic effect driven by one progress value.\nStaggering Scroll-Driven Animations with animation-range-start originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/staggering-scroll-driven-animations-with-animation-range-start/",
+          "publishedOn": "2026-11-16T16:47:05.000Z",
+          "wordCount": 3563,
+          "title": "Staggering Scroll-Driven Animations with animation-range-start",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/06/staggered-items.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397800",
+          "author": "Geoff Graham",
+          "description": "A big ol' roundup of Black Friday deals on front-end courses from the best independent publishers and educators in the business.\n10 Big Ol’ 2027 Black Friday Deals originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2027-front-end-black-friday-deals/",
+          "publishedOn": "2026-11-13T14:05:24.000Z",
+          "wordCount": 2916,
+          "title": "10 Big Ol’ 2027 Black Friday Deals",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397598",
+          "author": "Andy Clarke",
+          "description": "Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.\nBeyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/beyond-12-columns/",
+          "publishedOn": "2026-11-12T16:06:55.000Z",
+          "wordCount": 3719,
+          "title": "Beyond 12 Columns: Designing Layouts With Personality",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/css-tricks-1-8.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396572",
+          "author": "Jens Oliver Meiert",
+          "description": "Is the technique inspired by the DRY principle by identifying and reducing (if not eliminating) CSS declaration repetition still a relevant optimization strategy?\nCSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-using-declarations-just-once/",
+          "publishedOn": "2026-11-10T16:42:18.000Z",
+          "wordCount": 2958,
+          "title": "CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2018/04/ellipses-brackets.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397812",
+          "author": "Geoff Graham",
+          "description": "Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.\nCSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-version-20/",
+          "publishedOn": "2026-11-09T15:49:48.000Z",
+          "wordCount": 5030,
+          "title": "CSS-Tricks, Version 20",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/11/css-tricks-20-theme-tiggle.mp4",
+            "length": "7389584",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397890",
+          "author": "Geoff Graham",
+          "description": "Hey you wonderful RSS subscribers! We just soft-pushed a site redesign and wanted to give ya'll the first heads-up. A full write-up is coming but here are the high-level details.\nRSS Club: CSS-Tricks Redesign Preview originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-tricks-redesign-preview/",
+          "publishedOn": "2026-11-06T18:52:59.000Z",
+          "wordCount": 2475,
+          "title": "RSS Club: CSS-Tricks Redesign Preview",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/screenshot.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396817",
+          "author": "Stu Robson",
+          "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
+          "publishedOn": "2026-11-05T14:55:31.000Z",
+          "wordCount": 4765,
+          "title": "Taming Typography: Building a Modern CSS Reset",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397777",
+          "author": "Geoff Graham",
+          "description": "The AI 2027 Conference is a live online day for designers and engineers on where AI stands today, what to expect in 2027, and where teams are getting it right.\nSmashing AI Conference originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashing-ai-conference/",
+          "publishedOn": "2026-11-04T15:02:51.000Z",
+          "wordCount": 1967,
+          "title": "Smashing AI Conference",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/all.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397741",
+          "author": "Temani Afif",
+          "description": "Combining :nth-child with style queries and sibling-index() to conditionally select child elements.\nRe-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/re-implementing-nth-child-with-modern-css/",
+          "publishedOn": "2026-11-03T14:50:32.000Z",
+          "wordCount": 3644,
+          "title": "Re-Implementing :nth-child() With Modern CSS",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/11/nth-child-3n.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397698",
+          "author": "Daniel Schwarz",
+          "description": "This is the final issue of What’s !important on CSS-Tricks.com. The good news is that it’s coming back in an expanded form as the CSS-Tricks newsletter. I had ya there for a second, didn’t I? Sorry, I couldn’t decide whether to trick or treat, so I went for both. Happy Halloween\nWhat’s !important #20: GTA 6 Scroll Effects, Scrollspies, random() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-20/",
+          "publishedOn": "2026-11-02T15:06:07.000Z",
+          "wordCount": 2814,
+          "title": "What’s !important #20: GTA 6 Scroll Effects, Scrollspies, random()",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/wi20-1.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=397546",
+          "author": "Preethi",
+          "description": "A super scary way to go about tables using other layout techniques, like CSS Grid.\nThe Frankenstein Table originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-frankenstein-table/",
+          "publishedOn": "2026-10-29T13:47:08.000Z",
+          "wordCount": 2969,
+          "title": "The Frankenstein Table",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
+        }
+      ],
+      "group": null,
+      "maxArticles": null
+    },
+    {
+      "title": "freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "6b0740e9d9c19e6e465e6cbf",
+          "author": "Shradha Puri",
+          "description": "Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f",
+          "link": "https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/",
+          "publishedOn": "2026-11-25T20:11:21.000Z",
+          "wordCount": 3932,
+          "title": "How Wearables Can Turn Your Body Into a Dashboard",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6103d1de-159f-474e-9981-b1c84778c5ff.png"
+        },
+        {
+          "id": "6b073bc61949010821f01797",
+          "author": "Ijeoma Igboagu",
+          "description": "When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/",
+          "publishedOn": "2026-11-25T19:49:25.000Z",
+          "wordCount": 4857,
+          "title": "How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6c616b65-646a-49ca-8d72-22ce52ea4426.png"
+        },
+        {
+          "id": "6b06284b7f6906157677974a",
+          "author": "Ajay Patel",
+          "description": "If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/",
+          "publishedOn": "2026-11-25T00:14:03.000Z",
+          "wordCount": 6569,
+          "title": "How to Set Up and Customize Light and Dark Mode in shadcn with Next.js",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e0f2c2e490269cb30227a2b/cec83f18-c647-46a4-a7ca-125aea525bed.png"
+        },
+        {
+          "id": "6b061084d3cd7eb63b3e05fa",
+          "author": "Reetain Raina",
+          "description": "Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi",
+          "link": "https://www.freecodecamp.org/news/how-phishing-attacks-work/",
+          "publishedOn": "2026-11-24T22:32:36.000Z",
+          "wordCount": 4948,
+          "title": "How Phishing Attacks Actually Work (And How Developers Can Spot Them)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/cb02608a-4ac9-48f2-8d81-5c5684ab9892.png"
+        },
+        {
+          "id": "6b05b3498a6cb0ff981c0f3f",
+          "author": "Beau Carnes",
+          "description": "The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o",
+          "link": "https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/",
+          "publishedOn": "2026-11-24T15:54:49.000Z",
+          "wordCount": 1588,
+          "title": "Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam",
+          "imageUrl": "https://i.ytimg.com/vi/rCx4SCd4N-s/maxresdefault.jpg"
+        },
+        {
+          "id": "6b04590fe116d564954b31ad",
+          "author": "Rajdeep Singh",
+          "description": "GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/",
+          "publishedOn": "2026-11-23T15:17:35.000Z",
+          "wordCount": 3263,
+          "title": "How to Use the GitHub CLI with GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4765e26b-1a6a-4ad7-9030-ac357eea5432.png"
+        },
+        {
+          "id": "6b04581bc6f7393e301ba3cd",
+          "author": "Chidiebere Njoku",
+          "description": "Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl",
+          "link": "https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/",
+          "publishedOn": "2026-11-23T15:13:31.000Z",
+          "wordCount": 4006,
+          "title": "How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b9dbd57-7ff7-497d-9b6c-7c5810f2ec81.png"
+        },
+        {
+          "id": "6b0457f1f1e50f6d0a06ec3f",
+          "author": "Manish Shivanandhan",
+          "description": "Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An",
+          "link": "https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/",
+          "publishedOn": "2026-11-23T15:12:49.000Z",
+          "wordCount": 2407,
+          "title": "AI Network Firewalls for Enterprise Security Architecture",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/a1dcbb09-9eb5-4c61-99c3-3da86dd82dea.png"
+        },
+        {
+          "id": "6b009404336f5868385eb26f",
+          "author": "Chosen Vincent",
+          "description": "When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou",
+          "link": "https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/",
+          "publishedOn": "2026-11-20T18:40:04.000Z",
+          "wordCount": 5874,
+          "title": "How to Write an API Migration Guide (With a Real Example)",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/47f2ef1a-31ff-4032-9f99-f98e293f7d92.png"
+        },
+        {
+          "id": "6aff718ab7bbd995ee693880",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/",
+          "publishedOn": "2026-11-19T22:00:42.000Z",
+          "wordCount": 5000,
+          "title": "How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/17f495db-a70b-427b-a69d-4b200d573081.png"
+        },
+        {
+          "id": "6aff37e26fa61df077387de3",
+          "author": "Bala Priya C",
+          "description": "Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/",
+          "publishedOn": "2026-11-19T17:54:42.000Z",
+          "wordCount": 2968,
+          "title": "How to Scrape Websites in Python with Olostep",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1f48704-57ee-42f1-8687-766ff3abb630.png"
+        },
+        {
+          "id": "6aff2ffbede28e00513a0715",
+          "author": "Bhavin Sheth",
+          "description": "Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f",
+          "link": "https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/",
+          "publishedOn": "2026-11-19T17:20:58.000Z",
+          "wordCount": 8036,
+          "title": "How to Build a Browser-Based PDF Password Protector Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3ad5640f-31b1-412d-a20c-d1180ae363f2.png"
+        },
+        {
+          "id": "6afdc8c04e123f818c6a048e",
+          "author": "Beau Carnes",
+          "description": "Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/",
+          "publishedOn": "2026-11-18T15:48:16.000Z",
+          "wordCount": 1662,
+          "title": "Learn Data Structures and Algorithms in Python with Visualizations",
+          "imageUrl": "https://i.ytimg.com/vi/ybe6EGe_wjo/maxresdefault.jpg"
+        },
+        {
+          "id": "6afba1044c9d975934925ee6",
+          "author": "Samuel Tosin",
+          "description": "Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses",
+          "link": "https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/",
+          "publishedOn": "2026-11-17T00:34:12.000Z",
+          "wordCount": 7958,
+          "title": "How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/2573405d-995c-4738-862d-0fadc243446c.png"
+        },
+        {
+          "id": "6afb9d63e1e477f325473f68",
+          "author": "David Aniebo",
+          "description": "Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/",
+          "publishedOn": "2026-11-17T00:18:42.000Z",
+          "wordCount": 8170,
+          "title": "How to Build a Translator with Chrome’s Built-In AI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/1d251ce9-4e88-476b-9a54-0face0578c19.png"
+        },
+        {
+          "id": "6af88630044134836d5c4f7d",
+          "author": "Beau Carnes",
+          "description": "GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and",
+          "link": "https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/",
+          "publishedOn": "2026-11-14T16:02:56.000Z",
+          "wordCount": 1661,
+          "title": "Build and Train a GLM-5.3-Flash Model From Scratch with Python",
+          "imageUrl": "https://i.ytimg.com/vi/-gfgQfw2g_E/maxresdefault.jpg"
+        },
+        {
+          "id": "6af7069e2028f50f83240511",
+          "author": "Manish Shivanandhan",
+          "description": "Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in",
+          "link": "https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/",
+          "publishedOn": "2026-11-13T12:46:22.000Z",
+          "wordCount": 3253,
+          "title": "How to Speed Up CI in the Age of AI-Written Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/d1609f3b-9a5c-402f-b04d-30349dd2e10e.png"
+        },
+        {
+          "id": "6af6f326f94aa3564f351d31",
+          "author": "Yemi Ojedapo",
+          "description": "When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c",
+          "link": "https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/",
+          "publishedOn": "2026-11-13T11:23:18.000Z",
+          "wordCount": 6311,
+          "title": "Schema Drift vs. Semantic Drift in Data Pipelines",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ae47b7ae-2c13-49b9-bad7-a20a28edbecb.png"
+        },
+        {
+          "id": "6af6ea1b6758a8ccb76659d6",
+          "author": "Bhavin Sheth",
+          "description": "Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a",
+          "link": "https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/",
+          "publishedOn": "2026-11-13T10:44:43.000Z",
+          "wordCount": 9808,
+          "title": "How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/eb2e1525-11db-47ef-a27c-b0672184efe8.png"
+        },
+        {
+          "id": "6af33ff6e6a1d476dd025c20",
+          "author": "Beau Carnes",
+          "description": "AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi",
+          "link": "https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/",
+          "publishedOn": "2026-11-10T16:01:58.000Z",
+          "wordCount": 1693,
+          "title": "Learn Agentic Coding with Codex & AI Coding Agents",
+          "imageUrl": "https://i.ytimg.com/vi/ajfQWhGQGLE/maxresdefault.jpg"
+        },
+        {
+          "id": "6af31a20042fa071f004461c",
+          "author": "Reetain Raina",
+          "description": "Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr",
+          "link": "https://www.freecodecamp.org/news/how-file-transfer-services-work/",
+          "publishedOn": "2026-11-10T13:20:32.000Z",
+          "wordCount": 5200,
+          "title": "What Happens When You Upload a Large File & Generate a Temporary Download Link",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5fc16e412cae9c5b190b6cdd/5ab5b73d-ffb5-4c71-91b7-648b69bb79b7.png"
+        },
+        {
+          "id": "6aee2d6e123f77519047915d",
+          "author": "Bhavin Sheth",
+          "description": "PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so",
+          "link": "https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/",
+          "publishedOn": "2026-11-06T19:41:34.000Z",
+          "wordCount": 14368,
+          "title": "How to Build a PDF Storyboard Generator Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8109e42-db7b-4690-9d2b-2be82ab57943.png"
+        },
+        {
+          "id": "6aedfb097070ca4b7e00e608",
+          "author": "Beau Carnes",
+          "description": "A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho",
+          "link": "https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/",
+          "publishedOn": "2026-11-06T16:06:33.000Z",
+          "wordCount": 1675,
+          "title": "Godot 4 Roguelike Course – Build a Complete Top-Down Action Game",
+          "imageUrl": "https://cdn.hashnode.com/uploads/gql/5f68e7df6dfc523d0a894e7c/1bca1e16-d488-4afc-bc2f-ede5902092c4.jpg"
+        },
+        {
+          "id": "6aecb9efa7a2ab6fb8e3fe94",
+          "author": "Ajay Patel",
+          "description": "If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha",
+          "link": "https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/",
+          "publishedOn": "2026-11-05T17:16:30.000Z",
+          "wordCount": 13742,
+          "title": "How to Use shadcn/ui in React Native Applications [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/ddea2027-27b4-407e-83a5-d84bfd295627.png"
+        },
+        {
+          "id": "6aeba47df91e889efe09a17a",
+          "author": "Reetain Raina",
+          "description": "CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r",
+          "link": "https://www.freecodecamp.org/news/captcha-farm-attack/",
+          "publishedOn": "2026-11-04T21:32:45.000Z",
+          "wordCount": 3831,
+          "title": "What a CAPTCHA Farm Attack Actually Looks Like",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/392975d9-8fb2-4311-bbd9-8ec42af322ef.png"
+        },
+        {
+          "id": "6aeb864c3b9bd5f8621e17c4",
+          "author": "Quincy Larson",
+          "description": "freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool",
+          "link": "https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/",
+          "publishedOn": "2026-11-04T19:23:56.000Z",
+          "wordCount": 1739,
+          "title": "Introducing Socrates and the New freeCodeCamp Forum",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6b482fb0-6ce1-4cd9-8241-e83e65c390f8.png"
+        },
+        {
+          "id": "6aea2f4db1deb69c0283692a",
+          "author": "Saar Twito",
+          "description": "Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan",
+          "link": "https://www.freecodecamp.org/news/fix-common-technical-seo-issues/",
+          "publishedOn": "2026-11-03T19:00:29.000Z",
+          "wordCount": 7201,
+          "title": "How to Find and Fix Common Technical SEO Issues on Your Website",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/8d158690-136a-44a2-aa34-e24be77e004c.png"
+        },
+        {
+          "id": "6aea2aaffbe759481e70cb16",
+          "author": "jabo Landry",
+          "description": "If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/",
+          "publishedOn": "2026-11-03T18:40:47.000Z",
+          "wordCount": 5029,
+          "title": "How to Automate Docker Image Creation for Postgres Using Shell Commands",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/60aa4c00-42d7-4e36-84b4-89f55b140dca.png"
+        },
+        {
+          "id": "6aea10a0338bcff0a27d3b67",
+          "author": "Reetain Raina",
+          "description": "Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join",
+          "link": "https://www.freecodecamp.org/news/freelance-developer-design-studios/",
+          "publishedOn": "2026-11-03T16:49:36.000Z",
+          "wordCount": 4271,
+          "title": "How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4192997d-6653-4cd6-a51f-22c379b2565c.png"
+        }
+      ],
+      "group": "默认",
+      "maxArticles": null
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)",
+          "link": "https://smashingmagazine.com/2026/11/online-smashingconf-ai-2027/",
+          "publishedOn": "2026-11-17T12:00:00.000Z",
+          "wordCount": 4651,
+          "title": "Meet AI 2027 Conference (Dec 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-conf/ai-conf-powered-by.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "author": "hello@smashingmagazine.com (Andrew Chung)",
+          "description": "AI has sped up how teams design and build, but quality assurance (QA) testing hasn’t kept pace, and the web may be getting less accessible. Drawing on new research, Andrew Chung explains what separates the teams whose accessibility efforts are keeping up, and how to embed human judgment into AI-enabled workflows without slowing delivery.",
+          "link": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+          "publishedOn": "2026-11-17T08:00:00.000Z",
+          "wordCount": 4437,
+          "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-sped-up-build-how-can-accessibility-testing-keep-up/ai-sped-up-build-how-can-accessibility-testing-keep-up.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.",
+          "link": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+          "publishedOn": "2026-11-12T10:00:00.000Z",
+          "wordCount": 6056,
+          "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/should-you-add-au-audit-product-teams/should-you-add-ai-audit-product-teams.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "We’ve been working on something new! We’ve teamed up for a **new small community** for people doing UX-inside organizations — with weekly calls and a shared library of the business cases, templates, and research plans that have actually worked for other folks. [Jump to details](https://uxinsiders.boagworld.com/).",
+          "link": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+          "publishedOn": "2026-11-06T08:00:00.000Z",
+          "wordCount": 3433,
+          "title": "A New Community For In-House UX People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-insiders-community-in-house-ux-people/ux-insiders-community-in-house-ux-people.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "As LLM chat patterns become more widespread, making them accessible is essential to ensuring everyone can access the information, tools, and opportunities they offer. Drawing on his work improving these interfaces, Eric Bailey shares practical ways to make chat-based experiences on the web more accessible and usable for people who rely on assistive technology.",
+          "link": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+          "publishedOn": "2026-11-05T13:00:00.000Z",
+          "wordCount": 6887,
+          "title": "Making Immersive LLM Chat Experiences More Accessible",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/making-immersive-llm-chat-experiences-more-accessible/making-immersive-llm-chat-experiences-more-accessible.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
+          "description": "Replacing JavaScript with a modern CSS feature can simplify a piece of code while making the wider application harder to reason about. Gabriel Shoyombo explores what happens when logic is split between CSS and JavaScript, sharing practical guidance to help you keep complexity in check during migration.",
+          "link": "https://smashingmagazine.com/2026/11/modern-css-might-make-your-front-end-more-complex/",
+          "publishedOn": "2026-11-03T10:00:00.000Z",
+          "wordCount": 6991,
+          "title": "Modern CSS Might Make Your Front-End More Complex",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-might-make-your-front-end-more-complex/modern-css-might-make-your-front-end-more-complex.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick of November with a new collection of desktop wallpapers! Designed by creatives from across the globe, the wallpapers come in a variety of screen resolutions and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2026/10/desktop-wallpaper-calendars-november-2026/",
+          "publishedOn": "2026-10-31T08:00:00.000Z",
+          "wordCount": 4537,
+          "title": "A Spark Of Color In November’s Gray (2026 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        }
+      ],
+      "group": null,
+      "maxArticles": null
+    },
+    {
       "title": "programming",
       "feedUrl": "https://www.reddit.com/r/programming.rss",
       "siteUrl": "https://www.reddit.com/r/programming",
@@ -6064,6 +6163,36 @@
       "feedUrl": "https://rsshub.rssforever.com/infoq/recommend",
       "siteUrl": "https://www.infoq.cn",
       "articles": [
+        {
+          "id": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6",
+          "author": "褚杏娟",
+          "description": "Anthropic创纪录的IPO热度，开始迅速消退。\n\n当地时间11月24日，Anthropic股价下跌12.6%，收于76.60美元，跌破83美元的IPO发行价。距离11月19日上市仅过去几个交易日，其股价已经较首日111.50美元的开盘价下跌约31%。\n\n\n\n与此同时，公司内部也出现了值得关注的人事变化。此前离职的Claude Code开发工程师Thariq Shihipar、Claude Code桌面版创建者Anthony Morris，被爆加入了OpenAI。11月26日，Thariq Shihipar 正式官宣加入OpenAI。而此前负责Claude Code产品的Cat Wu已经确认加入OpenAI。\n\n\n\n“真的假的！这哥们离开 Anthropic 后，玩了几个星期《魔兽世界》，估计还痛痛快快地玩了玩《GTA 6》，然后就加入了 OpenAI。”此前有网友对该消息表示很惊讶，并表示，“现在OpenAI 已经招揽了两位 Anthropic 的前核心员工：Claude Code 桌面版的创建者 Anthony Morris以及 Anthropic 前员工 Tibo（注：其实指的是Thariq，不是 OpenAI 的 Tibo）。这两个人的加入，对 Codex 的能力提升来说，潜力简直不可估量。相信很快就能看到明显的改进。”\n\n官宣前，不少网友已经开始为OpenAI“开香槟”了。\n\n\n\n\n\nClaude Code 是在Anthropic 的重要收入增长引擎，也是Anthropic与OpenAI争夺企业AI市场的关键抓手。如今，帮助它从内部工具成长为商业产品的核心成员接连离开，OpenAI吸纳了其中的产品负责人，或许对两者在AI编程市场的竞争带来新变化。\n\n有人打趣曾经手握 Codex “重置按钮”的Tibo，“你才是收集无限宝石的人。”\n\n\n\n今天，Tibo本人还亲…",
+          "link": "https://www.infoq.cn/article/z9IwzAY8hP15oDa2VKi6",
+          "publishedOn": "2026-11-26T07:35:51.000Z",
+          "wordCount": 4367,
+          "title": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
+          "imageUrl": "https://static001.infoq.cn/resource/image/49/8a/49a7c85b4a28215fc7522c0398d5c78a.png"
+        },
+        {
+          "id": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6",
+          "author": "Siddharth Dwivedi",
+          "description": "如何让 AI 投入转化为实实在在的营收增长？点击下载\"《GTM 领导者 AI 转型蓝图》白皮书，洞悉 Snowflake 一线转型实践与经过验证的方法论，重塑企业营销与销售引擎！\n\n随着 Snowflake CoCo\" 的最新更新，团队现在可以将复杂任务交给自主运行的云端智能体（Cloud Agents）\"，即使用户暂时离开，智能体也能持续工作。每个会话都基于企业受治理的数据、工作规范和工具运行，并遵循现有的管控机制。无论身处何地，团队都可以跨工作流、跨设备管理和引导任务的执行。数据团队能够在原有可信治理体系下，高效完成更多工作。\n\n将工作交给自主运行的云端智能体\n\n\n即使你暂时离开，工作也无需停止。\n\n云端智能体是 Snowsight 界面中支撑 CoCo 运行的、由 Snowflake 托管的运行时环境。它们在安全沙箱中执行代码，现在还能够自主运行长时间会话。CoCo 模式（CoCo mode） 是 Snowsight 中专为此类工作打造的全屏交互体验。子智能体（Subagents）协助处理多步骤任务，实时预览功能让用户在应用或报告构建过程中即可查看效果，原生 Git 集成则支持 CoCo 在代码仓库中执行克隆、创建分支、提交和推送等操作，并发起 Pull Request（PR），供团队审查。\n\n\n\n将周期性任务交给智能体自主执行\n\n\n自动化（Automations） 功能让 CoCo 能够在 Snowflake 内部自主执行周期性任务。只需向 CoCo 交代一次任务（例如：“检查昨晚执行失败的任务，找出每个任务失败的根本原因，并总结需要修复的问题”），它便可以在 Snowflake 内部按照预设计划自主运行，也可以由事件或 Webhook 触发。CoCo 会深入分析数据、调用相应的技能（Skills）、使用 MCP 连接，完成任务并反馈结果。每项自动化任务均以创建者的…",
+          "link": "https://www.infoq.cn/article/vfmBDlfQRRfHq4Jyi5b6",
+          "publishedOn": "2026-11-26T06:56:46.000Z",
+          "wordCount": 4083,
+          "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
+          "imageUrl": "https://static001.infoq.cn/resource/image/34/69/34b03dc736f810326099aefaed472169.jpeg"
+        },
+        {
+          "id": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb",
+          "author": "Arun Agarwal",
+          "description": "如何让 AI 投入转化为实实在在的营收增长？点击下载\"《GTM 领导者 AI 转型蓝图》白皮书，洞悉 Snowflake 一线转型实践与经过验证的方法论，重塑企业营销与销售引擎！\n\n\n在 Snowflake Expedition 2026 大会上，我们宣布推出 Snowflake CoWork 的两项新功能： Profiles 与 Dashboards。二者结合 Automations 的能力，能够帮助业务团队从一份共享报表，落地为可闭环、可重复执行的业务作业。用户无需手动选择智能体，也无需将数据迁移至其他工具来开展商业智能分析。\n\n下面我们来看销售运营负责人周一早晨的实际使用场景：\n\n在登录系统之前，周一定时执行的 Automation 已完成上周销售管线复盘，提前识别并标记出某一区域的业绩下滑。据此，她打开分析师共享的区域级  Dashboard，核实到多项异常业务趋势，并针对 EMEA 区域签约额下滑问题向 CoWork 发起查询。经由 Profile 自动路由，请求流转至销售智能体开展分析，最终确认两笔大额交易被顺延至下一季度。拿到分析结果后，她指示 CoWork 依据已保存的个人格式偏好，生成一份用于内部例会的简短 PowerPoint 演示文稿并分享给团队。为省去重复配置的工作，她将本次完整分析链路保存为一项技能，方便下周直接调用。\n\n全部操作步骤均基于该用户自身权限，依托 Snowflake 内受管控的数据完成。\n\n以上所有能力都构建在专属工作智能体之上：该智能体能够理解企业业务语境，支持跨多类外部工具协同作业，所有业务操作均严格运行在企业已建立的可信管控体系之下。其中，自动化能力负责按预设调度执行周期性任务；而记忆、技能、连接器、代码执行与文档生成等配套能力，则进一步把单纯的问答洞察，转化为可直接落地、可供团队共享的完整业务产出。\n\nProfiles：面向各…",
+          "link": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb",
+          "publishedOn": "2026-11-26T06:45:20.000Z",
+          "wordCount": 4094,
+          "title": "Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势",
+          "imageUrl": "https://static001.infoq.cn/resource/image/93/da/93cccee86150cb0bbfe8b4e92f008dda.jpeg"
+        },
         {
           "id": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY",
           "author": "Sergio De Simone",
